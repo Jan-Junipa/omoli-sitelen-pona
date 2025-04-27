@@ -1,0 +1,501 @@
+# -----------------------------------------------
+# - TOKI PONA
+# -----------------------------------------------
+# choices for "wile ala wile" type questions
+choice_wile:
+  parsed: true
+  sitelenLasina: wile
+  originalText: wile
+  text: ㉷
+choice_wile_ala:
+  parsed: true
+  sitelenLasina: wile ala
+  originalText: wile ala
+  text: ㉷㈂
+
+choice_sona:
+  parsed: true
+  sitelenLasina: sona
+  originalText: sona
+  text: ㉡
+
+choice_sona_ala:
+  parsed: true
+  sitelenLasina: sona ala
+  originalText: sona ala
+  text: ㉡㈂
+
+choice_ken:
+  text: ㈘
+  sitelenLasina: ken
+  originalText: ken
+  parsed: true
+
+choice_ken_ala:
+  text: ㈘㈂
+  sitelenLasina: ken ala
+  originalText: ken ala
+  parsed: true
+
+message_end_of_demo1:
+  parsed: true
+  originalText: "This is the of the toki pona translation. You will be taken back to the title screen:"
+  sitelenLasina: toki ante pi musi /*OMORI*/ li pini lon tenpo ni _ ni la musi li open sin
+  text: ㉬㈆㉍㈻OMORI㈧㉐㈬㉫㉁ㇱ㉁㈡㈻㈧㉇㉝
+
+# -----------------------------------------------
+# - FOUND CONSUMABLE
+# -----------------------------------------------
+message_0:
+  parsed: true
+  originalText: You got \v[49]!
+  sitelenLasina: sina kama jo e /*\v[49]*/
+  text: ㉞㈖㈓㈉\v[49]
+
+# -----------------------------------------------
+# - FOUND TOYS
+# -----------------------------------------------
+message_1:
+  parsed: true
+  #text: You got \v[49]!
+  sitelenLasina: sina kama jo e /*\v[49]*/
+  text: a
+
+# -----------------------------------------------
+# - FOUND PRESENT
+# -----------------------------------------------
+message_2:
+  parsed: true
+  #text: It's a \v[49]!\! Do you want to take it?
+  sitelenLasina: /*\v[49]*/ _ sina wile ala wile kama jo e ona
+  text: a
+
+# -----------------------------------------------
+# - JOINS YOUR PARTY
+# -----------------------------------------------
+message_3:
+  text: \v[49] joined your party!
+
+# -----------------------------------------------
+# - YES/NO
+# -----------------------------------------------
+message_4:
+  text: ㈬
+  sitelenLasina: lon
+  originalText: YES
+  parsed: true
+message_5:
+  text: ㈂
+  sitelenLasina: ala
+  originalText: NO
+  parsed: true
+
+# -----------------------------------------------
+# - X LEFT THE PARTY
+# -----------------------------------------------
+message_6:
+  text: \v[49] left the party.
+
+# -----------------------------------------------
+# - BLACKLETTER
+# -----------------------------------------------
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: Wait, \n[1]! There's a LETTER on the ground over there. We should check it out first. \her
+
+# -----------------------------------------------
+# - GO OUTSIDE / CLOSE DOOR
+# -----------------------------------------------
+message_8:
+  text: ㉄㉇㈉㈯
+  sitelenLasina: o open e lupa
+  originalText: OPEN THE DOOR
+  parsed: true
+message_9:
+  text: ㉄㉉㈂
+  sitelenLasina: o pali ala
+  originalText: DO NOTHING
+  parsed: true
+
+# -----------------------------------------------
+# - NOD / SHAKE
+# -----------------------------------------------
+message_10:
+  text: ㈬
+  sitelenLasina: lon
+  originalText: YES
+  parsed: true
+message_11:
+  text: ㈂
+  sitelenLasina: ala
+  originalText: NO
+  parsed: true
+
+# -----------------------------------------------
+# - FOUND ITEM
+# -----------------------------------------------
+message_12:
+  parsed: true
+  #text: You got \itemget.
+  sitelenLasina: sina kama jo e /*\itemget.*/
+  text: a
+
+message_612:
+  parsed: true
+  #text: You got a \itemget.
+  sitelenLasina: sina kama jo e /*\itemget.*/
+  text: a
+
+message_613:
+  parsed: true
+  #text: You got an \itemget.
+  sitelenLasina: sina kama jo e /*\itemget.*/
+  text: a
+
+message_610:
+  text: The RECYCLING machine dispensed \c[13]\itemget\c[0].
+
+message_611:
+  text: The RECYCLING machine dispensed a \c[13]\itemget\c[0].
+
+# -----------------------------------------------
+# - AUBREY GOLD
+# -----------------------------------------------
+message_13:
+  text: You got \v[249] CLAMS!
+
+# -----------------------------------------------
+# - SWEETHEART DUNGEON: GUEST LIST
+# -----------------------------------------------
+message_30:
+  text: Ask this person to leave?
+
+# -----------------------------------------------
+# - SHOP DEFAULTS
+# -----------------------------------------------
+
+message_40:
+  text: ㈋㈓
+  sitelenLasina: esun jo
+  originalText: BUY
+  parsed: true
+
+message_41:
+  text: ㈋㉌
+  sitelenLasina: esun pana
+  originalText: SELL
+  parsed: true
+
+message_42:
+  text: ㉶
+  sitelenLasina: weka
+  originalText: LEAVE
+  parsed: true
+
+#data.texts.maxItemMessage
+message_50:
+  text: maxItemMessage
+
+#data.texts.notEnoughMoneyMessage
+message_51:
+  text: notEnoughMoneyMessage
+
+#data.texts.onItemListBuyOkMessage
+message_52:
+  text: onItemListBuyOkMessage
+
+#data.texts.onItemListSellOkMessage
+message_53:
+  text: onItemListSellOkMessage
+
+#data.texts.itemBuyingPromptMessage
+message_54:
+  text: itemBuyingPromptMessage
+
+#data.texts.itemSellingPromptMessage
+message_55:
+  text: itemSellingPromptMessage
+
+#data.texts.itemBuyingConfirmationMessage
+message_56:
+  text: itemBuyingConfirmationMessage
+
+#data.texts.itemSellingConfirmationMessage
+message_57:
+  text: itemSellingConfirmationMessage
+
+#data.texts.itemBuyingCancelMessage
+message_58:
+  text: itemBuyingCancelMessage
+
+#data.texts.itemSellingCancelMessage
+message_59:
+  text: itemSellingCancelMessage
+
+# -----------------------------------------------
+# - DREAMWORLD SHOP DEFAULTS
+# -----------------------------------------------
+
+#data.texts.maxItemMessage
+message_60:
+  text: DW maxItemMessage
+
+#data.texts.notEnoughMoneyMessage
+message_61:
+  text: DW notEnoughMoneyMessage
+
+#data.texts.onItemListBuyOkMessage
+message_62:
+  text: DW onItemListBuyOkMessage
+
+#data.texts.onItemListSellOkMessage
+message_63:
+  text: DW onItemListSellOkMessage
+
+#data.texts.itemBuyingPromptMessage
+message_64:
+  text: DW itemBuyingPromptMessage
+
+#data.texts.itemSellingPromptMessage
+message_65:
+  text: DW itemSellingPromptMessage
+
+#data.texts.itemBuyingConfirmationMessage
+message_66:
+  text: DW itemBuyingConfirmationMessage
+
+#data.texts.itemSellingConfirmationMessage
+message_67:
+  text: DW itemSellingConfirmationMessage
+
+#data.texts.itemBuyingCancelMessage
+message_68:
+  text: DW itemBuyingCancelMessage
+
+#data.texts.itemSellingCancelMessage
+message_69:
+  text: DW itemSellingCancelMessage
+
+# -----------------------------------------------
+# - BATTLE SYSTEM LOG MESSAGES
+# -----------------------------------------------
+
+message_100:
+  parsed: true
+  originalText: What will %1 and friends do?
+  sitelenLasina: /*%1*/ en jan ona li seme
+  text: "%1㈊㈑㉆㈧㉙"
+
+message_101:
+  parsed: true
+  originalText: What will \n[8] do?
+  sitelenLasina: /*\n[8]*/ li seme
+  text: \n[8]㈧㉙
+
+message_102:
+  parsed: true
+  originalText: What will %1 and %2 do?
+  sitelenLasina: /*%1*/ en /*%2*/ li seme
+  text: "%1㈊%2㈧㉙"
+
+message_103:
+  parsed: true
+  originalText: What will \n[8] and friends do?
+  sitelenLasina: /*\n[8]*/ li seme
+  text: \n[8]㈧㉙
+
+message_104:
+  parsed: true
+  originalText: What will %1 do?
+  sitelenLasina: /*%1*/ li seme
+  text: "%1㈧㉙"
+
+message_105:
+  parsed: true
+  originalText: Use on whom?
+  sitelenLasina: o kepeken tawa jan seme
+  text: ㉄㈙㉩㈑㉙
+
+message_106:
+  parsed: true
+  originalText: Press \DII[shift] to switch sides.
+  sitelenLasina: kepeken /*\DII[shift]*/ la poka utala li ante
+  text: ㈙\DII[shift]㈡㉒㉱㈧㈆
+
+message_107:
+  text: PLACEHOLDER TEXT ALT SOMETHING OMORI FIGHT
+
+# -----------------------------------------------
+# - FEARS DIALOGUE
+# -----------------------------------------------
+message_200:
+  text: ㈰㉚㈧㉽㉩㉞
+  sitelenLasina: ma sewi li monsuta tawa sina
+  originalText: You are afraid of heights.
+  parsed: true
+
+message_201:
+  text: ㉑㑒㉉㈩㈧㉽㉩㉞
+  sitelenLasina: pipi pi[pali linja] li monsuta tawa sina
+  originalText: You are afraid of spiders.
+  parsed: true
+
+message_202:
+  text: ㈷㉪㑒㈝㈂㈧㉽㉩㉞
+  sitelenLasina: moli telo pi[kon ala] li monsuta tawa sina
+  originalText: You are afraid of drowning.
+  parsed: true
+
+message_210:
+  text: You look ahead and hold your knife steady.
+
+message_220:
+  text: You gaze into the water and feel calm.\! The waves look gentle and inviting.
+
+# -----------------------------------------------
+# - FLAG CHECKERS
+# -----------------------------------------------
+message_300:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her\Com[2]Hold up, OMORI! We can explore later, but first we need to check on BASIL!
+
+# -----------------------------------------------
+# - Can't leave house
+# -----------------------------------------------
+message_301:
+  text: You can't go out right now.
+
+# -----------------------------------------------
+# - Break Time
+# -----------------------------------------------
+
+message_399:
+  text: Do you want to hang out with your friends?
+
+message_400:
+  text: ㉞㉷㈂㉷㈻㈪㈬㉒㑒㈑㉔
+  sitelenLasina: sina wile ala wile musi lipu lon poka pi[jan pona]
+  originalText: Do you want to play cards with your friends?
+  parsed: true
+
+message_401:
+  text: ㉞㉷㈂㉷㉉㈉㈜㉭㈬㉒㑒㈑㉔
+  sitelenLasina: sina wile ala wile pali e ko tomo lon poka pi[jan pona]
+  originalText: Do you want to build sand castles with your friends?
+  parsed: true
+
+message_402:
+  text: Do you want to fly kites with your friends?
+
+message_403:
+  text: Do you want to go fishing with your friends?
+
+message_404:
+  text: Do you want to sit here with your friends?
+
+#frozen forest
+message_405:
+  text: Do you want to cozy up with your friends?
+
+message_406:
+  text: Do you want to watch a movie with your friends?
+
+message_407:
+  text: Do you want to have tea with your friends?
+
+message_408:
+  text: Do you want to dine in with your friends?
+
+message_409:
+  text: Do you want to play in a ball pit with your friends?
+
+message_410:
+  text: Do you want to exercise with your friends?
+
+message_411:
+  text: Do you want to lounge with your friends?
+
+message_412:
+  text: Do you want to read comics with your friends?
+
+message_420:
+  text: ㉞㉷㈂㉷㈻㑒㈥㈅㈬㉒㑒㈑㉔
+  sitelenLasina: sina wile ala wile musi pi[len anpa] lon poka pi[jan pona]
+  originalText: Do you want to have a picnic with your friends?
+  parsed: true
+
+#====
+#FA DOORS
+
+message_430:
+  text: Knock, knock...
+
+message_431:
+  text: There's no response.
+
+message_432:
+  text: ...\! The door is locked.
+
+#==
+
+message_500:
+  text: You now have access to the \c[4]HANGMAN MENU\c[0].
+
+message_501:
+  text: You got the \c[4]HEADSPACE MAP\c[0].
+
+#==
+
+message_510:
+  text: The gate won't budge.
+
+#===
+
+message_600:
+  text: Your bond with your friends became stronger.\!<br>Everyone's FOLLOW-UP moves improved!
+
+#===
+
+message_644:
+  text: 12 KEYS left...
+
+message_645:
+  text: 11 KEYS left...
+
+message_646:
+  text: 10 KEYS left...
+
+message_647:
+  text: 9 KEYS left...
+
+message_648:
+  text: 8 KEYS left...
+
+message_649:
+  text: 7 KEYS left...
+
+message_650:
+  text: 6 KEYS left...
+
+message_651:
+  text: 5 KEYS left...
+
+message_652:
+  text: \fn<OMORI_GAME>4 KEYS left...
+
+message_653:
+  text: \fn<OMORI_GAME>3 KEYS left...
+
+message_654:
+  text: \fn<OMORI_GAME>2 KEYS left...
+
+#message_655:
+#    text: UNUSED
+
+message_656:
+  text: \fn<OMORI_GAME>1 KEY left...
+
+message_657:
+  text: \fn<OMORI_GAME>0 KEYS left...

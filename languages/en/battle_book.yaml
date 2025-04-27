@@ -1,0 +1,690 @@
+# =========================================================================================
+# ** TEMPLATE DIALOGUE
+# =========================================================================================
+
+message_0:
+  text: ㉡㉱㈄㈧㈬㈪㉁ㇱ㈴ ㊋㈑㐢㉵㊊㐓㈀㊌㈧㉠㈉㉆<br>㉞㉷㈉㉡㉙
+  sitelenLasina: sona utala ale li lon lipu ni _ mi /* */ te jan[wawa :] a to li sitelen e ona /*<br>*/ sina wile e sona seme
+  originalText: A SELF-HELP book all about battles, written by yours truly (HERO)!\! What would you like help with?
+  parsed: true
+
+message_1:
+  text: ㈽㉱
+  sitelenLasina: nanpa utala
+  originalText: STATS
+  parsed: true
+
+message_2:
+  text: ㉎
+  sitelenLasina: pilin
+  originalText: EMOTIONS
+  parsed: true
+
+message_3:
+  text: ㉱㈟
+  sitelenLasina: utala kulupu
+  originalText: FOLLOW-UP
+  parsed: true
+
+message_100:
+  text: ㈘㉡
+  sitelenLasina: ken sona
+  originalText: SKILLS
+  parsed: true
+
+message_101:
+  text: ㈎㉱
+  sitelenLasina: ilo utala
+  originalText: EQUIPS
+  parsed: true
+
+message_102:
+  text: ㈎㈻
+  sitelenLasina: ilo musi
+  originalText: TOYS
+  parsed: true
+
+message_103:
+  text: ㈽㉵
+  sitelenLasina: nanpa wawa
+  originalText: LEVELING UP
+  parsed: true
+
+#-----
+#STATS
+
+message_4:
+  text: ㉞㉷㈉㉡㉙㑒㈽㉱
+  sitelenLasina: sina wile e sona seme pi[nanpa utala]
+  originalText: What about STATS would you like to know more about?
+  parsed: true
+
+message_5:
+  text: ㉎
+  sitelenLasina: pilin
+  originalText: HEART
+  parsed: true
+
+message_6:
+  text: ㊋㉎㊌㈧㈽ㇱ㉆㈧㈖ 0㈡㉞㈖㉋㉗㈀\!<br>㉋㉗㈧㈘㈂㉱
+  sitelenLasina: te pilin to li nanpa _ ona li kama /* 0*/ la sina kama pan seli a /*\!<br>*/ pan seli li ken ala utala
+  originalText: HEART shows the amount of damage you can take before you become TOAST.\! Friends who are TOAST can no longer fight in battle!
+  parsed: true
+
+message_7:
+  text: ㉪
+  sitelenLasina: telo
+  originalText: JUICE
+  parsed: true
+
+message_8:
+  text: ㈙㑒㈘㉡㈧㉷㈉㊋㉪㊌ㇱ㈘㉡㈧㈘㈌㈼<br>㈘㉡㈆㈧㉷㈉㉪㈆
+  sitelenLasina: kepeken pi[ken sona] li wile e te telo to _ ken sona li ken ijo mute /*<br>*/ ken sona ante li wile e telo ante
+  originalText: JUICE is needed in order to use \c[1]SKILLS\c[0], which have various effects.\! Different \c[1]SKILLS\c[0] may require different amounts of JUICE.
+  parsed: true
+
+message_9:
+  text: ㉵㉱
+  sitelenLasina: wawa utala
+  originalText: ATTACK
+  parsed: true
+
+message_10:
+  text: ㉵㉱㈧㉣㈡㉱㉞㈧㉈㈼㈉㈌㈍
+  sitelenLasina: wawa utala li suli la utala sina li pakala mute e ijo ike
+  originalText: A higher ATTACK increases the damage dealt to a foe, more or less.
+  parsed: true
+
+message_11:
+  text: ㉵㑒㈈㉛ㇱ
+  sitelenLasina: "wawa pi[awen sijelo] _ "
+  originalText: DEFENSE
+  parsed: true
+
+message_12:
+  text: ㉵㑒㈈㉛㈧㈖㈨㈉㉈㐀ㇱ㉆㈧㉩㉞㉧㈌㈍
+  sitelenLasina: wawa pi[awen sijelo] li kama lili e pakala ni1 _ ona li tawa sina tan ijo ike
+  originalText: A higher DEFENSE reduces the amount of damage taken from a foe... usually...
+  parsed: true
+
+message_13:
+  text: ㉫㉱
+  sitelenLasina: tenpo utala
+  originalText: SPEED
+  parsed: true
+
+message_14:
+  text: ㉫㉱㈧㈆㈉㉫㉉<br>㈌㑓㉫㉱㉣㈧㉉㈙㉫㈨
+  sitelenLasina: tenpo utala li ante e tenpo pali /*<br>*/ ijo pi[tenpo utala suli] li pali kepeken tenpo lili
+  originalText: SPEED determines the order in which friends and foes perform their actions.
+  parsed: true
+
+message_15:
+  text: ㈘㑒㉱㉣
+  sitelenLasina: ken pi[utala suli]
+  originalText: LUCK
+  parsed: true
+
+message_16:
+  text: ㈘㑒㉱㉣㈧㉣㈡㉱㉞㈧㉣㈀㈬㉫㈼
+  sitelenLasina: ken pi[utala suli] li suli la utala sina li suli a lon tenpo mute
+  originalText: LUCK affects CRITICAL HIT rate, which is your chance to deal a more powerful blow to a foe!
+  parsed: true
+
+message_17:
+  text: ㈘㑒㉱㈬
+  sitelenLasina: ken pi[utala lon]
+  originalText: HIT RATE
+  parsed: true
+
+message_18:
+  text: ㈘㑒㉱㈬㈧㈨㈡㉱㉞㈧㉶㈧㉈㈂㈉㈌㈍㈬㉫㈼<br>
+
+    ㉆㈧㉣㈡㉱㉞㈧㈬㈧㉈㈉㈌㈍
+  sitelenLasina: |-
+    ken pi[utala lon] li lili la utala sina li weka li pakala ala e ijo ike lon tenpo mute /*<br>*/
+    ona li suli la utala sina li lon li pakala e ijo ike
+  originalText: HIT RATE affects your chance to hit a foe.\! The lower your hit rate, the more likely you are to whiff attacks.
+  parsed: true
+
+message_19:
+  text: ㉵
+  sitelenLasina: wawa
+  originalText: ENERGY
+  parsed: true
+
+message_20:
+  text: ㈑㉔㈄㈧㈓㈉㊋㉵㊌ㇱ㉱㈟㈧㉷㈉㉵<br>㈑㉔㈧㈖㉈㈡㉵㈧㈖㉣
+  sitelenLasina: jan pona ale li jo e te wawa to _ utala kulupu li wile e wawa /*<br>*/ jan pona li kama pakala la wawa li kama suli
+  originalText: ENERGY is a collective stat shared between all friends and is needed to perform a FOLLOW-UP move.\! To read more about ENERGY, consult the FOLLOW-UP section.
+  parsed: true
+
+#-----
+#EMOTIONS
+
+message_200:
+  text: ㉞㉷㈉㉡㉎㉙
+  sitelenLasina: sina wile e sona pilin seme
+  originalText: What about EMOTIONS would you like to know more about?
+  parsed: true
+
+message_21:
+  text: ㈄
+  sitelenLasina: ale
+  originalText: OVERVIEW
+  parsed: true
+
+message_22:
+  text: ㉎㈧㈘㉵㈉㉱㈧㈘㉵㈂㈉㉱\!ㇱ㉎㉔㈧㉵㉩㉎㉱\!<br>㉎㉱㈧㉵㉩㉎㈍ㇱ㉎㈍㈧㉵㉩㉎㉔<br>㉹㈡㉎㈧㈘㈆㈉㈽㉱
+  sitelenLasina: "pilin li ken wawa e utala li ken wawa ala e utala /*\\!*/ _ pilin pona li wawa tawa pilin utala /*\\!<br>*/ pilin utala li wawa tawa pilin ike _ pilin ike li wawa tawa pilin pona /*<br>*/ kin la pilin li ken ante e nanpa utala "
+  originalText: EMOTIONS can determine how effective an attack is.\! HAPPY beats ANGRY...\! ANGRY beats SAD...\! and SAD beats HAPPY!<br><br>EMOTIONS also affect different STATS for both friends and foes.\! Please refer to the EMOTION CHART in your IMPORTANT POCKET for an easy visual.
+  parsed: true
+
+message_300:
+  text: ㈌㈧㉎㉔㈧㈖㈅㈡㉞㈖㈓㈉㈌㈼㈉㈔㑒㉛㈛㈼\!<br>㈌㈧㉎㉱㈧㈖㈅㈡㈽㉵㉞㈧㈖㉣㈼
+  sitelenLasina: ijo li pilin pona li kama anpa la sina kama jo e ijo mute e kala pi[sijelo kiwen] mute /*\!<br>*/ ijo li pilin utala li kama anpa la nanpa wawa sina li kama suli mute
+  originalText: In addition, the EMOTIONS of defeated foes can grant bonus effects.\! HAPPY foes have a higher item and CLAM drop rate, while ANGRY foes will give out more EXP.<br>Sadly, SAD foes don't have any extra bonuses, but are typically easier to defeat.
+  parsed: true
+
+message_23:
+  text: ㉎㉔
+  sitelenLasina: pilin pona
+  originalText: HAPPY
+  parsed: true
+
+message_24:
+  text: ㈌㈧㉎㉔㈡㈘㉆㑒㉱㉣㈊㉫㉱㉆㈧㉣<br>㉨㈘㉆㑒㉱㈬㈧㈨
+  sitelenLasina: ijo li pilin pona la ken ona pi[utala suli] en tenpo utala ona li suli /*<br>*/ taso ken ona pi[utala lon] li lili
+  originalText: A HAPPY friend/foe will have increased LUCK and SPEED, but a lowered HIT RATE.
+  parsed: true
+
+message_25:
+  text: ㈌㈧㉎㉔㈧㈖㉎㉔㉝㈡㉆㈧㈖㉎㑒㉔㉣
+  sitelenLasina: ijo li pilin pona li kama pilin pona sin la ona li kama pilin pi[pona suli]
+  originalText: When a friend/foe is even more HAPPY, they become ECSTATIC.
+  parsed: true
+
+message_26:
+  text: ㈌㈧㉎㑒㉔㉣㈡㈘㑒㉱㉣㈊㉫㉱㈧㈖㉣㉝<br>㉨㈘㑒㉱㈬㈧㈖㈨㉹
+  sitelenLasina: ijo li pilin pi[pona suli] la ken pi[utala suli] en tenpo utala li kama suli sin /*<br>*/ taso ken pi[utala lon] li kama lili kin
+  originalText: An ECSTATIC friend/foe's LUCK and SPEED are increased even further, but HIT RATE also lowers accordingly.
+  parsed: true
+
+message_27:
+  text: ㉎㈍
+  sitelenLasina: pilin ike
+  originalText: SAD
+  parsed: true
+
+message_28:
+  text: ㈌㈧㉎㈍㈡㉵㉆㑒㈈㉛㈧㉣ㇱ㉨㉫㉱㉆㈧㈨<br>㉆㈧㈖㉈㈡㉈㈨㈧㉩㉪
+  sitelenLasina: ijo li pilin ike la wawa ona pi[awen sijelo] li suli _ taso tenpo utala ona li lili /*<br>*/ ona li kama pakala la pakala lili li tawa telo
+  originalText: A SAD friend/foe will have increased DEFENSE, but decreased SPEED.\! Part of the damage that would be dealt to HEART is dealt to JUICE instead.
+  parsed: true
+
+message_29:
+  text: ㈌㈧㉎㈍㈧㈖㉎㈍㉝㈡㉆㈧㈖㉎㑒㈍㉣
+  sitelenLasina: ijo li pilin ike li kama pilin ike sin la ona li kama pilin pi[ike suli]
+  originalText: When a friend/foe is even more SAD, they become DEPRESSED.
+  parsed: true
+
+message_30:
+  text: ㈌㈧㉎㑒㈍㉣㈡㉵㉆㑒㈈㉛㈧㈖㉣㉝\!<br>㉨㉫㉱㉆㈧㈖㈨㉝<br>㉆㈧㈖㉈㈡㉈㈼㈧㉩㉪
+  sitelenLasina: ijo li pilin pi[ike suli] la wawa ona pi[awen sijelo] li kama suli sin /*\!<br>*/ taso tenpo utala ona li kama lili sin /*<br>*/ ona li kama pakala la pakala mute li tawa telo
+  originalText: A DEPRESSED friend/foe has an even higher DEFENSE and an even lower SPEED.\! Part of the damage that would be dealt to HEART is dealt to JUICE instead.
+  parsed: true
+
+message_31:
+  text: ㉎㉱
+  sitelenLasina: pilin utala
+  originalText: ANGRY
+  parsed: true
+
+message_32:
+  text: ㈌㈧㉎㉱㈡㉵㉱㉆㈧㉣<br>㉨㉵㉆㑒㈈㉛㈧㈨
+  sitelenLasina: ijo li pilin utala la wawa utala ona li suli /*<br>*/ taso wawa ona pi[awen sijelo] li lili
+  originalText: An ANGRY friend/foe will have increased ATTACK, but decreased DEFENSE.
+  parsed: true
+
+message_33:
+  text: ㈌㈧㉎㉱㈧㈖㉎㉱㉝㈡㉆㈧㈖㉎㑒㉱㉣
+  sitelenLasina: ijo li pilin utala li kama pilin utala sin la ona li kama pilin pi[utala suli]
+  originalText: When a friend/foe is even more ANGRY, they become ENRAGED.
+  parsed: true
+
+message_34:
+  text: ㈌㈧㉎㑒㉱㉣㈡㉵㉱㉆㈧㈖㉣㉝<br>㉨㉵㑒㈈㉛㉆㈧㈖㈨㉝㉹
+  sitelenLasina: ijo li pilin pi[utala suli] la wawa utala ona li kama suli sin /*<br>*/ taso wawa pi[awen sijelo] ona li kama lili sin kin
+  originalText: An ENRAGED friend/foe has a much higher ATTACK, but their DEFENSE drops even lower.
+  parsed: true
+
+#==
+#FOLLOW UP
+
+message_201:
+  text: ㉞㉷㈉㉡㉙㑒㉱㈟
+  sitelenLasina: sina wile e sona seme pi[utala kulupu]
+  originalText: What about FOLLOW-UPS would you like to know more about?
+  parsed: true
+
+message_35:
+  text: ㈄
+  sitelenLasina: ale
+  originalText: OVERVIEW
+  parsed: true
+
+message_36:
+  text: ㈑㉔㈧㉱㈡㉆㈧㈘㉱㈟㈬㉫㈨
+  sitelenLasina: jan pona li utala la ona li ken utala kulupu lon tenpo lili
+  originalText: A FOLLOW-UP move is a bonus action that a friend can perform after their normal attack.
+  parsed: true
+
+message_37:
+  text: ㉞㉷㉱㈟㈡㉄㉱㉄㈭㈉㉀㈤㉆
+  sitelenLasina: sina wile utala kulupu la o utala o luka e nena lawa ona
+  originalText: To do a FOLLOW-UP, attack and then press the button corresponding to the FOLLOW-UP move you want to use.
+  parsed: true
+
+message_38:
+  text: ㉵
+  sitelenLasina: wawa
+  originalText: ENERGY
+  parsed: true
+
+message_39:
+  text: ㉵㈧㈽㑓㈑㉔㈄
+  sitelenLasina: wawa li nanpa pi[jan pona ale]
+  originalText: ENERGY is a collective stat shared between friends.
+  parsed: true
+
+message_40:
+  text: ㉱㈟㈧㈙㉵3ㇱ㉨㊋㉄㉌㈉㉵㈄㈀㊌㈧㈙㉵10
+  sitelenLasina: utala kulupu li kepeken wawa /*3*/ _ taso te o pana e wawa ale a to li kepeken wawa /*10*/
+  originalText: Doing a FOLLOW-UP costs 3 ENERGY, except for RELEASE ENERGY which costs 10.
+  parsed: true
+
+message_41:
+  text: ㉞㈓㈉㉵3㈬㉫㑒㉱㉇ㇱ<br>㈌㈍㈧㉱㉈㈉㉞㈡㉞㈖㈓㈉㉵1
+  sitelenLasina: sina jo e wawa /*3*/ lon tenpo pi[utala open] _ /*<br>*/ ijo ike li utala pakala e sina la sina kama jo e wawa /*1*/
+  originalText: Battles start with 3 ENERGY, and 1 ENERGY is gained every time a foe deals damage to a friend.
+  parsed: true
+
+#OMORI FOLLOW UP
+
+message_42:
+  text: ㈑㐥㉇㉽㉄㈢㈏㐓
+  sitelenLasina: jan[open monsuta o lape insa]
+  originalText: OMORI
+  parsed: true
+
+message_43:
+  text: ㉞㉷㉡㈉㉱㈟㉙㉍㈑㐥㉇㉽㉄㈢㈏㐓
+  sitelenLasina: sina wile sona e utala kulupu seme pi jan[open monsuta o lape insa]
+  originalText: Which of OMORI's FOLLOW-UPS would you like to know more about?
+  parsed: true
+
+message_44:
+  text: ㉱㉝
+  sitelenLasina: utala sin
+  originalText: ATTACK AGAIN
+  parsed: true
+
+message_45:
+  text: ㈑㐥㉇㉽㉄㈢㈏㐓㈧㉱㉝
+  sitelenLasina: jan[open monsuta o lape insa] li utala sin
+  originalText: OMORI attacks once more!
+  parsed: true
+
+message_145:
+  text: OMORI attacks once more, with feeling!
+
+message_245:
+  text: OMORI attacks twice more, with feeling!
+
+message_46:
+  text: ㈖㈅
+  sitelenLasina: kama anpa
+  originalText: TRIP
+  parsed: true
+
+message_47:
+  text: ㈑㐥㉇㉽㉄㈢㈏㐓㈧㈖㈅㈉㈌㈍㉩㈙㉃㉆<br>㐁㈧㈖㈨㈉㉫㉱㉆
+  sitelenLasina: jan[open monsuta o lape insa] li kama anpa e ijo ike tawa kepeken noka ona /*<br>*/ ni2 li kama lili e tenpo utala ona
+  originalText: OMORI aims for a low attack and reduces the targeted foe's SPEED.
+  parsed: true
+
+message_147:
+  text: OMORI aims for a low attack, reducing the targeted foe's SPEED and making them SAD.
+
+message_247:
+  text: OMORI aims for a low attack, greatly reducing the targeted foe's SPEED and making them SAD.
+
+message_48:
+  text: ㉄㉌㈉㉵㈄㈀
+  sitelenLasina: o pana e wawa ale a
+  originalText: RELEASE ENERGY
+  parsed: true
+
+message_49:
+  text: ㈑㉔㈄㈧㈟㈧㉱㉵㈀㈧㉈㉣㈉㈌㈍㈄㈀
+  sitelenLasina: jan pona ale li kulupu li utala wawa a li pakala suli e ijo ike ale a
+  originalText: Everyone comes together for the ultimate attack and deals huge damage to all foes!
+  parsed: true
+
+#AUBREY FOLLOW UP
+
+message_250:
+  text: ㈑㐥㉅㉎㉱㈨㈍㐓
+  sitelenLasina: jan[olin pilin utala lili ike]
+  originalText: AUBREY
+  parsed: true
+
+message_50:
+  text: ㉞㉷㉡㈉㉱㈟㉙㉍㈑㐥㉅㉎㉱㈨㈍㐓
+  sitelenLasina: sina wile sona e utala kulupu seme pi jan[olin pilin utala lili ike]
+  originalText: Which of AUBREY's FOLLOW-UPS would you like to know more about?
+  parsed: true
+
+message_51:
+  text: ㉄㈮㈉㈑㐥㉇㉽㉄㈢㈏㐓
+  sitelenLasina: o lukin e jan[open monsuta o lape insa]
+  originalText: LOOK AT OMORI
+  parsed: true
+
+message_52:
+  text: ㈑㐥㉅㉎㉱㈨㈍㐓㈧㈃㐀㈑㐥㉇㉽㉄㈢㈏㐓<br>㉁㈡㉆㈧㉱㉝㉵㉩㈌㈍㉖
+  sitelenLasina: jan[olin pilin utala lili ike] li alasa ni1 jan[open monsuta o lape insa] /*<br>*/ ni la ona li utala sin wawa tawa ijo ike sama
+  originalText: AUBREY tries to get OMORI to notice her, so she makes a strong attack on the same foe!
+  parsed: true
+
+message_152:
+  text: AUBREY tries to get OMORI to notice her, so she makes an extra-strong attack on the same foe!
+
+message_252:
+  text: AUBREY tries to get OMORI to notice her, so she makes an extra-strong attack on the same foe that ignores its DEFENSE!
+
+message_53:
+  text: ㉄㈮㈉㈑㐢㈘㊉㐓
+  sitelenLasina: o lukin e jan[ken ·]
+  originalText: LOOK AT KEL
+  parsed: true
+
+message_54:
+  text: ㈑㐢㈘㊉㐓㈧㉬㈼㉩㈑㐥㉅㉎㉱㈨㈍㐓ㇱ㐂㈧㈖㉎㉱㈉㉆
+  sitelenLasina: jan[ken ·] li toki mute tawa jan[olin pilin utala lili ike] _ ni3 li kama pilin utala e ona
+  originalText: KEL pesters AUBREY and makes her ANGRY.
+  parsed: true
+
+message_154:
+  text: KEL pesters AUBREY, making both of them ANGRY and raising their ATTACK.
+
+message_254:
+  text: KEL pesters AUBREY, making both of them ENRAGED and raising their ATTACK.
+
+message_55:
+  text: ㉄㈮㈉㈑㐢㉵㊊㐓
+  sitelenLasina: o lukin e jan[wawa :]
+  originalText: LOOK AT HERO
+  parsed: true
+
+message_56:
+  text: ㈑㐢㉵㊊㐓㈧㉬㑒㉎㉵㉩㈑㐥㉅㉎㉱㈨㈍㐓<br>㐁㈡㉆㈧㈖㉎㉔ㇱ㉹㈡㉵㉆㑒㈈㉛㈧㈖㉣
+  sitelenLasina: jan[wawa :] li toki pi[pilin wawa] tawa jan[olin pilin utala lili ike] /*<br>*/ ni2 la ona li kama pilin pona _ kin la wawa ona pi[awen sijelo] li kama suli
+  originalText: HERO encourages AUBREY, making her HAPPY and increasing her DEFENSE.
+  parsed: true
+
+message_156:
+  text: HERO encourages AUBREY, making her HAPPY, increasing her DEFENSE, and recovering 25% of her HEART.
+
+message_256:
+  text: HERO encourages AUBREY, making her ECSTATIC, increasing her DEFENSE, recovering 75% of her HEART, and recovering 50% of her JUICE.
+
+#KEL FOLLOW UP
+
+message_57:
+  text: ㈑㐢㈘㊉㐓
+  sitelenLasina: jan[ken ·]
+  originalText: KEL
+  parsed: true
+
+message_202:
+  text: ㉞㉷㉡㈉㉱㈟㉙㉍㈑㐢㈘㊉㐓
+  sitelenLasina: sina wile sona e utala kulupu seme pi jan[ken ·]
+  originalText: Which of KEL's FOLLOW-UPS would you like to know more about?
+  parsed: true
+
+message_58:
+  text: ㉄㉌㉩㈑㐥㉇㉽㉄㈢㈏㐓
+  sitelenLasina: o pana tawa jan[open monsuta o lape insa]
+  originalText: PASS TO OMORI
+  parsed: true
+
+message_59:
+  text: ㈑㐢㈘㊉㐓㈧㉌㈉㉜㉩㈑㐥㉇㉽㉄㈢㈏㐓<br>㐁㈧㉈1㈉㉆㈧㉎㈍㈉㉆
+  sitelenLasina: jan[ken ·] li pana e sike tawa jan[open monsuta o lape insa] /*<br>*/ ni2 li pakala /*1*/ e ona li pilin ike e ona
+  originalText: KEL passes the ball to OMORI, dealing 1 damage to OMORI and making him SAD.
+  parsed: true
+
+message_159:
+  text: KEL passes the ball to OMORI, dealing damage to a foe and making OMORI HAPPY.
+
+message_259:
+  text: KEL passes the ball to OMORI, dealing big damage to a foe and making OMORI ECSTATIC.
+
+message_60:
+  text: ㉄㉌㉩㈑㐥㉅㉎㉱㈨㈍㐓
+  sitelenLasina: o pana tawa jan[olin pilin utala lili ike]
+  originalText: PASS TO AUBREY
+  parsed: true
+
+message_61:
+  text: ㈑㐢㈘㊉㐓㈧㉌㈉㉜㉩㈑㐥㉅㉎㉱㈨㈍㐓<br>㉆㈧㉱㉵㈉㉆㉩㉶㈧㉈㈉㈌㈍
+  sitelenLasina: jan[ken ·] li pana e sike tawa jan[olin pilin utala lili ike] /*<br>*/ ona li utala wawa e ona tawa weka li pakala e ijo ike
+  originalText: KEL pitches the ball to AUBREY, who knocks it out of the park and deals damage to a random foe!
+  parsed: true
+
+message_161:
+  text: KEL pitches the ball to AUBREY, who knocks it out of the park and deals big damage to a random foe!
+
+message_261:
+  text: KEL pitches the ball to AUBREY, who knocks it out of the park and deals very big damage to a random foe!
+
+message_62:
+  text: ㉄㉌㉩㈑㐢㉵㊊㐓
+  sitelenLasina: o pana tawa jan[wawa :]
+  originalText: PASS TO HERO
+  parsed: true
+
+message_63:
+  text: ㈑㐢㈘㊊㐓㈧㉌㈉㉜㉩㈑㐢㉵㊊㐓㉆㈧㉩㈉㉜㉩㈅<br>㐁㈡㈌㈍㈄㈧㉈
+  sitelenLasina: jan[ken :] li pana e sike tawa jan[wawa :] ona li tawa e sike tawa anpa /*<br>*/ ni2 la ijo ike ale li pakala
+  originalText: KEL passes the ball to HERO, who helps KEL dunk on all foes, dealing damage!
+  parsed: true
+
+message_163:
+  text: KEL passes the ball to HERO, who helps KEL dunk on all foes, dealing big damage!
+
+message_263:
+  text: KEL passes the ball to HERO, who helps KEL dunk on all foes, dealing very big damage and reducing all foes' ATTACK!
+
+#HERO FOLLOW UP
+
+message_64:
+  text: ㈑㐢㉵㊊㐓
+  sitelenLasina: jan[wawa :]
+  originalText: HERO
+  parsed: true
+
+message_203:
+  text: ㉞㉷㉡㈉㉱㈟㉙㉍㈑㐢㉵㊊㐓
+  sitelenLasina: sina wile sona e utala kulupu seme pi jan[wawa :]
+  originalText: Which of HERO's FOLLOW-UPS would you like to know more about?
+  parsed: true
+
+message_65:
+  text: ㈑㐥㉇㉽㉄㈢㈏㐓㉄
+  sitelenLasina: jan[open monsuta o lape insa] o
+  originalText: CALL OMORI
+  parsed: true
+
+message_66:
+  text: ㈑㐢㉵㊊㐓㈧㉬㉩㈑㐥㉇㉽㉄㈢㈏㐓\!ㇱ㉆㈧㉱㈉㈌㈍<br>㈑㐢㉵㊊㐓㈧㈖㉝15%㈉㉎㉆
+  sitelenLasina: jan[wawa :] li toki tawa jan[open monsuta o lape insa] /*\!*/ _ ona li utala e ijo ike/*<br>*/ jan[wawa :] li kama sin /*15%*/ e pilin ona
+  originalText: HERO calls OMORI.\! OMORI attacks, then HERO heals 15% of OMORI's HEART with words of encouragement.
+  parsed: true
+
+message_166:
+  text: HERO calls OMORI.\! OMORI attacks, then HERO heals 25% of OMORI's HEART and 10% of OMORI's JUICE with words of encouragement.
+
+message_266:
+  text: HERO calls OMORI.\! OMORI attacks, then HERO heals 40% of OMORI's HEART and 20% of OMORI's JUICE with words of encouragement.
+
+message_67:
+  text: ㈑㐥㉅㉎㉱㈨㈍㐓㉄
+  sitelenLasina: jan[olin pilin utala lili ike] o
+  originalText: CALL AUBREY
+  parsed: true
+
+message_68:
+  text: ㈑㐢㉵㊊㐓㈧㉬㉩㈑㐥㉅㉎㉱㈨㈍㐓\!ㇱ㉆㈧㉱㈉㈌㈍<br>
+
+    ㈑㐢㉵㊊㐓㈧㈖㉝15%㈉㉎㉆
+  sitelenLasina: |-
+    jan[wawa :] li toki tawa jan[olin pilin utala lili ike] /*\!*/ _ ona li utala e ijo ike /*<br>*/
+    jan[wawa :] li kama sin /*15%*/ e pilin ona
+  originalText: HERO calls AUBREY.\! AUBREY attacks, then HERO heals 15% of AUBREY's HEART with words of encouragement.
+  parsed: true
+
+message_168:
+  text: HERO calls AUBREY.\! AUBREY attacks, then HERO heals 25% of AUBREY's HEART and 10% of AUBREY's JUICE with words of encouragement.
+
+message_268:
+  text: HERO calls AUBREY.\! AUBREY attacks, then HERO heals 40% of AUBREY's HEART and 20% of AUBREY's JUICE with words of encouragement.
+
+message_69:
+  text: ㈑㐢㈘㊉㐓㉄
+  sitelenLasina: jan[ken ·] o
+  originalText: CALL KEL
+  parsed: true
+
+message_70:
+  text: ㈑㐢㉵㊊㐓㈧㉬㉩㈑㐢㈘㊉㐓\!ㇱ㉆㈧㉱㈉㈌㈍<br>㈑㐢㉵㊊㐓㈧㈖㉝15%㈉㉎㉆
+  sitelenLasina: jan[wawa :] li toki tawa jan[ken ·] /*\!*/ _ ona li utala e ijo ike /*<br>*/ jan[wawa :] li kama sin /*15%*/ e pilin ona
+  originalText: HERO calls KEL.\! KEL attacks, then HERO heals 15% of KEL's HEART with words of encouragement.
+  parsed: true
+
+message_170:
+  text: HERO calls KEL.\! KEL attacks, then HERO heals 25% of KEL's HEART and 10% of KEL's JUICE with words of encouragement.
+
+message_270:
+  text: HERO calls KEL.\! KEL attacks, then HERO heals 40% of KEL's HEART and 20% of KEL's JUICE with words of encouragement.
+
+#-----
+#SKILLS
+
+message_204:
+  text: ㉞㉷㈉㉡㉙\c[1]\c[0]㑒㈘㉡
+  sitelenLasina: sina wile e sona seme pi[/*\c[1]*/ken sona /*\c[0]*/]
+  originalText: What about \c[1]SKILLS\c[0] would you like to know more about?
+  parsed: true
+
+message_71:
+  text: ㈖㉡㑒㈘㉡
+  sitelenLasina: kama sona pi[ken sona]
+  originalText: LEARNING SKILLS
+  parsed: true
+
+message_72:
+  text: ㉞㈘㈖㉡㈉\c[1]㈘㉡\c[0]㈬㈿㐀ㇱ㊋㈽㉵㉞㈧㈖㉣<br>㉞㉐㈉㈃ㇱ㉞㈖㈓㈉㈌㈘㊌ㇱ㉞㈬㈂㉱㈡㉞㈘㈙㈘㉡㈨
+  sitelenLasina: sina ken kama sona e /*\c[1]*/ ken sona /*\c[0]*/ lon nasin ni1 _ te nanpa wawa sina li kama suli /*<br>*/ sina pini e alasa _ sina kama jo e ijo ken to _ sina lon ala utala la sina ken kepeken ken sona lili
+  originalText: \c[1]SKILLS\c[0] can be learned by LEVELING UP, completing side quests, and finding certain items.\! Some \c[1]SKILLS\c[0] like HERO's \c[1]COOK\c[0] can be used outside of battle.
+  parsed: true
+
+message_73:
+  text: ㈆㑒㈘㉡
+  sitelenLasina: ante pi[ken sona]
+  originalText: SKILL SWAP
+  parsed: true
+
+message_74:
+  text: ㈑㉔㈧㈘㉡㈉\c[1]㈘㉡\c[0]㉮㉮㈬㉱
+  sitelenLasina: jan pona li ken sona e /*\c[1]*/ ken sona /*\c[0]*/ tu tu lon utala
+  originalText: Each friend can have up to 4 \c[1]SKILLS\c[0] equipped at once.
+  parsed: true
+
+message_75:
+  text: ㉞㈘㈆㈉\c[1]㈘㉡\c[0]㉆㈙㈎㈤
+  sitelenLasina: sina ken ante e /*\c[1]*/ ken sona /*\c[0]*/ ona kepeken ilo lawa
+  originalText: You can select which \c[1]SKILLS\c[0] you want each friend to have through the PLAYER MENU.
+  parsed: true
+
+#---
+#EQUIPS
+
+message_205:
+  text: ㉞㉷㈉㉡㉙㑒㈎㉱
+  sitelenLasina: sina wile e sona seme pi[ilo utala]
+  originalText: What about EQUIPS would you like to know more about?
+  parsed: true
+
+message_76:
+  text: ㈎㉱㉈
+  sitelenLasina: ilo utala pakala
+  originalText: WEAPONS
+  parsed: true
+
+message_77:
+  text: ㈎㉁㈧㉣㈉㉵㉱㑒㈑㉔\!<br>㈑㉔㈘㈙㈎㉱㉈㉆㉨
+  sitelenLasina: ilo ni li suli e wawa utala pi[jan pona] /*\!<br>*/ jan pona ken kepeken ilo utala pakala ona taso
+  originalText: WEAPONS raise the wielder's ATTACK.\!<br>Friends can only equip their own WEAPON.
+  parsed: true
+
+message_78:
+  text: ㈎㉱㈓
+  sitelenLasina: ilo utala jo
+  originalText: CHARMS
+  parsed: true
+
+message_79:
+  text: ㈑㉔㈄㈧㈘㈙㈎㉁ㇱ㈎㉱㈓㈼㈧㉣㈉㈽㉱\!<br>㉨㉆㈨㈧㈌㈾
+  sitelenLasina: jan pona ale li ken kepeken ilo ni _ ilo utala jo mute li suli e nanpa utala /*\!<br>*/ taso ona lili li ijo nasa
+  originalText: CHARMS can be equipped by anyone.\!<br>Most CHARMS grant stat bonuses, but some have unique effects.
+  parsed: true
+
+#----
+#TOYS
+
+message_80:
+  text: ㈎㈻㈧㈘㉈㈉㈌㈍㈧㈘㈈㈉㈌㉔\!<br>㉞㈬㈂㉱㈡㉞㈘㈂㈙㉆
+  sitelenLasina: ilo musi li ken pakala e ijo ike li ken awen e ijo pona /*\!<br>*/ sina lon ala utala la sina ken ala kepeken ona
+  originalText: TOYS are used during battle to support friends or deal damage to foes.\! They can't be used outside of battle.
+  parsed: true
+
+#----
+#LEVELING UP
+
+message_81:
+  text: ㉱㈧㉐㈡㈑㉔㑓㉋㉗㈂㈧㈖㈓㈉㈽㉵㈨\!<br>㉞㈓㈉㈽㉵㈨㈄㈡㈽㉵㈧㈖㉣
+  sitelenLasina: utala li pini la jan pona pi[pan seli ala] li kama jo e nanpa  wawa lili /*\!<br>*/ sina jo e nanpa wawa lili ale la nanpa wawa li kama suli
+  originalText: OMORI and non-TOAST friends earn EXP after each battle.\! Once a certain amount of EXP is reached, that friend will LEVEL UP.
+  parsed: true
+
+message_82:
+  text: ㈽㉵㑒㈑㉔㈧㈖㉣㈡㈽㉱㉆㈧㈖㉣<br>㉹㈡㉆㈧㈘㈖㉡㈉\c[1]㈘㉡\c[0]㉝
+  sitelenLasina: nanpa wawa pi[jan pona] li kama suli la nanpa utala ona li kama suli /*<br>*/ kin la ona li ken kama sona e /*\c[1]*/ ken sona /*\c[0]*/ sin
+  originalText: When a friend LEVELS UP, they gain stats and will occasionally learn a new \c[1]SKILL\c[0]!
+  parsed: true
+
+message_83:
+  text: ㉞㈘㈮㈉㈽㉵㈨㉷㈬㉊㑒㈫㈣<br>㉊㉁㈧㈬㈅㑒㈑㉔㈬㈎㈤
+  sitelenLasina: sina ken lukin e nanpa wawa lili wile lon palisa pi[loje laso] /*<br>*/ palisa ni li lon anpa pi[jan pona] lon ilo lawa
+  originalText: You can see the required EXP needed to reach the next LEVEL by examining the purplish-pinkish gradient under each friend's name in the PLAYER MENU.
+  parsed: true
+
+#----
+
+message_1000:
+  text: ㉄㈖㉝
+  sitelenLasina: o kama sin
+  originalText: NEVERMIND
+  parsed: true

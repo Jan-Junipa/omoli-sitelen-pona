@@ -1,0 +1,210 @@
+# =========================================================================================
+# Mom's Dialogue
+# =========================================================================================
+
+#Mom's MOM'S VOICEMAIL
+
+#Examine phone
+message_0:
+  text: ㊋\n[8]㉄ㇱ㈴㈱㈀\!<br>㈴㈈㉔㈉㉭㉝㈬㈰㉭㉣\!ㇱ㉞㉐㉓㈉㈌㈄㈇㉙㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te /*\n[8]*/ o _ mi mama a /*\!<br>*/ mi awen pona e tomo sin lon ma tomo suli /*\!*/ _ sina pini poki e ijo ale anu seme to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"Hey \n[8], it's MOMMY.\! I'm still in the city setting things up for our new home.\! Did you finish packing yet?\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_1:
+  text: ㊋㉫㈖㈡㈑㈧㈖㈬㉭㉞㈧㉩㈉㈌㈄㉩㉭㉝ㇱ<br>㈴㉠㈉㈪㉉ㇱ㉆㈧㈖㈡㉞㉷㉐㈉㉉㉁㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te tenpo kama la jan li kama lon tomo sina li tawa e ijo ale tawa tomo sin _ /*<br>*/ mi sitelen e lipu pali _ ona li kama la sina wile pini e pali ni to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"The movers are going to be at our house in a few days, so I left a list of things for you to do before they arrive.\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_2:
+  text: ㊋㉹㈡\!㈴㉈㈀㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te kin la /*\!*/ mi pakala a to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"Also, sorry!\! MOMMY messed up!\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_3:
+  text: ㊋㈴㉷㉬㈉㉁㉩㈟㑒㉵㉭<br>㉞㈈㈬㉭㈡㉭㈧㉷㈉㉵㈬㉫㈖㈨<br>㉨㈴㉬㈂㈉㉁㈀ㇱ㈘㈡㈎㉗㈧㉗㈂㈬㉫㈖㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te mi wile toki e ni tawa kulupu pi[wawa tomo] /*<br>*/ sina awen lon tomo la tomo li wile e wawa lon tenpo kama lili /*<br>*/ taso mi toki ala e ni a _ ken la ilo seli li seli ala lon tenpo kama to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"I forgot to tell the electric company that we need a few extra days before we're ready to move, so the lights might cut out sometime tonight.\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_4:
+  text: ㊋㈆㈡\!㈴㉡㈉㐀ㇱ㉩㑒㈰㉝㈧㉽<br>㉨㈴㉮㈧㉷㉩ㇱ㉁㈧㉔㉩㈴㉮㈀㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te ante la /*\!*/ mi sona e ni1 _ tawa pi[ma sin] li monsuta /*<br>*/ taso mi tu li wile tawa _ ni li pona tawa mi tu a to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"Anyway...\! I know moving to a new place can be a little nerve-wracking right now, but I think a change of scenery will be positive for both of us!\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_5:
+  text: ㊋㉫㉐㉣㈡㉞㉬㈂㉩㈑<br>㉨㈘㈡㉞㉩㉶㈡㉞㉷㉬㉩㈑㉒㉞㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te tenpo pini suli la sina toki ala tawa jan /*<br>*/ taso ken la sina tawa weka la sina wile toki tawa jan poka sina to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"I know you haven't talked to anyone in a while, but you might want to say goodbye to your old friends before we leave.\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_6:
+  text: ㊋㈴㉇㈋㈉㉭㈡\n[3]㈧㉷㉬㉩㉞\!<br>㉫㈋㈄㈡㉆㈧㉬㉩㈴㈬㈎㉬㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te mi open esun e tomo la /*\n[3]*/ li wile toki tawa sina /*\!<br>*/ tenpo esun ale la ona li toki tawa mi lon ilo toki to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"KEL has been trying really hard to get a hold of you ever since we put our house up for sale.\! He's been calling us every week for the past few months!\"\n<MOM'S VOICEMAIL>
+  parsed: true
+
+message_7:
+  text: ㊋㈮㈡㉆㈧㉨㊉㊉㊉\!ㇱ㈘㈡㉞㉷㉬㉩㉆\!<br>㉔ㇱ㈴㉷㉬㈉㐁㉨\!ㇱ㈱㈧㉅㈉㉞㈀\!ㇱ㉄㉔㈀\quake[1]\}㈹\quake[0]㊌\n<㉬㈱㑒㉫㉐>
+  sitelenLasina: te lukin la ona li taso · · · /*\!*/ _ ken la sina wile toki tawa ona /*\!<br>*/ pona _ mi wile toki e ni2 taso /*\!*/ _ mama li olin e sina a /*\!*/ _ o pona a /*\quake[1]\}*/ mu /*\quake[0]*/ to /*\n<*/ toki mama pi[tenpo pini] /*>*/
+  originalText: \"He seems a little lonely...\! Maybe you should pay him a visit.\!<br>Ok, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\! \quake[1]\}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+  parsed: true
+
+#SFX: Stomach Gurgle
+message_8:
+  text: ㉞㉷㈶
+  sitelenLasina: sina wile moku
+  originalText: You are hungry.
+  parsed: true
+
+message_9:
+  text: You suddenly feel very AFRAID.
+
+#Examine Fridge
+
+message_10:
+  text: ㉞㈮㈉㈏㑒㈎㈦㊉㊉㊉\!㉞㈖㈮㈉\c[4]㈶㉢㈦\c[0]<br>㉞㉷㈂㉷㈖㈓㈉㉆
+  sitelenLasina: sina lukin e insa pi[ilo lete] · · · /*\!*/ sina kama lukin e  /*\c[4]*/ moku soweli lete /*\c[0]<br>*/ sina wile ala wile kama jo e ona
+  originalText: You look in the fridge...\! and find \c[4]COLD STEAK\c[0].\! Take it?
+  parsed: true
+
+#[Yes/No]
+#[Yes]
+message_11:
+  text: ㉞㈖㈓㈉\c[4]㈶㉢㈦\c[0]\!<br>㈶㈡㉞㉷㉗㈉㉆
+  sitelenLasina: sina kama jo e /*\c[4]*/ moku soweli lete /*\c[0]*/ /*\!<br>*/ moku la sina wile seli e ona
+  originalText: You got \c[4]COLD STEAK\c[0].\!<br>You should probably heat it up before you eat it.
+  parsed: true
+  #[No]
+  #[Exit dialogue]
+
+
+  #Examine Microwave
+message_12:
+  text: ㉞㉌㈉\c[4]㈶㉢㈦\c[0]㈬㈎㉗ #Examine Steak Knife
+  sitelenLasina: "sina pana e /*\\c[4]*/ moku soweli lete /*\\c[0]*/ lon ilo seli "
+  originalText: You put the \c[4]COLD STEAK\c[0] in the microwave.
+  parsed: true
+message_13:
+  text: ㉞㈖㈓㈉\c[13]㈎㈶\c[0]
+  sitelenLasina: sina kama jo e /*\c[13]*/ ilo moku /*\c[0]*/
+  originalText: You pick up the \c[13]STEAK KNIFE\c[0].
+  parsed: true
+
+# Auto-equip steak KNIFE
+
+message_14:
+  text: ㈶㉢㈧㉗ # Examine BED
+  sitelenLasina: moku soweli li seli
+  originalText: The \c[4]MICROWAVED STEAK\c[0] is ready.
+  parsed: true
+
+message_15:
+  text: ㉥㈢㉁㈧㉎㉔㑒㈼㉣\!<br>㉞㉷㈂㉷㈢
+  sitelenLasina: supa lape ni li pilin pona pi[mute suli] /*\!<br>*/ sina wile ala wile lape
+  originalText: A very, very comfortable bed.\!<br>Would you like to go to sleep?
+  parsed: true
+
+# =========================================================================================
+# MOM'S STICKY NOTEs
+# =========================================================================================
+
+#EXAMINE note
+
+message_20:
+  text: ㈪㈧㈬㉟㉿
+  sitelenLasina: lipu li lon sinpin jasima
+  originalText: There is a sticky note on the mirror.
+  parsed: true
+
+message_21:
+  text: ㈪㈧㈬㉟
+  sitelenLasina: lipu li lon sinpin
+  originalText: There is a sticky note on the wall.
+  parsed: true
+
+#First line always
+
+message_22:
+  text: ㊋㉬㈀\n[8]ㇱ㈪㉁㈧㉧㈱㊌\n<㈪㈱>
+  sitelenLasina: te toki a /*\n[8]*/ _ lipu ni li tan mama to /*\n<*/ lipu mama /*>*/
+  originalText: \"Hi, \n[8]! This is a note from MOMMY.\"\n<MOM'S STICKY NOTE>
+  parsed: true
+
+#Bathroom mirror
+
+message_23:
+  text: ㊋㉄㉶㈉㈐㈬㈛㉰㉞㈬㉫㉤㈄㈀㊌\n<㈪㈱>
+  sitelenLasina: te o weka e jaki lon kiwen uta sina lon tenpo suno ale a to /*\n<*/ lipu mama /*>*/
+  originalText: \"Remember to brush your teeth every day!\"\n<MOM'S STICKY NOTE>
+  parsed: true
+
+#Living Room
+
+message_24:
+  text: ㊋㉞㉷㉩㈬㈿㑒㈎㉩㈡㉄㈮㈉㉒㉮㈀㊌\n<㈪㈱>
+  sitelenLasina: te sina wile tawa lon nasin pi[ilo tawa] la o lukin e poka tu a to /*\n<*/ lipu mama /*>*/
+  originalText: \"If you leave the house, remember to look both ways before crossing the street!\"\n<MOM'S STICKY NOTE>
+  parsed: true
+
+#Bedroom
+
+message_25:
+  text: ㊋㈴㉌㈉㈶㈬㈎㈦<br>㈶㐁㈧\c[4]㈶㉢㉣\c[0]ㇱ㉆㈧㈶㈽㉳㉩㉞㈀㊌\n<㈪㈱>
+  sitelenLasina: te mi pana e moku lon ilo lete /*<br>*/ moku ni2 li /*\c[4]*/ moku soweli suli /*\c[0]*/  _ ona li moku nanpa wan tawa sina a to /*\n<*/ lipu mama /*>*/
+  originalText: \"I left some food in the fridge for you downstairs.<br>It's \c[4]STEAK\c[0]... your favorite!\"\n<MOM'S STICKY NOTE>
+  parsed: true
+
+#last Line always
+
+message_29:
+  text: ㊋㈴㉅㈉㉞ㇱ㉄㉔㈀㊌\n<㈪㈱>
+  sitelenLasina: te mi olin e sina _ o pona a to /*\n<*/ lipu mama /*>*/
+  originalText: \"Love you, XOXO.\"\n<MOM'S STICKY NOTE>
+  parsed: true
+
+#Day 1:
+
+message_50:
+  text: \"Hey \n[8], it's MOMMY.\!<br>How are you doing?\! Are you eating well?\"\n<MOM'S VOICEMAIL>
+
+message_51:
+  text: \"I was hoping that I could make it back to see you today, but it's the last day of a big furniture sale and I just can't resist a good bargain!\"<br>\"You can take care of yourself for a few days, right?\!<br>After all, you're a big boy now!\"\n<MOM'S VOICEMAIL>
+
+message_52:
+  text: \"Remember to finish your chores before I get back.\! I left a list on the table next to your door.\! Okay, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#Day 2:
+
+message_55:
+  text: \"Hey \n[8], it's MOMMY.\! Are you doing okay?\! You haven't been answering my calls or responding to my voicemails!\! If you keep ignoring me, I'll start to get worried again!\"\n<MOM'S VOICEMAIL>
+
+message_56:
+  text: \"I hope you're pacing your chores...\! I don't think even I could finish everything in one day!\"\n<MOM'S VOICEMAIL>
+
+message_57:
+  text: \"Did you end up visiting KEL?\! If not, it's alright... I understand.\! Just take things at your own pace...\"\n<MOM'S VOICEMAIL>
+
+message_58:
+  text: \"By the way, can you check the closet downstairs and see if there's anything you want to keep?\! We'll probably just throw away whatever you don't want anymore.\"\n<MOM'S VOICEMAIL>
+
+message_59:
+  text: \"There's only two days left before I come pick you up.\!<br>Ok, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#Day 3:
+
+message_60:
+  text: \"Hey \n[8], it's MOMMY.\! Tomorrow is the big day!\!<br>The movers will be here first thing tomorrow morning.\! I gave them the keys so don't freak out if you see them."\n<MOM'S VOICEMAIL>
+
+message_61:
+  text: \"Remember to finish organizing your things today.\! I'll be picking you up in my car out front.\! Just come outside when you're ready.\"\n<MOM'S VOICEMAIL>
+
+message_62:
+  text: \"Okay, that's it for now!\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>
+
+#Day 4:
+message_66:
+  text: \"Hey \n[8], it's MOMMY.\! I'm waiting for you outside, so just come out when you're ready.\! MOMMY loves you!\! Bye, honey!\"\!\quake[1] \}Bzzt...\quake[0]\n<MOM'S VOICEMAIL>

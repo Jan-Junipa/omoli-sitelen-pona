@@ -1,0 +1,630 @@
+# =========================================================================================
+# Dreamworld NPC dialogue
+# =========================================================================================
+
+# ==============FOREST PLAYGROUND========================================
+#====NIGHT 1-1====
+
+#Bangs
+#Location: Forest Playground
+message_0:
+  text: \ban㈻㈧㉵㈂㈉㈴ㇱ㐂㈡㈴㈮㈉㈻㉆<br>㉁㈧㉔㉹
+  sitelenLasina: /*\ban*/ musi li wawa ala e mi _ ni3 la mi lukin e musi ona /*<br>*/ ni li pona kin
+  originalText: \banHaving fun takes too much effort, so watching my friends have fun is enough for me.
+  parsed: true
+
+#After Cutscene: Lost Ball
+
+
+
+#Bun
+#Location: Forest Playground
+message_1:
+  text: \bun㈑㐢㉀㊊㐓㈧㈑㉔㈽㉳㉩㈴\!<br>㉆㈧㉬㑒㈼㈨ㇱ㉨㉆㈧㉡㈼
+  sitelenLasina: /*\bun*/ jan[nena :] li jan pona nanpa wan tawa mi /*\!<br>*/ ona li toki pi[mute lili] _ taso ona li sona mute
+  originalText: \bunNOSE is my best friend.\!<br>She can't say much, but she's really smart!
+  parsed: true
+
+#Daisy
+#Location: Forest Playground
+message_2:
+  text: \dai㉄㉩㈂㈬㈰㉁\!<br>㈴㈃㈉㈗㈞ㇱ㈴㉷㉌㈉㈗㉁\}㉩㈑㉅
+  sitelenLasina: /*\dai*/ o tawa ala lon ma ni /*\!<br>*/ mi alasa e kasi kule _ mi wile pana e kasi ni /*\}*/ tawa jan olin
+  originalText: \daiS-sorry, please don't step around here...\!<br>I'm picking flowers \}for someone special...
+  parsed: true
+
+message_3:
+  text: \dai㈴㈖㈓㈉㈗㈞ㇱ㈴㉷㉌㈉㉆\}㉩㈑㉅\!I<br>㈴㉷㈉㐀ㇱ㈗㐁㈧㉔㉩㉆
+  sitelenLasina: /*\dai*/ mi kama jo e kasi kule _ mi wile pana e ona /*\}*/ tawa jan olin /*\!I<br>*/ mi wile e ni1 _ kasi ni2 li pona tawa ona
+  originalText: \daiI picked some flowers \}for someone special... \!I hope he likes it...
+  parsed: true
+
+message_4:
+  text: \dai㈴㉷㉌㈉㈗㈞㉩㈑ㇱ㉨㉉㈻㉨㈧㉔㉩㉆\!<br>㈴㉷㈓㈉\c[4]㉉㈻㑒㈗㈞\c[0]*\!ㇱ㈘㈡㉉㐂㈧㉔㉩㉆
+  sitelenLasina: /*\dai*/ mi wile pana e kasi kule tawa jan _ taso pali musi taso li pona tawa ona /*\!<br>*/ mi wile jo e /*\c[4]*/ pali musi pi[kasi kule] /*\c[0]*\!*/ _ ken la pali ni3 li pona tawa ona
+  originalText: \daiI want to give flowers to someone, but he's only interested in puzzles...\! If only I could find a \c[4]FLOWER PUZZLE\c[0] or something... \!Maybe he'd notice me then.
+  parsed: true
+
+#After Flower Puzzle Quest
+
+message_5:
+  text: \daiIs that a \c[4]FLOWER PUZZLE\c[0]?\! For me?\! <br>...\!\} With this, maybe NEB will finally pay attention to me.
+
+message_6:
+  text: \dai...
+
+message_7:
+  text: \dai\Com[2]\{Oh, no! I said his name!\} \}<br>Please pretend you didn't hear that...\{
+
+message_8:
+  text: \daiI- I wonder when should I give this to him...
+
+#BROWS
+#Location: Forest Playground
+message_10:
+  text: \n<㈑㐤㉐㉰㉷㈈㐓>\SINV[2]\Com[2]㈀㈀㈀㈀\{㈀㈀㈀㈀\{㈀㈀㈀㈀\{㈀㈀㈀㈀\LECLEAR
+  sitelenLasina: /*\n<*/ jan[pini uta wile awen] /*>\SINV[2]\Com[2]*/ a a a a /*\{*/a a a a /*\{*/ a a a a /*\{*/ a a a a /*\LECLEAR*/
+  originalText: \n<BROWS>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+  parsed: true
+
+#Happy
+#Location: Forest Playground
+message_11:
+  text: \hap\SINV[1]㈀\!\}ㇱ㉩\{㈀\!\}ㇱ㉩\{㈀\!\}ㇱ㈖㈡\{㉩\{㈀\SINV[0]
+  sitelenLasina: /*\hap\SINV[1]*/ a /*\!\}*/ _ tawa /*\{*/ a /*\!\}*/ _ tawa /*\{*/ a /*\!\}*/ _ kama la /*\{*/ tawa /*\{*/ a /*\SINV[0]*/
+  originalText: \hap\SINV[1]Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop! \!\}And-a-\{Hop!\SINV[0]
+  parsed: true
+#After Cutscene: Lost Ball
+
+#epilgoue
+message_31:
+  text: \hap\SINV[1]㉩㉜\{㈀\!\}ㇱ㉩㉜\{㈀\!\}ㇱ㉩㉜\{㈀\!\}㈖㈡㉩㉜\{㈀\!\SINV[0]
+  sitelenLasina: "/*\\hap\\SINV[1]*/ tawa sike /*\\{*/ a /*\\!\\}*/ _ tawa sike /*\\{*/ a /*\\!\\}*/ _ tawa sike /*\\{*/ a /*\\!\\}*/ kama la tawa sike /*\\{*/ a /*\\!\\SINV[0]*/ "
+  originalText: \hap\SINV[1]Spin! \!\}And-a-\{Spin! \!\}And-a-\{Spin! \!\}And-a-\{Spin!\SINV[0]
+  parsed: true
+
+#CHARLENE
+#Location: Forest Playground
+message_12:
+  text: \n<㈑㐤㉣㈆㈩㈌㐓>\}㉄㈖㉔\!ㇱ㈑㉒
+  sitelenLasina: /*\n<*/ jan[suli ante linja ijo] /*>*/ /*\}*/ o kama pona /*\!*/ _ jan poka
+  originalText: \n<SHARLEEN>\}\}H-Hello... \!friends...
+  parsed: true
+
+#LADAO
+#Location: Forest Playground
+message_13:
+  text: \lad㈴㉩㉜㉩㈺㈀
+  sitelenLasina: /*\lad*/ mi tawa sike tawa mun a
+  originalText: \ladI'm going to swing to the Moon!
+  parsed: true
+
+#NEB
+#Location: Forest Playground
+message_14:
+  text: \nebI am pretending to be a planet.
+
+message_15:
+  text: \neb㈻㉉㈧㉔㉩㈴
+  sitelenLasina: /*\neb*/ musi pali li pona tawa mi
+  originalText: \nebI like puzzles.
+  parsed: true
+#NOSE
+#Location: Forest Playground
+message_16:
+  text: ㈑㐢㉀㊊㐓㈧㈈㈻
+  sitelenLasina: jan[nena :] li awen musi
+  originalText: NOSE looks occupied.
+  parsed: true
+
+#REN
+#Location: Forest Playground
+message_17:
+  text: \ren㉫㉁㈧㉔㈼㉩㐀ㇱ㈴㈮㈉㈺
+  sitelenLasina: /*\ren*/ tenpo ni li pona mute tawa ni1 _ mi lukin e mun
+  originalText: \renTonight's a perfect night for star-gazing.
+  parsed: true
+
+#SHAWN
+#Location: Forest Playground
+message_18:
+  text: \shaw\n[1]㉄ㇱ㉞㉷㈂㉷㈮㈉㈺㈬㉒㈴
+  sitelenLasina: /*\shaw*/ /*\n[1]*/ o _ sina wile ala wile lukin e mun lon poka mi
+  originalText: \shawWanna join us, \n[1]?
+  parsed: true
+
+message_19:
+  text: \shaw㈗㈩㈧㉎㉔
+  sitelenLasina: /*\shaw*/ kasi linja li pilin pona
+  originalText: \shawThe grass sure feels nice here.
+  parsed: true
+
+#stargaze
+message_20:
+  text: ㈺㈧㉤㈧㉚<br>\!㉫㉁㈡㉞㉡㈉㐅㉨
+  sitelenLasina: mun li suno li sewi /*<br>\!*/ tenpo ni la sina sona e ni6 taso
+  originalText: The stars shine brightly overhead...<br>\!You don't have a care in the world.
+  parsed: true
+
+message_21:
+  text: \n[1]㈧㈖㉡㈉㈘㐀ㇱ\c[1]㈮㉷\c[0]
+  sitelenLasina: /*\n[1]*/ li kama sona e ken ni1 _/*\c[1]*/ lukin wile /*\c[0]*/
+  originalText: OMORI learned \c[1]OBSERVE\c[0]!
+  parsed: true
+
+#JASH IN A BOX
+message_30:
+  text: \n<㈌㐤㈑㉄㈕㈉㐓 㐤㈑㈇㉙㈌㐓>\{\{\sinv[1]㈹㈀
+  sitelenLasina: /*\n<*/ ijo[jan o kalama e]/* */[jan anu seme ijo]/*>*/ /*\{\{\sinv[1]*/ mu a
+  originalText: \n<JOKER JASH>\{\{\sinv[1]PEEK-A-BOO!!
+  parsed: true
+
+#VAN
+#Location: Forest Playground - Lost Ball
+#[Cutscenes_lostball]
+
+#After lost ball
+message_44:
+  text: \hap\com[2]㈑㐣㉎㈉㉁㐓㉄㈈\!㉞㈖㉔
+  sitelenLasina: /*\hap\com[2]*/ jan[pilin e ni] o awen /*\!*/ sina kama pona
+  originalText: \hap\Com[2]Hold on, BANGS!\! You're going to be a-okay!
+  parsed: true
+message_45:
+  text: \ban㈑㐤㉐㉰㉷㈈㐓㈧㉩㉵㈧㈅㈉㈴<br>㉨㈴㈈㈬㈅㉧㐀ㇱ㉁㉎㉔
+  sitelenLasina: /*\ban*/ jan[pini uta wile awen] li tawa wawa li anpa e mi /*<br>*/ taso mi awen lon anpa tan ni1 _ ni pilin pona
+  originalText: \banBROWS ran me over and knocked me down, but now I'm just lying here because it feels good.
+  parsed: true
+message_46:
+  text: \n<VAN>There there, BROWS... \!It's not your fault...
+message_47:
+  text: \n<㈑㐤㉐㉰㉷㈈㐓>\SINV[2]\Com[2]㈀㈀㈀㈀\{㈀㈀㈀㈀\{㈀㈀㈀㈀\{㈀㈀㈀㈀\LECLEAR
+  sitelenLasina: /*\n<*/ jan[pini uta wile awen] /*>\SINV[2]\Com[2]*/ a a a a /*\{*/a a a a /*\{*/ a a a a /*\{*/ a a a a /*\LECLEAR*/
+  originalText: \n<BROWS>\Com[2]\SINV[2]AAAHHH\{\Com[2]HHHHH\{\Com[2]HHHHHHH\{\Com[2]HHHHHHHHH!!!\LECLEAR
+  parsed: true
+
+#After headbutt
+message_48:
+  text: \n<VAN>BERLY and I are playing tetherball again!
+
+#BERLY
+#Location: Forest Playground - Lost Ball
+#[Cutscenes_lostball]
+
+# ==============HEADBUTT=======================================
+
+message_60:
+  text: \berHey, dudes! Thanks for getting my \c[4]LOST BALL\c[0] back.\!<br>As you can see, I'm putting it to good use!
+
+message_61:
+  text: \n<VAN>Yup, she sure is.
+
+message_62:
+  text: \berI was thinkin'...\! Since you were all so kind to help me out...\! I'm gonna be generous and teach you my special \c[1]SKILL\c[0]!
+
+message_63:
+  text: \berBut first, I got a question for y'all...\!<br>Which one of you has the hardest head?
+
+message_64:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelWell, \Com[2]\{duh!\} That'd have to be \n[2]!
+
+message_65:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\Com[2]\{WHAT DID YOU SAY!?
+
+message_66:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelWhoa, chill out!\! No \SINV[1]hard\SINV[0] feelings...\! get it?
+
+message_67:
+  text: \berHeh.\! That sounds about right!
+
+message_68:
+  text: \berAlright \n[2], I'm gonna teach you a \c[1]SKILL\c[0], just between hard-headed folk like us.
+
+message_69:
+  text: \berIt's my specialty... \c[1]HEADBUTT\c[0]! \!<br>It's simple really. \!You just run up to someone and...
+
+message_70:
+  text: \QUAKE[1]\Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMM!!!\QUAKE[0]\ber
+
+message_71:
+  text: \berNow you try.
+
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubThat looks like it would hurt...\!<br>And also mess up my hair.\!<br>And also ruin my bow.
+
+message_73:
+  text: \berOh come on, \n[2]! Live a little!\!<br>Having messy hair never hurt anyone.\!<br>\n[4] is living proof of that.
+
+message_74:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \herYeah, you bet!
+
+message_75:
+  text: \berWhy don't you give it a shot?
+
+message_76:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aubHmph!\! Fine...
+
+message_77:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aubBut if I'm doing this... \!I'm gonna give it all I got!
+
+message_78:
+  text: \ber\QUAKE[1]\Com[2]\{WH\{\Com[2]HHH\{HHAA\{\Com[2]AAMMMMMMMMMMMMMM!!!\QUAKE[0]
+
+message_79:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aubErughh...
+
+message_80:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub\SINV[1]I feel... \!dizzy...\SINV[0]
+
+message_81:
+  text: \ber\Com[2]\{WHOA! NICE ONE, AUBREY!!\}\!<br>I knew I saw talent in you.
+
+#ADD RAINBOW
+message_82:
+  text: \ber\{\SINV[1]CONGRATULATIONS!!\SINV[0]\}\!<br>You've passed the test with flying colors!
+
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub\SINV[1]...Huh?\! What's happening?\SINV[0]
+
+message_84:
+  text: \berFrom this day forth...\!<br>I hereby declare you a bonafide HEADBUTTER.
+
+message_85:
+  text: \berAnd take this certificate.\! Show your friends. \!<br>I'm sure they'll be proud!
+
+message_86:
+  text: AUBREY learned \c[1]HEADBUTT\c[0].
+
+message_87:
+  text: You got a \c[4]BUTT CERTIFICATE\c[0].
+
+#After Headbutt Quest
+message_88:
+  text: \ber㈑㐣㉈㊉㉃㐓㉄ㇱ㉄㉱㉵㈉㉆㈀ #====NIGHT 1-2====
+  sitelenLasina: /*\ber*/ jan[pakala · noka] o _ o utala wawa e ona a
+  originalText: \berCome on, VAN! Put your head into it!
+  parsed: true
+  #BANGS
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #BERLY
+  #Location: Forest Playground - Hide and Seek
+  #Check Prologue_BeforeHideandSeek.yaml and Prologue_HideandSeek.yaml.
+
+  #BROWS
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #BUN
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #CHARLENE
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #DAISY
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #HAPPY
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #LADAO
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #NEB
+  #Location: Forest Playground
+  #NEB: I love puzzles.
+
+  #NOSE
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #REN
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #SHAWN
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+  #VAN
+  #Location: Forest Playground
+  #Same as NIGHT 1-1.
+
+
+  #====NIGHT 2====
+  #BANGS
+  #Location: Forest Playground
+message_100:
+  text: \banBROWS won't stop screaming in my ear...
+
+#BERLY
+#Location: Forest Playground - Hide and Seek
+#Same as NIGHT 1-2.
+
+#BROWS
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#BUN
+#Location: Forest Playground
+message_101:
+  text: \bunSo what would you like to do today, NOSE?
+
+#CHARLENE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#DAISY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#HAPPY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#LADAO
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#NEB
+#Location: Forest Playground
+message_102:
+  text: \nebI... \!love puzzles.
+
+#NOSE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#REN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#SHAWN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#VAN
+#Location: Forest Playground
+message_103:
+  text: \n<VAN>BERLY might seem kind of insensitive, but it's really just a hard front. \!Sometimes... You gotta spend time with people to see the real stuff.
+
+message_104:
+  text: \n<VAN>You can probably relate to that, can't you? #====NIGHT 3====
+#BANGS (Bed Tester)
+#Location: Last Resort - Hotel Room
+message_110:
+  text: \banThe boss tried to put me to use... but when he realized I couldn't do anything, he told me to be a bed tester...  \!<br>Mmm... \!Yup... \!This bed sure feels good...
+
+#BERLY (Gator Guy)
+#Location: Last Resort - Jawsum HQ Entrance
+message_111:
+  text: \berWell, well, well! Look who we have here! \!You trying to talk to the big boss, are ya? \!Sorry to burst your bubble, but I can't just let anyone through here willy-nilly!
+message_112:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\sinv[1]Awwwwww, man...\sinv[0] really? \!<br>\Com[2]Come on, BERLY! We've known each other forever! \!<br>You can't do us a small, little favor?
+message_113:
+  text: \berGrumble, grumble...\! Sorry, KEL! It's the boss's orders... \! Today's a big day so he doesn't want any...\! disturbances. \!<br>We got a \c[3]TOFU\c[0] fundraiser to prepare for tonight!
+message_114:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kelBut BERLY... It's me! \!Your old friend KEL! \!<br>Me and you go way back!<br>\!Think of all our good times together...
+message_115:
+  text: \ber\Com[2]Hey, quit it! They made me head of security for a reason! \!They wanted someone tough... \!Someone who could make the hard decisions! \!A hard-headed person!
+message_116:
+  text: \berI mean... Look at my badge... \!It's so shiny!
+message_117:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kelHmm...\! Quick, KEL! Think of something fast!
+message_118:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelOh, I know! \! \sinv[1]Hey, BERLY...\!\sinv[0] Our good friend OMORI here is interested in a job!\! You know the boss would never turn down free work!
+message_119:
+  text: \berHmmm... \!That is true.\! But...
+message_120:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 33
+  text: \kel\com[2]Please, BERLY! \!\SINV[2]Please, please, please, please, please!\sinv[0]
+message_121:
+  text: \berOh...\! Alright... \!I'll let you through this time. \!<br>But only if you get me some \c[3]BOTTLED WATER\c[0] first!\!<br>I'm parched!
+#[Watch Alarm SFX]
+message_122:
+  text: \berHey! You got me some \c[3]BOTTLED WATER\c[0]?\! Thanks! I owe ya one!\! Come on, boys! I heard they got pizza in the break room!
+message_123:
+  text: \n<GATOR GUY>Alright! Free pizza!
+message_124:
+  text: \n<GATOR GUY>Ugh...\! I hope there aren't any pineapples on it...
+
+#Talk after
+message_107:
+  text: \berYou got that \c[3]BOTTLED WATER\c[0] yet?\!<br>Chop, chop! We're absolutely parched!
+
+#BERLY and GATOR GUYS leave.
+
+message_105:
+  text: \n<GATOR GUY>If you wanna go on, you gotta convince BERLY first.
+
+message_106:
+  text: \n<GATOR GUY>I won't move unless BERLY moves.
+
+#After Interaction
+#Location: Break Room
+
+message_125:
+  text: BERLY is too busy stuffing her face to notice you.
+
+message_126:
+  text: \n<GATOR GUY>I love all kinds of pizza.
+
+message_127:
+  text: \n<GATOR GUY>Ugh... \!pineapples...
+
+#After Cutscene: Mr. Jawsum's Request
+#Location:
+
+message_128:
+  text: \berHey, it's you guys! \!I heard from the boss that you're all leaving the \c[11]LAST RESORT\c[0]... \!Y'all gotta come visit us sometime. We're really gonna miss you around here!
+
+#BROWS (Dealer)
+#Location: Last Resort - Casino Area
+message_129:
+  text: \n<㈑㐤㉐㉰㉷㈈㐓>\SINV[2]\Com[2]㈀㈀㈀㈀\{㈀㈀㈀㈀\{㈀㈀㈀㈀\{㈀㈀㈀㈀\LECLEAR
+  sitelenLasina: /*\n<*/ jan[pini uta wile awen] /*>\SINV[2]\Com[2]*/ a a a a /*\{*/a a a a /*\{*/ a a a a /*\{*/ a a a a /*\LECLEAR*/
+  originalText: \n<BROWS>\SINV[2]\Com[2]AAAHHH\{HHHHHHHH\{HHHHHHH!!!\LECLEAR
+  parsed: true
+
+#BUN (Room Service)
+#Location: Last Resort - Hotel Hallway
+message_130:
+  text: \bunSigh...\!<br>The patrons at this place sure know how to make a mess.
+
+message_132:
+  text: \bunHaving a job sure is tough. \!<br>I hope NOSE is doing okay without me...
+
+#CHARLENE (Lifeguard)
+#Location: Last Resort - Entrance
+
+message_133:
+  text: \n<SHARLEEN>\}\}H-Hey... \!No splashing in the pool... \!okay?
+
+#DAISY (Mural Artist)
+#Location: Last Resort - Hotel Hallway
+
+message_134:
+  text: \daiThe boss told me to paint whatever I want, so I'm painting some flowers!
+
+#HAPPY (Room Service)
+#Location: Last Resort - Hotel Hallway
+message_135:
+  text: \hap\SINV[1]Clean... \!\}And-a-\{clean... \!\}And-a-\{clean... \!\}And-a-\{clean...\SINV[0]
+
+#LADAO (Construction Worker)
+#Location: Construction Area
+message_136:
+  text: \ladI'm going to build this place up so high, it'll reach the Moon!
+
+#NEB (Architect)
+#Location: Construction Area
+message_137:
+  text: \nebEngineering... \!is like a puzzle... \!and I love puzzles.
+
+#NOSE (Receptionist)
+#Location: Last Resort - Casino Area
+message_138:
+  text: \nosNose goes!
+
+#REN (Server)
+#Location: Last Resort - Casino Area
+message_139:
+  text: \n<SHAWN and REN>We hope you are enjoying yourselves at the \c[11]LAST RESORT\c[0]! Please let us know if you need anything!
+
+#VAN (Construction Worker)
+#Location: Construction Area
+message_140:
+  text: \n<VAN>The boss used to have me work in the security department, but they said I was too soft.
+
+message_141:
+  text: \n<VAN>I heard they made BERLY head of security!\!<br>They say she's got a stiff upper lip!
+
+message_151:
+  text: \n<VAN>I miss BERLY... #====NIGHT 4 (AFTER CUTSCENE: FEED HUMPHREY 1)====
+
+#BANGS
+#Location: Forest Playground
+message_142:
+  text: \banSigh...<br>\!I'm going to miss being a bed-tester at the \c[11]LAST RESORT\c[0]...\!<br>I finally felt like I found my true calling.
+
+#BERLY
+#Location: Forest Playground
+message_143:
+  text: \berGrumble, grumble... \!I guess I'm back to being a regular kid. \!Head of security was a pretty fun job, but not being able to hang around VAN all the time kinda sucked anyway.
+
+#BROWS
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#BUN
+#Location: Forest Playground
+message_144:
+  text: \bunOh, NOSE! I missed you so much! \!You missed me too right?
+
+#CHARLENE
+#Location: Forest Playground
+message_145:
+  text: \n<SHARLEEN>\}\}Hello... \!again...
+
+#DAISY
+#Location: Forest Playground
+message_146:
+  text: \daiDrawing flowers was pretty fun, but I like smelling them better.
+
+#HAPPY
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#LADAO
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#NEB
+#Location: Forest Playground
+message_147:
+  text: \nebI really, really, really love puzzles.
+
+#NOSE
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#REN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#SHAWN
+#Location: Forest Playground
+#Same as NIGHT 1-1.
+
+#VAN
+#Location: Forest Playground
+message_148:
+  text: \n<VAN>It's nice to know BERLY didn't forget about me when she became head of security.
+message_149:
+  text: \berLike I'd ever forget you, you big lug!
+#BERLY headbutts VAN.
+message_150:
+  text: \n<VAN>Awww, it's just like old times...
+
+#SW AT TRAIN STATION BLOCK
+
+
+message_200:
+  text: \who\com[2]What tomfoolery is this!?\! I demand you let me see my family at once!
+
+message_201:
+  text: \n<LEMON JASH>Do I look like a \"TOM\" to you?\! Screaming in my ear ain't gonna make the train run any faster, lady.

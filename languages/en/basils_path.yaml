@@ -1,0 +1,797 @@
+#========================================================================================================================
+
+#BASIL'S PATH DIALOGUE
+
+#========================================================================================================================
+#UGLY PLANT CREATURE
+#========================================================================================================================
+
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel㈀ㇱ㈌㈗㉁㈧㉙
+  sitelenLasina: /*\kel*/ a _ ijo kasi ni li seme
+  originalText: \kelWhoa!\! What's that ugly plant creature?
+  parsed: true
+
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub㉞㉡㈂㈇㉙\!ㇱ㉁㈧㈗㈨㈅㈀
+  sitelenLasina: /*\aub*/ sina sona ala anu seme /*\!*/ _ ni li kasi lili anpa a
+  originalText: \aubDon't you know, KEL?\! That's a SPROUT MOLE!
+  parsed: true
+
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 0
+  text: \aub㈗㈨㈅㈧㉡㈼<br>㉨㉆㈧㉡㈂㈉㈿㈡㉆㈧㉷㉱㈉㈌㈄
+  sitelenLasina: /*\aub*/ kasi lili anpa li sona mute /*<br>*/ taso ona li sona ala e nasin la ona li wile utala e ijo ale
+  originalText: \aubSPROUT MOLES are highly intelligent creatures, but become dangerously vicious when they are lost.
+  parsed: true
+
+message_3:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈀ㇱ㈗㈨㈅㉄ㇱ㉞㉔㈇㉙
+  sitelenLasina: /*\bas*/ a _ kasi lili anpa o _ sina pona anu seme
+  originalText: \basHey, MR. SPROUT MOLE! Are you doing okay there?
+  parsed: true
+
+#SPROUT MOLE does Question Mark
+
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas㉞㉡㈂㈉㈿㈇㉙
+  sitelenLasina: /*\bas*/ sina sona ala e nasin anu seme
+  originalText: \basA-Are you lost by any chance?
+  parsed: true
+
+#SPROUT MOLE turns to PARTY. then vibrates. Then runs toward party.
+
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her㈀\!ㇱ㈘㈡㈴㈖㉡㈉㉁
+  sitelenLasina: /*\her*/ a /*\!*/ _ ken la mi kama sona e ni
+  originalText: \herUh-oh...\! I guess we got our answer!
+  parsed: true
+
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\Com[2]Watch out, everyone! He's heading right toward us!
+
+#========================================================================================================================
+#UGLY PLANT CREATE - AFTER BATTLE
+#========================================================================================================================
+
+message_10:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \basPhew...\! Is everyone okay?
+
+message_11:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \basSorry...\! Lately there've been a lot of LOST SPROUT MOLES around here.\! I don't really like to fight, but I'm sure everything will be okay now that you're here.
+
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubDon't worry, BASIL!\! We'll take care of things from here!
+
+#========================================================================================================================
+#BESTIARY
+#========================================================================================================================
+
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her\n[1]㉄\!ㇱ㈴㈖㉡㈉㈿㉱\!<br>㐄㈡㈴㉌㈉㈪㉁㉩㉞ㇱ㉞㈘㉠㈉㈌㈍㈙㉆
+  sitelenLasina: /*\her\n[1]*/ o /*\!*/ _ mi kama sona e nasin utala /*\!<br>*/ ni5 la mi pana e lipu ni tawa sina _ sina ken sitelen e ijo ike kepeken ona
+  originalText: \herHey, OMORI!\! Now that we're getting the hang of battling...\! Here's a journal where we can keep track of any neat foes we come across.
+  parsed: true
+
+message_16:
+  text: \n[4]㈧㉌㈉\c[4]㈪㉡㑒㈌㈍\c[0]㉩㉞
+  sitelenLasina: /*\n[4]*/ li pana e /*\c[4]*/ lipu sona pi[ijo ike] /*\c[0]*/ tawa sina
+  originalText: HERO gave you the \c[4]FOE FACTS!\c[0] journal.
+  parsed: true
+
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \her㉆㈧㈬㉓㉞ㇱ\!㉞㈘㉠㈉㉆<br>㉨㈴㉹㈧㉠㈬㉫㈨
+  sitelenLasina: "/*\\her*/ ona li lon poki sina _ /*\\!*/ sina ken sitelen e ona /*<br>*/ taso mi kin li sitelen lon tenpo lili "
+  originalText: \herThere, now it's in your POCKET.\! The journal is yours to record with, but we might pitch in sometimes too!
+  parsed: true
+
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her㉞㈘㈮㈉㉆㈙㈿㉁
+
+    <br>㉄㈭㈉㉀㈤\DII[escape]㉄㉇㈉㉓
+  sitelenLasina: |-
+    /*\her*/ sina ken lukin e ona kepeken nasin ni 
+     /*<br>*/o luka e nena lawa /*\DII[escape]*/ o open e poki
+  originalText: \herCheck it out through your POCKET in the PLAYER MENU by pressing \DII[escape].
+  parsed: true
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 1
+#========================================================================================================================
+
+#SUNFLOWER
+
+message_20:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \basCome over here, guys! I want to show you all something.
+
+message_21:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas㉁㈧㈗㉤\!<br>㉂㉆㈧㉧㐀ㇱ㉫㈄㈡㉟㉆㈧㈬㉒㉤
+  sitelenLasina: /*\bas*/ ni li kasi suno /*\!<br>*/ nimi ona li tan ni1 _ tenpo ale la sinpin ona li lon poka suno
+  originalText: \basThese are sunflowers.\! They're called that because they always face towards the sun.
+  parsed: true
+
+message_22:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈴㉷㉖㉆\!ㇱ㈴㉷㉡㈉㉔㑒㈌㈖
+  sitelenLasina: /*\bas*/ mi wile sama ona /*\!*/ _ mi wile sona e pona pi[ijo kama]
+  originalText: \basThat's how I want to be like...\! someone who always sees the bright side of things.
+  parsed: true
+
+#LILY
+
+message_23:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas㈗㉁㈧㈗㐢㈨㊊㐓\!ㇱ㈑㈧㉬㈉㉁<br>㉆㈧㉶㈉㈝㈍㈧㈖㈉㈖㉔
+  sitelenLasina: /*\bas*/ kasi ni li kasi[lili :] /*\!*/ _ jan li toki e ni /*<br>*/ ona li weka e kon ike li kama e kama pona
+  originalText: \basThese flowers are called lily of the valley.\! It's said that they're able to ward off evil spirits and help people see a brighter future...
+  parsed: true
+
+message_24:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㉎㈴㈡㉆㈧㉖㈑㐤㈱㈈㈬㈏㐓㉧㉁ㇱ\!<br>㉫㈄㈡㉆㈧㉌㈉㈿㑒㈈㉔㉩㈴
+  sitelenLasina: /*\bas*/ pilin mi la ona li sama jan[mama awen lon insa] tan ni _ /*\!<br>*/ tenpo ale la ona li pana e nasin pi[awen pona] tawa mi
+  originalText: \basI guess that's why they remind me of MARI!\!<br>I can always count on her to help me stay positive!
+  parsed: true
+
+#========================================================================================================================
+#BATTLE TUTORIAL - ANGRY
+#========================================================================================================================
+
+#SPROUT MOLE STOMPING
+
+message_30:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas㈍㈀ㇱ㈗㈨㈅㈧㈬
+  sitelenLasina: /*\bas*/ ike a _ kasi lili anpa li lon
+  originalText: \basOh, no! It's another LOST SPROUT MOLE!
+  parsed: true
+
+message_31:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]㈗㈨㈅㉄ㇱ㉄㉐㉁<br>㉞㉈㈉㈗㈞㈀
+  sitelenLasina: "/*\\bas\\Com[2]*/ kasi lili anpa o _ o pini ni/*<br>*/ sina pakala e kasi kule a "
+  originalText: \bas\Com[2]Please, MR. SPROUT MOLE! Stop that!<br>You're stomping over all the flowers...
+  parsed: true
+
+#SPROUT MOLE STOMP HARDER
+#SPROUT MOLE RAMS INTO PARTY
+
+#message_32:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 46
+#      text: \herUh-oh!\! It's no use, BASIL...\!<br>It looks like this SPROUT MOLE is ANGRY.
+
+#message_33:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herMuch like us, SPROUT MOLES also feel EMOTION.\! Since this sprout mole is ANGRY, its attacks are stronger... but in its recklessness, also leaves itself wide open.
+
+#message_34:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 2
+#      text: \aubRight!\! So what HERO is saying is that now is the perfect time for us to stop him!
+
+#message_35:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 3
+#      text: \aubDon't worry about a thing, BASIL! We'll save your flowers!\!<br>Come on, OMORI! Let's get em!
+
+#AFTER BATTLE
+
+message_36:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈀\!ㇱ㈗㈞㈼㈧㉈㈂\!ㇱ㉁㈧㉔㈀
+  sitelenLasina: /*\bas*/ a /*\!*/ _ kasi kule mute li pakala ala /*\!*/ _ ni li pona a
+  originalText: \basAh...\! Most of the flowers are unharmed...\! That's a relief!
+  parsed: true
+
+message_37:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas㉭㈴㈧㉒㈬㉁\!ㇱ㈴㉄㉩㈬㉒㉁
+  sitelenLasina: /*\bas*/ tomo mi li poka lon ni /*\!*/ _ mi o tawa lon poka ni
+  originalText: \basWe're almost at my house.\! Let's keep going down this path!
+  parsed: true
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 2
+#========================================================================================================================
+
+#ROSE
+
+message_40:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㉁㈧㈗㐤㈬㉅㉖㊉㐓\!<br>㉎㈴㈡㉆㈧㉖㈑㉙
+  sitelenLasina: "/*\\bas*/ ni li kasi[lon olin sama ·] /*\\!<br>*/ pilin mi la ona li sama jan seme"
+  originalText: \basThese are roses!<br>Can you guess who they remind me of?
+  parsed: true
+
+message_41:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas㊉㊉㊉\!㉆㈧㉖\n[4]㈀\!ㇱ㉞㉡㈉㐂㈇㉙
+  sitelenLasina: /*\bas*/ · · · /*\!*/ ona li sama /*\n[4]*/ a /*\!*/ _ sina sona e ni3 anu seme
+  originalText: \bas...\! They remind me of HERO!\! Did you guess correctly?
+  parsed: true
+
+message_42:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈗㐤㈬㉅㉖㊉㐓㈧㈘㈞㈼ㇱ㈝㈧㈬㈞㈄
+  sitelenLasina: /*\bas*/ kasi[lon olin sama ·] li ken kule mute _ kon li lon kule ale
+  originalText: \basRoses come in many different colors and have their own unique meanings.
+  parsed: true
+
+message_43:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas㈝㑒㈫㉲㈧㉔㉉ㇱ㈝㑒㈒㈫㈧㉎㑒㉔㈼<br>㈝㈒㈧㉒㈑㊉㊉㊉ㇱ㈞㈼㈀㈧㈬
+  sitelenLasina: /*\bas*/ kon pi[loje walo] li pona pali _ kon pi[jelo loje] li pilin pi[pona mute] /*<br>*/ kon jelo li poka jan · · · _ kule mute a li lon
+  originalText: \basPink roses symbolize admiration... Orange roses symbolize passion... Yellow roses symbolize friendship... and the list goes on!
+  parsed: true
+
+message_44:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas\n[4]㈧㉖㈂㈞㉳\!<br>ㇱ㉆㈧㉖㈗㐤㈬㉅㉖㊉㐓㈄㉧㉁<br>㉆㈧㈘㈌㈼ㇱ㉹㈡㈑㈄㈧㉅㈉㉆
+  sitelenLasina: /*\bas\n[4]*/ li sama ala kule wan /*\!<br>*/ _ ona li sama kasi[lon olin sama ·] ale tan ni /*<br>*/ ona li ken ijo mute _ kin la jan ale li olin e ona
+  originalText: \basHERO doesn't remind me of any rose in particular.\!<br>I think HERO is like all roses, because he's versatile and universally loved!
+  parsed: true
+
+#GLADIOLUS
+
+message_45:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas㈀ㇱ㈗㉁㈧㈗㐦㈗㊊㈓㉅㈬㊉㐓
+  sitelenLasina: "/*\\bas*/ a _ kasi ni li kasi[kasi : jo olin lon ·]"
+  originalText: \basAh!\! These are a type of flower called the gladiolus!
+  parsed: true
+
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel㈗㉙㈀
+  sitelenLasina: /*\kel*/ kasi seme a
+  originalText: \kelThe gladio-what?
+  parsed: true
+
+message_47:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈗㐦㈗㊊㈓㉅㈬㊉㐓㈀<br>㈆㈡㉂㉆㈧㈘㐀ㇱ㈗㑒㈎㉱
+  sitelenLasina: "/*\\bas*/ kasi[kasi : jo olin lon ·] a /*<br>*/ ante la nimi ona li ken ni1 _ kasi pi[ilo utala] "
+  originalText: \basGladiolus! Also known as the “sword flower”!
+  parsed: true
+
+message_48:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas㈝㉆㈧㉖㉂㉆<br>㈝㉆㈧㉵㑒㈿㈑<br>㈑㉁㈧㉬㈬㈧㈈㉬㈉㉎㉆㈧㉡㉵㈉㐆<br>㉙㈧㉔㉩㉆
+  sitelenLasina: /*\bas*/ kon ona li sama nimi ona /*<br>*/ kon ona li wawa pi[nasin jan] /*<br>*/ jan ni li toki lon li awen toki e pilin ona li sona wawa e ni7 /*<br>*/ seme li pona tawa ona
+  originalText: \basAs you might guess, they represent strength of character.\! Someone who is honest, with strong moral values...\! Someone who stands by their convictions...
+  parsed: true
+
+message_49:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㉎㈴㈡㈗㉁㈧㉖\n[2]㉧㉁<br>㉫㈄㈡㉆㈧㉬㈉㉎㉆㈀
+  sitelenLasina: /*\bas*/ pilin mi la kasi ni li sama /*\n[2]*/ tan ni /*<br>*/ tenpo ale la ona li toki e pilin ona a
+  originalText: \basThe gladiolus reminds me of AUBREY, because she's always true to herself!
+  parsed: true
+
+message_50:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel㈀ㇱ㈴㉡\!<br>㉁㈡㉡㈬㈧㈘㈂㈆㈉㉎㉆
+  sitelenLasina: /*\kel*/ a _ mi sona /*\!<br>*/ ni la sona lon li ken ala ante e pilin ona
+  originalText: \kelOh, I see...<br>\!So what you're saying is that AUBREY is really stubborn!
+  parsed: true
+
+message_51:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub㈀ㇱ㉁㈧㈬㈂
+  sitelenLasina: /*\aub*/ a _ ni li lon ala
+  originalText: \aubHey! No, I'm not!
+  parsed: true
+
+message_52:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas㈀ㇱ㈀\!ㇱ㉔ㇱ㈴㉄㉩
+  sitelenLasina: /*\bas*/ a _ a /*\!*/ _ pona _ mi o tawa
+  originalText: \basHaha...\! Okay! Let's move on!
+  parsed: true
+
+#========================================================================================================================
+#BATTLE TUTORIAL - HAPPY
+#========================================================================================================================
+
+#SPROUT MOLE TWIRLING
+
+message_60:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas\Com[2]㈍㈀ㇱ㉁㉝\!ㇱ㈗㈨㈅㉄ㇱ㉄㉐㉩㉜\!<br>㉞㉈㈉㈗㈞㈄㈀
+  sitelenLasina: "/*\\bas\\Com[2]*/ ike a _ ni sin /*\\!*/ _ kasi lili anpa o _ o pini tawa sike /*\\!<br>*/ sina pakala e kasi kule ale a "
+  originalText: \bas\Com[2]Oh no, not again!\! Please, MR. SPROUT MOLE! Stop twirling!\! You're destroying all of the flowers!
+  parsed: true
+
+#SPROUT MOLE TWIRLS HARDER
+#SPROUT MOLE TWIRLS INTO PARTY
+
+#message_61:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 39
+#      text: \herHmm... Let's see...\! From what I can gather, this SPROUT MOLE looks like its HAPPY!<br><br>As it flails around in its frenzy, it has a higher chance to hit our weak spots and do more damage, but it also means it has a higher chance of hitting nothing!
+
+#message_62:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 4
+#      text: \aubCome on, OMORI!<br>We have to stop it before it squishes all the flowers!
+
+#message_63:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelLet's show this ugly plant creature who's boss!
+
+#========================================================================================================================
+#BASIL EXPLAINS FLOWERS 3
+#========================================================================================================================
+
+message_70:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel㉵㈀ㇱ㈗㈞㉁㈧㉙ㇱ㉆㈧㉵㈧㈓㈉㉀㈛㈼
+  sitelenLasina: /*\kel*/ wawa a _ kasi kule ni li seme _ ona li wawa li jo e nena kiwen mute
+  originalText: \kelWhoa! What are these flowers called? They're all cool and spiky!
+  parsed: true
+
+message_71:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas㉁㈧㈗㐤㈘㈂㉬㊉㐓<br>㈆㈡㈗㈞㈧㈬㉚㉆<br>㊉㊉㊉ㇱ㉨㉎㈴㈡㉆㈧㉖㉞㈀
+  sitelenLasina: /*\bas*/ ni li kasi[ken ala toki ·] /*<br>*/ ante la kasi kule li lon sewi ona /*<br>*/ · · · _ taso pilin mi la ona li sama sina a
+  originalText: \basActually, KEL... This is a cactus!\! It's more of a plant than a flower...\! and it's funny that you ask, because they remind me of you!
+  parsed: true
+
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aub㈀ㇱ㉧㈧㐀㈇㉙\!ㇱ㈑㈧㈭㈉㉆㈡㈑㈧㈖㉈
+  sitelenLasina: /*\aub*/ a _ tan li ni1 anu seme /*\!*/ _ jan li luka e ona la jan li kama pakala
+  originalText: \aubIs it because...\! he's a prick?
+  parsed: true
+
+message_73:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kel㈀
+  sitelenLasina: /*\kel*/ a
+  originalText: \kelHey!
+  parsed: true
+
+message_74:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas㊅\!ㇱ㉁㉹㈧㈬ㇱ㉨㉧㉣㈧㉁\!<br>㈗㉁㈧㉵㈧㈘㈈㈬㈖㈍ㇱ㈄㈧㈖㈡㉆㈧㈈㉔
+  sitelenLasina: /*\bas*/ n /*\!*/ _ ni kin li lon _ taso tan suli li ni /*\!<br>*/ kasi ni li wawa li ken awen lon kama ike _ ale li kama la ona li awen pona
+  originalText: \basWell...\! That too, but mostly because cacti are very sturdy and resilient plants by nature.<br><br>They don't need much care and can survive even in seemingly impossible conditions!
+  parsed: true
+
+message_75:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈘㈡㈴㉷㉬㈉㐀ㇱ㉞㈘㈈㈉㈗㐤㈘㈂㉬㊉㐓
+  sitelenLasina: /*\bas*/ ken la mi wile toki e ni1 _ sina ken awen e kasi[ken ala toki ·]
+  originalText: \basI guess what I'm saying... is that even you could take care of a cactus, KEL!
+  parsed: true
+
+message_76:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel㉵㈀\!ㇱ㈗㐤㈘㈂㉬㊉㐓㈧㉵㈼㈀
+  sitelenLasina: /*\kel*/ wawa a /*\!*/ _ kasi[ken ala toki ·] li wawa mute a
+  originalText: \kelWhoa, neat!\! Cacti are awesome!
+  parsed: true
+
+message_77:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㈀ㇱ\!㈗㉁㈧㈗㐤㉮㊉㈧㈏㐓\!<br>㉆㈧㉜㈧㉲㈧㉔㉖\n[1]
+  sitelenLasina: /*\bas*/ a _ /*\!*/ kasi ni li kasi[tu · li insa] /*\!<br>*/ ona li sike li walo li pona sama /*\n[1]*/
+  originalText: \basAh...\! These are white tulips.\!<br>Plain, simple, and bulbous... just like OMORI!
+  parsed: true
+
+message_78:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas㊅ㇱ㉎㈴㈡㉆㈧㉦㈀
+  sitelenLasina: "/*\\bas*/ n _ pilin mi la ona li suwi a "
+  originalText: \basI don't know... I just think it's cute.
+  parsed: true
+
+#========================================================================================================================
+#BASIL PATH - SAD FLOWER DAYS
+#========================================================================================================================
+
+message_200:
+  text: \bas㉁㈧㈗㉤\!ㇱ㉂㉆㈧㉧㐀ㇱ㉫㈄㈡㉟㉆㈧㈬㉒㉤
+  sitelenLasina: /*\bas*/ ni li kasi suno /*\!*/ _ nimi ona li tan ni1 _ tenpo ale la sinpin ona li lon poka suno
+  originalText: \basThese are sunflowers.\! They're called that because they always face towards the sun.
+  parsed: true
+
+message_201:
+  text: \bas㈴㉷㉖㉆\!ㇱ㈴㉷㉡㈉㉔㑒㈌㈖
+  sitelenLasina: /*\bas*/ mi wile sama ona /*\!*/ _ mi wile sona e pona pi[ijo kama]
+  originalText: \basThat's how I want to be like...\! someone who always sees the bright side of things.
+  parsed: true
+
+message_202:
+  text: \bas㈗㉁㈧㈗㐢㈨㊊㐓\!ㇱ㉫㉐㉶㈡㈑㈧㉬㈉㉁<br>㉆㈧㉶㈉㈝㈍㈧㈖㈉㈖㉔
+  sitelenLasina: /*\bas*/ kasi ni li kasi[lili :] /*\!*/ _ tenpo pini weka la jan li toki e ni /*<br>*/ ona li weka e kon ike li kama e kama pona
+  originalText: \basThese flowers are called lily of the valley.\! It's said that they're able to ward off evil spirits and help people see a brighter future...
+  parsed: true
+
+message_203:
+  text: \bas㉎㈴㈡㉆㈧㉖㈑㐤㈱㈈㈬㈏㐓㉧㉁ㇱ\!<br>㉫㈄㈡㉆㈧㉌㈉㈿㑒㈈㉔㉩㈴
+  sitelenLasina: /*\bas*/ pilin mi la ona li sama jan[mama awen lon insa] tan ni _ /*\!<br>*/ tenpo ale la ona li pana e nasin pi[awen pona] tawa mi
+  originalText: \basI guess that's why they remind me of MARI.\!<br>I can always count on her to help me stay positive.
+  parsed: true
+
+message_204:
+  text: \bas㈗㐤㈬㉅㉖㊉㐓㈧㈘㈞㈼ㇱ㈝㈧㈬㈞㈄
+  sitelenLasina: /*\bas*/ kasi[lon olin sama ·] li ken kule mute _ kon li lon kule ale
+  originalText: \basRoses come in many different colors and have their own unique meanings.
+  parsed: true
+
+message_205:
+  text: \bas㈝㑒㈫㉲㈧㉔㉉ㇱ㈝㑒㈒㈫㈧㉎㑒㉔㈼㈝㈒㈧㉒㈑<br>㊉㊉㊉ㇱ㈞㈼㈀㈧㈬
+  sitelenLasina: /*\bas*/ kon pi[loje walo] li pona pali _ kon pi[jelo loje] li pilin pi[pona mute]  kon jelo li poka jan /*<br>*/ · · · _ kule mute a li lon
+  originalText: \basPink roses symbolize admiration... Orange roses symbolize passion... Yellow roses symbolize friendship... and the list goes on.
+  parsed: true
+
+message_206:
+  text: \bas\n[4]㈧㉖㈂㈞㉳\!ㇱ㉆㈧㉖㈗㐤㈬㉅㉖㊉㐓㈄㉧㉁<br>㉆㈧㈘㈌㈼ㇱ㉹㈡㈑㈄㈧㉅㈉㉆
+  sitelenLasina: /*\bas\n[4]*/ li sama ala kule wan /*\!*/ _ ona li sama kasi[lon olin sama ·] ale tan ni /*<br>*/ ona li ken ijo mute _ kin la jan ale li olin e ona
+  originalText: \basHERO doesn't remind me of any rose in particular.\!<br>I think HERO is like all roses, because he's versatile and universally loved.
+  parsed: true
+
+message_207:
+  text: \bas㈗㉁㈧㈗㐦㈗㊊㈓㉅㈬㊉㐓
+  sitelenLasina: "/*\\bas*/ kasi ni li kasi[kasi : jo olin lon ·]"
+  originalText: \basThese are a type of flower called the gladiolus, also known as the “sword flower”.
+  parsed: true
+
+message_208:
+  text: \bas㈨㈡㈝㉆㈧㉖㉂㉆ㇱ㈝㉆㈧㉵㑒㈿㈑\!<br>㈑㉁㈧㉬㈬㈧㈈㉬㈉㉎㉆㈧㉡㉵㈉㐀ㇱ㉙㈧㉔㉩㉆
+  sitelenLasina: /*\bas*/ lili la kon ona li sama nimi ona _ kon ona li wawa pi[nasin jan] /*\!<br>*/ jan ni li toki lon li awen toki e pilin ona li sona wawa e ni1 _ seme li pona tawa ona
+  originalText: \basAs you might guess, they represent strength of character.\! Someone who is honest, with strong moral values...\! Someone who stands by their convictions...
+  parsed: true
+
+message_209:
+  text: \!㉎㈴㈡㈗㉁㈧㉖\n[2]㉧㐀㉫㈄㈡㉆㈧㉬㈉㉎㉆
+  sitelenLasina: /*\!*/ pilin mi la kasi ni li sama /*\n[2]*/ tan ni1 tenpo ale la ona li toki e pilin ona
+  originalText: \basThe gladiolus reminds me of AUBREY, because she's always true to herself.
+  parsed: true
+
+message_210:
+  text: \bas㈗㑓㉀㈛㈼㈧㉵㈧㈘㈈㈬㈖㈍\!㈄㈧㈖㈡㉆㈧㈈㉔
+  sitelenLasina: /*\bas*/ kasi pi[nena kiwen mute] li wawa li ken awen lon kama ike /*\!*/ ale li kama la ona li awen pona
+  originalText: \basCacti are very sturdy and resilient plants by nature.\! They don't need much care and can survive even in seemingly impossible conditions.
+  parsed: true
+
+message_211:
+  text: \bas㈘㈡㈴㉷㉬㈉㐀ㇱ㉞㈘㈈㈉㈗㑓㉀㈛㈼
+  sitelenLasina: /*\bas*/ ken la mi wile toki e ni1 _ sina ken awen e kasi pi[nena kiwen mute]
+  originalText: \basI guess what I'm saying... is that even you could take care of a cactus, KEL...
+  parsed: true
+
+message_213:
+  text: \bas㈗㉁㊉㊉㊉\!㈗㉁㈧㈗㐤㉮㊉㈧㈏㐓\!<br>㉆㈧㈮㉵㈂\!㉆㈧㉣㈼㈂㈧㈨㈼㈂㈧㈓㈂㈉㈞㈼
+  sitelenLasina: /*\bas*/ kasi ni · · · /*\!*/ kasi ni li kasi[tu · li insa] /*\!<br>*/ ona li lukin wawa ala /*\!*/ ona li suli mute ala li lili mute ala li jo ala e kule mute
+  originalText: \basAnd these...\! These are white tulips.\! Tulips aren't very flashy plants.\! They're not too big or small, not too elaborate or flamboyant.
+  parsed: true
+
+message_214:
+  text: \bas㉬㈆㈡㊉㊉㊉ㇱ\!㈘㈡ㇱ㊉㊉㊉\!ㇱ㉆㈧㈍㈂\!<br>㉆㈧㈓㈂㈉㉸㈍㈧㉔㈼㉩㈴㉖\n[1]
+  sitelenLasina: /*\bas*/ toki ante la · · · _ /*\!*/ ken la _ · · · /*\!*/ _ ona li ike ala /*\!<br>*/ ona li jo ala e namako ike li pona mute tawa mi sama /*\n[1]*/
+  originalText: \basIf I could put it in another way...\! I guess I would say that...\! they're comfortable.\! Simple, modest, and perfect.\!<br>Just like \n[8].
+  parsed: true
+
+#========================================================================================================================
+#BATTLE TUTORIAL - SAD
+#========================================================================================================================
+
+#SPROUT MOLE staying still on top of a flower
+
+message_80:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: \bas㈀ㇱ㉝㈡㈗㈨㈅㈧㈬
+  sitelenLasina: /*\bas*/ a _ sin la kasi lili anpa li lon
+  originalText: \basAh! Not another SPROUT MOLE!
+  parsed: true
+
+message_81:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel㉄㉽㈂ㇱ㈑㐤㉔㈊㉦㉅㐓㉄\!ㇱ㈴㈄㈧㈖㉡㉱㈀
+  sitelenLasina: /*\kel*/ o monsuta ala _ jan[pona en suwi olin] o /*\!*/ _ mi ale li kama sona utala a
+  originalText: \kelIt's all good, BASIL!\! We got the hang of this by now!
+  parsed: true
+
+#KEL WALKS UP TO SPROUT MOLE AND TAPS IT. SPROUT MOLE TURNS AROUND. PROCS BATTLE.
+
+#message_X:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 40
+#      text: \herHmm...\! Judging by the looks of it, this SPROUT MOLE seems a bit SAD...<br><br>See how it's curled up in the fetal position?\!<br>That means it takes less damage to its HEART, but it also loses a bit of JUICE in its place...
+
+#message_82:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 19
+#      text: \kelLet's just put it out of its misery!
+
+#message_83:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 11
+#      text: \aubWait, what?
+
+#message_84:
+#      faceset: MainCharacters_DreamWorld
+#      faceindex: 18
+#      text: \kelCome on, OMORI! You know what to do!
+
+#========================================================================================================================
+#YE OLD SPROUT
+#========================================================================================================================
+
+#Before seeing anything, hear stomping noises and then a quake like something sat down.
+
+
+
+#Happens in the middle of the battle
+#Party members facing YE OLD SPROUT blocking the entrance to BASIL's house in order from left to right: OMORI, AUBREY, KEL, HERO. BASIL standing behind them.
+
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her㈀ㇱ㉱㉁㈧㉷㈉㉵㈼\!ㇱ㉄㉽㈂<br>㈴㈄㈧㉳㈡㈴㈘㉁㈀
+  sitelenLasina: /*\her*/ a _ utala ni li wile e wawa mute /*\!*/ _ o monsuta ala /*<br>*/ mi ale li wan la mi ken ni a
+  originalText: \herOh man, this fight is pretty tough...\! But don't worry!<br>We can do this if we work together!
+  parsed: true
+
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her㈴㉷㉌㈉㉡㑒㉉㈟\!<br>\n[1]㉄ㇱ㈴㉄㈃㉁㉝<br>㉫㉁㈡㈴㈅㈉㉆㈀
+  sitelenLasina: /*\her*/ mi wile pana e sona pi[pali kulupu] /*\!<br>*/ /*\n[1]*/ o _ mi o alasa ni sin /*<br>*/ tenpo ni la mi anpa e ona a
+  originalText: \herIt looks like I'm going to have to teach you all a little bit about teamwork!\! Let's try again, OMORI!<br>We'll get him this time!
+  parsed: true
+
+#========================================================================================================================
+#WHEN STEPPING ON FLOWER WHEN BASIL IS IN PARTY
+#========================================================================================================================
+
+message_92:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas㉄㉩㈂㈬㈗㈞㈀
+  sitelenLasina: /*\bas*/ o tawa ala lon kasi kule a
+  originalText: \basP-Please don't step on the flowers!
+  parsed: true
+
+#[Player moves one step back]
+
+message_93:
+  text: ㈗㈞
+  sitelenLasina: kasi kule
+  originalText: A flower.
+  parsed: true
+
+#========================================================================================================================
+#MISC
+#========================================================================================================================
+
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her\n[1]㉄ㇱ㉭㉍㈑㐤㉔㈊㉦㉅㐓㈧㈬㉒㉁㈂
+  sitelenLasina: /*\her\n[1]*/ o _ tomo pi jan[pona en suwi olin] li lon poka ni ala
+  originalText: \herHold on, OMORI! BASIL's house isn't this way!
+  parsed: true
+
+message_101:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aub㉞㉩㈰㉙ㇱ\n[1]\!<br>㈴㉄㈟㉔㈉\c[4]㈪㉠\c[0]㉍㈑㐤㉔㈊㉦㉅㐓
+  sitelenLasina: /*\aub*/ sina tawa ma seme _ /*\n[1]*/ /*\!<br>*/ mi o kulupu pona e /*\c[4]*/ lipu sitelen /*\c[0]*/ pi jan[pona en suwi olin]
+  originalText: \aubWhere are you going, OMORI?\!<br>Let's help BASIL sort his \c[4]PHOTO ALBUM\c[0]!
+  parsed: true
+
+message_102:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㉞㈘㈟㈉㉠㈬㉫㉁㈇㉙\!<br>㉞㈘㈂㈡㈴㈈
+  sitelenLasina: /*\bas*/ sina ken kulupu e sitelen lon tenpo ni anu seme /*\!<br>*/ sina ken ala la mi awen
+  originalText: \basAre you ready to put back the photos, OMORI?\!<br>I'll wait here until you're ready.
+  parsed: true
+
+#========================================================================================================================
+#SKILL DESCRIPTION
+#========================================================================================================================
+
+#short pause
+
+message_156:
+  text: \c[4]㈪㉠\c[0]㉍㈑㐤㉔㈊㉦㉅㐓\!<br>㉆㈧㈌㉣㈽㉳㉩㈑㐤㉔㈊㉦㉅㐓
+  sitelenLasina: /*\c[4]*/lipu sitelen/*\c[0]*/ pi jan[pona en suwi olin] /*\!<br>*/ ona li ijo suli nanpa wan tawa jan[pona en suwi olin]
+  originalText: BASIL's \c[4]PHOTO ALBUM\c[0].\! His most precious belonging.
+  parsed: true
+
+message_163:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \her㉁㈡㈴㉐㉌㈉㉡㑒㈿㉱\!<br>㈴㉱㈼㈡㉵㑒㉉㈟㈧㈖㉣㈀
+  sitelenLasina: /*\her*/ ni la mi pini pana e sona pi[nasin utala] /*\!<br>*/ mi utala mute la wawa pi[pali kulupu] li kama suli a
+  originalText: \herAnd there you have it...\! HERO's BATTLE TUTORIAL 101!\! And I'm sure that as we fight more battles, our teamwork will improve overtime!
+  parsed: true
+
+message_157:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉵\!ㇱ㉁㈧㉵㈼㈀\bas
+  sitelenLasina: wawa /*\!*/ _ ni li wawa mute a /*\bas*/
+  originalText: Wow, you guys!\! That was so amazing!\bas
+  parsed: true
+
+message_158:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: ㈀ㇱ㉁㈧㉣㈂ㇱ㈀ㇱ㈀\!ㇱ㈴㈅㈉㈌㉣㈀\!<br>㈴㉷㈉㐀ㇱ㉞㈮㈉\c[1]㈘㉡\c[0]㈴\kel
+  sitelenLasina: "a _ ni li suli ala _ a _ a /*\\!*/ _ mi anpa e ijo suli a /*\\!<br>*/ mi wile e ni1 _ sina lukin e /*\\c[1]*/ ken sona/*\\c[0]*/ mi /*\\kel*/ "
+  originalText: Ah, that was nothin'... Heh, heh.\! I've taken down way bigger guys than that!\! I should teach you some of my \c[1]SKILLS\c[0] one of these days!\kel
+  parsed: true
+
+message_159:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: ㈑㐤㉔㈊㉦㉅㐓㉄ㇱ㈴㉡㈉㐀ㇱ㉱㈧㉔㈂㉩㉞\!<br>㉨㉞㉷㉡㈈㈉㉞㈬㉱\aub
+  sitelenLasina: jan[pona en suwi olin] o _ mi sona e ni1 _ utala li pona ala tawa sina /*\!<br>*/ taso sina wile sona awen e sina lon utala /*\aub*/
+  originalText: BASIL... I know you're not the type that likes to fight...\! but it's good to know how to defend yourself too!\aub
+  parsed: true
+
+message_160:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: ㊅\!ㇱ㈴㉠㈉㈪㐀ㇱ㉆㈧㈓㈉㉡㈄㉱\!<br>㈘㈡㈴㈄㈘㈮㈉㉆㈬㉫㈖<br>ㇱ㉫㉁㈡㈴㉌㈉㉆㉩\n[1]\her
+  sitelenLasina: n /*\!*/ _ mi sitelen e lipu ni1 _ ona li jo e sona ale utala /*\!<br>*/ ken la mi ale ken lukin e ona lon tenpo kama /*<br>*/ _ tenpo ni la mi pana e ona tawa/*\n[1]\her*/
+  originalText: You know...\! I've actually been working on a book all about battles!\! Maybe we can all study together next time.\! I'll give it to OMORI to hold onto for now. \her
+  parsed: true
+
+message_169:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her㈴㈖㉵㈼㈡㈴㈆㈉㉠㑒㉱㈟㈬\c[4]㈪㑒㈿㈈\c[0]<br>㉁㈡㉄㈮㈉㉆㈬㉫㈨
+  sitelenLasina: /*\her*/ mi kama wawa mute la mi ante e sitelen pi[utala kulupu] lon /*\c[4]*/ lipu pi[nasin awen] /*\c[0]<br>*/ ni la o lukin e ona lon tenpo lili
+  originalText: \herAs we get stronger, I'll be updating the FOLLOW-UP section of the \c[4]SELF-HELP GUIDE\c[0], so be sure to check it out every now and then!
+  parsed: true
+
+message_152:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \n[1]㉄ㇱ㉞㉷㉡㈉㉁\!<br>㊋㈽㉵㊌㈴㈧㈖㉣㈡㈴㈘㈖㉡㈉\c[1]㊋㈘㉡㊌\c[0]\her
+  sitelenLasina: "/*\\n[1]*/ o _ sina wile sona e ni /*\\!<br>*/ te nanpa wawa to mi li kama suli la mi ken kama sona e /*\\c[1]*/ te ken sona to /*\\c[0]\\her*/ "
+  originalText: OMORI, you should know...\! When we gain EXP and LEVEL UP, sometimes we'll also learn \c[1]SKILLS\c[0].\her
+  parsed: true
+
+message_153:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \c[1]㈘㉡\c[0]㈧㉵㈧㈘㈌㈼\!<br>㉨㈴㉳㈘㉡㈉\c[1]㈘㉡\c[0]㉮㉮㉨㈬㉱\her
+  sitelenLasina: /*\c[1]*/ ken sona /*\c[0]*/ li wawa li ken ijo mute /*\!<br>*/ taso mi wan ken sona e /*\c[1]*/ ken sona /*\c[0]*/ tu tu taso lon utala /*\her*/
+  originalText: \c[1]SKILLS\c[0] are powerful and have a wide range of effects, but each of us can only remember up to 4 \c[1]SKILLS\c[0] at a time.\her
+  parsed: true
+
+message_154:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: ㉞㉷㈙㈉\c[1]㈘㉡\c[0]㉝㈡㉄㈮㈉㉆㈬㈎㈤\her
+  sitelenLasina: sina wile kepeken e /*\c[1]*/ ken sona /*\c[0]*/ sin la o lukin e ona lon ilo lawa /*\her*/
+  originalText: After you learn a new \c[1]SKILL\c[0], don't forget to equip it from the PLAYER MENU, okay?\her
+  parsed: true
+
+message_161:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: ㈬ㇱ㈬ㇱ㈴㉡㈉㉁\!<br>㈴㈘㈂㈘㉩㉭㉍㈑㐤㉔㈊㉦㉅㐓㈬㉫㉁㈇㉙\kel
+  sitelenLasina: lon _ lon _ mi sona e ni /*\!<br>*/ mi ken ala ken tawa tomo pi jan[pona en suwi olin] lon tenpo ni anu seme /*\kel*/
+  originalText: Yeah, yeah... We know!\! Can we go to BASIL's house now?\kel
+  parsed: true
+
+message_162:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: ㉔㈀ㇱ㉁㈧㈄㑓㉷㉬㈴\!<br>㉞㉷㈈ㇱ\n[2]㉄㊉㊉㊉\her
+  sitelenLasina: pona a _ ni li ale pi[wile toki mi] /*\!<br>*/ sina wile awen _ /*\n[2]*/ o · · · /*\her*/
+  originalText: Okay! That's all I had to say!\! Patience, KEL...\her
+  parsed: true
+
+#========
+#EMOTION
+
+#=======
+
+message_165:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: ㊅\!ㇱ㈴㈖㈮㈉㈗㐀㈼ㇱ㉆㈧㉎\her
+  sitelenLasina: n /*\!*/ _ mi kama lukin e kasi ni1 mute _ ona li pilin /*\her*/
+  originalText: Hmmm...\! We seem to be running across a lot of foes with EMOTION.\her
+  parsed: true
+
+message_166:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her㉎㈧㈘㉵㈉㉱㈧㈘㉵㈂㈉㉱\!<br>㉎㉔㈧㉵㉩㉎㉱\!ㇱ㉎㉱㈧㉵㉩㉎㈍<br>㉐㈡㉎㈍㈧㉵㉩㉎㉔
+  sitelenLasina: "/*\\her*/ pilin li ken wawa e utala li ken wawa ala e utala /*\\!<br>*/ pilin pona li wawa tawa pilin utala /*\\!*/ _ pilin utala li wawa tawa pilin ike /*<br>*/ pini la pilin ike li wawa tawa pilin pona "
+  originalText: \herIn case you didn't know, EMOTIONS can determine how strong or weak an attack is.\! HAPPY beats ANGRY...\! ANGRY beats SAD...\! and SAD beats HAPPY!
+  parsed: true
+
+message_167:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: ㉹㈡㈴㉉㈉㈪㑒㈿㉎\!ㇱ㈴㉔㈂㉩㉉㉠<br>㉨㉞㈘㉡㉔㈉㉆<br>㈴㉌㈉㉆㉩㉓㉞ㇱ㐂㈡㉞㈘㈮㈉㉆㈬㉫㈖\her
+  sitelenLasina: kin la mi pali e lipu pi[nasin pilin] /*\!*/ _ mi pona ala tawa pali sitelen /*<br>*/ taso sina ken sona pona e ona /*<br>*/ mi pana e ona tawa poki sina _ ni3 la sina ken lukin e ona lon tenpo kama/*\her*/
+  originalText: Here! I even drew up a guide on how they work!\! I'm no artist, but I think you'll get the point.\! I'll put it in your POCKET so you can check it out later.\her
+  parsed: true
+
+message_168:
+  text: ㉞㈖㈓㈉\c[4]㈪㑒㈿㉎\c[0]
+  sitelenLasina: sina kama jo e /*\c[4]*/ lipu pi[nasin pilin] /*\c[0]*/
+  originalText: You got an \c[4]EMOTION CHART\c[0].
+  parsed: true
+
+message_170:
+  text: ㉞㉷㈂㉷㈮㈉\c[4]㈪㑒㈿㉎\c[0]㈬㉫㉁
+  sitelenLasina: sina wile ala wile lukin e /*\c[4]*/ lipu pi[nasin pilin] /*\c[0]*/ lon tenpo ni
+  originalText: Do you want to look at the \c[4]EMOTION CHART\c[0] now?
+  parsed: true

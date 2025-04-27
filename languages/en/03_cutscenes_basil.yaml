@@ -1,0 +1,490 @@
+# =========================================================================================
+# Cutscene: FALLEN PHOTO
+# =========================================================================================
+
+#TRIGGER: Enter Basil's House Entrance.
+
+#OMORI and party walk in screen.
+
+message_0:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \Com[2]\SINV[1]㉄㉔㈮㈉㉞㈀\SINV[0]\bas
+  sitelenLasina: /*\Com[2]\SINV[1]*/ o pona lukin e sina a /*\SINV[0]\bas*/
+  originalText: \Com[2]\SINV[1]Say cheese!\SINV[0]\bas
+  parsed: true
+
+#Screen flashes white
+#BASIL takes a photo of the party
+#BASIL takes out photo
+
+message_1:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㈀ㇱ㈴㈘㈂㈮㉔㈉㉆\!<br>㊅ㇱ㉁㉹㈧㉔ㇱ㈆㉆㈧㉔\bas
+  sitelenLasina: a _ mi ken ala lukin pona e ona /*\!<br>*/ n _ ni kin li pona _ ante ona li pona /*\bas*/
+  originalText: Aww, it came out kind of blurry...\!<br>Well, that's okay. That gives it character.\bas
+  parsed: true
+
+#BASIL puts away photo
+
+message_2:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㈴㉉㈉㉠ㇱ㉁㈧㉔㈂㉔㉩㉞\bas
+  sitelenLasina: mi pali e sitelen _ ni li pona ala pona tawa sina /*\bas*/
+  originalText: Hope you don't mind the photo.\bas
+  parsed: true
+
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: ㉔㈀\!ㇱ㈴㉷㈮㈉㉆\aub
+  sitelenLasina: pona a /*\!*/ _ mi wile lukin e ona /*\aub*/
+  originalText: Of course we don't mind! I wanna see it!\aub
+  parsed: true
+
+message_4:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㈀ㇱ㉔\bas
+  sitelenLasina: a _ pona /*\bas*/
+  originalText: O-Oh, sure thing.\bas
+  parsed: true
+
+#BASIL takes out PHOTO ALBUM.
+#AUBREY runs to the side of BASIL.
+#AUBREY jumps.
+
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \SINV[1]㈴㈄㈧㉦㈮㈀\SINV[0]\aub
+  sitelenLasina: /*\SINV[1]*/ mi ale li suwi lukin a /*\SINV[0]\aub*/
+  originalText: \SINV[1]We all look so cute!\SINV[0]\aub
+  parsed: true
+
+#HERO walks up to the side of BASIL.
+
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: ㈩㈤㈴㈧㉙㈮\her
+  sitelenLasina: linja lawa mi li seme lukin/*\her*/
+  originalText: How's my hair?\her
+  parsed: true
+
+#KEL jumps
+
+message_7:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \Com[2]\{㈴㉷㈮㈀ㇱ㈴㉷㈮㈀㈀\kel
+  sitelenLasina: /*\Com[2]\{*/ mi wile lukin a _ mi wile lukin a a/*\kel*/
+  originalText: \Com[2]\{I WANNA SEE!! I WANNA SEE!!\kel
+  parsed: true
+
+#KEL runs up to the front of BASIL.
+#TRIGGER: OMORI talks to BASIL from behind.
+
+message_8:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: ㈀ㇱ\n[1]㉄ㇱ㉞㉹㉷㈮㈉㉠㈇㉙\bas
+  sitelenLasina: a _ /*\n[1]*/ o _ sina kin wile lukin e sitelen anu seme /*\bas*/
+  originalText: Oh hey, OMORI! Did you want to look at the photo too?\bas
+  parsed: true
+
+#BASIL gave you a GROUP Photo
+#SLIDE: GROUP PHOTO (DREAM)
+
+message_9:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㈍㈡㉠㈧㈜㈮ㇱ㉨㉞㈈㉦㈮㈀\!<br>㈴㉷㉌㈉㉆㈬㈪㉠㈴\bas
+  sitelenLasina: ike la sitelen li ko lukin _ taso sina awen suwi lukin a /*\!<br>*/ mi wile pana e ona lon lipu sitelen mi /*\bas*/
+  originalText: It's too bad that it came out kind of blurry, but you all still look so cute.\! I should add it to my collection!\bas
+  parsed: true
+
+#BASIL takes out his PHOTO ALBUM.
+
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \sinv[1]㉔㈀\sinv[0]\c[4]㈪㉠\c[0]㈧㈖㈓㈉㉠㉝\kel
+  sitelenLasina: /*\sinv[1]*/ pona a /*\sinv[0]*/ /*\c[4]*/ lipu sitelen /*\c[0]*/ li kama jo e sitelen sin /*\kel*/
+  originalText: \sinv[1]Woo-hoo!\sinv[0] Another shot for the \c[4]PHOTO ALBUM\c[0]!\kel
+  parsed: true
+
+#SLIDE: BASIL'S PHOTO ALBUM (DREAM)
+
+# =========================================================================================
+# Cutscene: Photo Accident
+# =========================================================================================
+
+#TRIGGER: Finish viewing Slide: Basil's PHOTO ALBUM (Dream).
+#KEL walks next to AUBREY.
+
+message_34:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \Com[2]㉄㉩ㇱ\n[2]㉄ㇱ㈴㈘㈂㈮㈀\kel
+  sitelenLasina: /*\Com[2]*/ o tawa _ /*\n[2]*/ o _ mi ken ala lukin a /*\kel*/
+  originalText: \Com[2]Move over, AUBREY! I can't see!\kel
+  parsed: true
+
+#KEL pushes AUBREY out of the way and looks at the photos.
+
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \{㈀ㇱ㉄㉩㈂㈉㈴\aub\}
+  sitelenLasina: /*\{*/ a _ o tawa ala e mi /*\aub\}*/
+  originalText: \{HEY, STOP PUSHING!\aub\}
+  parsed: true
+
+#AUBREY pushes KEL back.
+
+message_36:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \{㉫㉒㈡㉞㈮㈉㉆㈀\kel\}
+  sitelenLasina: /*\{*/ tenpo poka la sina lukin e ona a /*\kel\}*/
+  originalText: \{YOU ALREADY HAD YOUR TURN!!\kel\}
+  parsed: true
+
+#KEL pushes AUBREY back.
+
+message_37:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \{㉄㉶㈀ㇱ\n[3]㉄\aub\}
+  sitelenLasina: /*\{*/ o weka a _ /*\n[3]*/ o /*\aub\}*/
+  originalText: \{GET OUT OF MY WAY, KEL!!!\aub\}
+  parsed: true
+
+message_38:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: ㈀ㇱ㉄㉐㉁㈀ㇱ㉞㉷㈂㉱\bas
+  sitelenLasina: a _ o pini ni a _ sina wile ala utala /*\bas*/
+  originalText: W-Wait, hold on! There's no need to fight!\bas
+  parsed: true
+
+message_39:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \Com[2]\{㈴㉷㈮㈉㉆㈬㉫㉁\kel
+  sitelenLasina: /*\Com[2]\{*/ mi wile lukin e ona lon tenpo ni /*\kel*/
+  originalText: \Com[2]\{ME FIRST!\kel
+  parsed: true
+
+message_40:
+
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \Com[2]\{㈂㈀ㇱ㈴㉷㈮㈀㈀\aub
+  sitelenLasina: /*\Com[2]\{*/ ala a _ mi wile lukin a a /*\aub*/
+  originalText: \Com[2]\{NO, ME!!\aub
+  parsed: true
+
+#AUBREY pushes KEL.
+#KEL pushes AUBREY.
+#AUBREY pushes KEL.
+
+message_41:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: ㈀ㇱ㉄㉐\!ㇱ㉞㉩㈉㈴㈀\bas
+  sitelenLasina: a _ o pini /*\!*/ _ sina tawa e mi a /*\bas*/
+  originalText: Ahh, stop it!\! You guys are knocking me over!\bas
+  parsed: true
+
+#BASIL falls over and spills the Photos all over the floor.
+
+#Aubrey and KEL stop pushing to look at BASIL and are surprised.
+#HERO also looks at BASIL and is surprised.
+
+message_42:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: ㊉㊉㊉\bas
+  sitelenLasina: · · · /*\bas*/
+  originalText: ... ... ... \bas
+  parsed: true
+
+message_43:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: ㈀\!ㇱ㉈\kel
+  sitelenLasina: a /*\!*/ _ pakala /*\kel*/
+  originalText: Uhh...\! Whoops...\kel
+  parsed: true
+
+#Aubrey jumps
+
+message_44:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: ㈍㈀ㇱ\!㈑㐤㉔㈊㉦㉅㐓㉄\!ㇱ㈴㉷㈂㈉㉁㊉㊉㊉\aub
+  sitelenLasina: ike a _ /*\!*/ jan[pona en suwi olin] o /*\!*/ _ mi wile ala e ni · · · /*\aub*/
+  originalText: Oh my gosh...\! BASIL...\! I'm so sorry...\aub
+  parsed: true
+
+#HERO turns to Basil
+
+message_45:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: ㉞㉔㈂㉔ㇱ㈑㐤㉔㈊㉦㉅㐓㉄\her
+  sitelenLasina: sina pona ala pona _ jan[pona en suwi olin] o /*\her*/
+  originalText: Are you okay, BASIL?\her
+  parsed: true
+
+#HERO turns to KEL and AUBREY.
+
+message_46:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 44
+  text: ㉞㉈㉣㈀\!ㇱ㉞㉷㉱㈂㉧㉁㈀\her
+  sitelenLasina: sina pakala suli a /*\!*/ _ sina wile utala ala tan ni a /*\her*/
+  originalText: You two are in big trouble now!\! This is why the both of you need to learn how to get along!\her
+  parsed: true
+
+message_47:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 29
+  text: ㈴㉷㈂㈉㉁㊉㊉㊉ㇱ\n[4]㉄<br>㉄㉬㈂㈉㉁㉩㈑㐤㈱㈈㈬㈏㐓\kel
+  sitelenLasina: mi wile ala e ni · · · _ /*\n[4]*/ o /*<br>*/ o toki ala e ni tawa jan[mama awen lon insa] /*\kel*/
+  originalText: I'm sorry... We didn't mean it, HERO!<br>\!Please don't tell MARI...\kel
+  parsed: true
+
+#BASIL gets up
+
+message_48:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㈀ㇱ㉄㉽㈂\!ㇱ㉫㈨㈡㉈㈧㈬\bas
+  sitelenLasina: a _ o monsuta ala /*\!*/ _ tenpo lili la pakala li lon /*\bas*/
+  originalText: I-It's okay, don't worry about it.\! Accidents happen...\bas
+  parsed: true
+
+#HERO helps BASIL pick up his photos.
+
+message_49:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: ㈴㈓㈉㉠㉞\!ㇱ㈮㈡㉠㈂㈧㉈\!<br>㈴㉄㉌㈉㉆㈬\c[4]㈪㉠\c[0]㉞\her
+  sitelenLasina: mi jo e sitelen sina /*\!*/ _ lukin la sitelen ala li pakala /*\!<br>*/ mi o pana e ona lon /*\c[4]*/ lipu sitelen /*\c[0]*/ sina /*\her*/
+  originalText: Here's your photos.\!<br>It doesn't look like any of them got damaged.<br>\!Let's put them back in your \c[4]PHOTO ALBUM\c[0] together.\her
+  parsed: true
+
+message_50:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: ㉔㉄㉩㉞ㇱ\n[4]㉄\bas
+  sitelenLasina: pona o tawa sina _ /*\n[4]*/ o /*\bas*/
+  originalText: Thank you, HERO!\bas
+  parsed: true
+
+#BASIL walks toward BASIL's house, and then turns toward party.
+
+message_51:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㈴㉷㉩㉭㈴\!<br>㉇㈡㉄㉶㈉㈐㈬㉃㉞\bas
+  sitelenLasina: mi wile tawa tomo mi /*\!<br>*/ open la o weka e jaki lon noka sina /*\bas*/
+  originalText: Let's go inside my house first.\!<br>Remember to wipe your feet before you come in!\bas
+  parsed: true
+
+# =========================================================================================
+# Cutscene: Fallen Photo
+# =========================================================================================
+
+#TRIGGER: Trigger: Complete Slide: Sorting Basil's PHOTO ALBUM (Dream)
+
+
+message_70:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉆㈧㉔㉝㈀\bas
+  sitelenLasina: ona li pona sin a /*\bas*/
+  originalText: There, good as new.\bas
+  parsed: true
+
+message_71:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: ㈴㉎㈍㉧㉈㈴ㇱ㈑㐤㉔㈊㉦㉅㐓㉄<br>\}㉨㉧㉈㈧\n[3]㉹㊉㊉㊉\aub
+  sitelenLasina: mi pilin ike tan pakala mi _ jan[pona en suwi olin] o /*<br>\}*/ taso tan pakala li /*\n[3]*/ kin · · · /*\aub*/
+  originalText: I'm really sorry for pushing you over BASIL.\.<br>\}Even though at least half of it was KEL's fault...\aub
+  parsed: true
+
+message_72:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: ㈴㉬㈬㈉㐀ㇱ㉫㈖㈡㈴㉱㈂㈉\n[2]<br>\}㉨㉆㈧㉇㈉㉱㈡㊉㊉㊉\kel
+  sitelenLasina: mi toki lon e ni1 _ tenpo kama la mi utala ala e /*\n[2]*/ /*<br>\}*/ taso ona li open e utala la · · · /*\kel*/
+  originalText: Yeah, I promise to never fight with AUBREY ever again!\.<br>\}Unless she starts it first...\kel
+  parsed: true
+
+message_73:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: ㉄㉽㈂㈀\!ㇱ㈴㉡㈉㐀ㇱ㉫㉐㈡㉞㉷㈮㈉\c[4]㈪㉠\c[0]㈴\!<br>㉞㉌㉝㈉㉠㈬㈪ㇱ㐂㈧㉔㈼㉩㈴\bas
+  sitelenLasina: o monsuta ala a /*\!*/ _ mi sona e ni1 _ tenpo pini la sina wile lukin e /*\c[4]*/ lipu sitelen /*\c[0]*/ mi /*\!<br>*/ sina pana sin e sitelen lon lipu _ ni3 li pona mute tawa mi /*\bas*/
+  originalText: Don't worry about it.\!<br>I know you only wanted to see my \c[4]PHOTO ALBUM\c[0].\!<br>Thank you for helping me put it back together!\bas
+  parsed: true
+
+#BASIL walks to the dinner table carrying the album.
+#A photo falls from the album.
+
+message_74:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: ㈀\!ㇱ㉁㈧㈾\!<br>㈘㈡㉠㉁㈧㈈㉵㈂㈬㈪\bas
+  sitelenLasina: a /*\!*/ _ ni li nasa /*\!<br>*/ ken la sitelen ni li awen wawa ala lon lipu /*\bas*/
+  originalText: Hm?\! That's strange.\!<br>A photo must have been loose.\bas
+  parsed: true
+
+#BASIL picks up the photo.
+
+message_75:
+  faceset: MainCharacter_Basil
+  faceindex: 3
+  text: ㉙㈀ㇱ㉁㈧㉙\!ㇱ㈴㉉㈉㉠㉁㈇㉙\bas
+  sitelenLasina: seme a _ ni li seme/*\!*/ _ mi pali e sitelen ni anu seme /*\bas*/
+  originalText: Huh? What is this?\! Did I take this photo?\bas
+  parsed: true
+
+message_76:
+  faceset: MainCharacter_Basil
+  faceindex: 4
+  text: ㉙㉆㈧㊉㊉㊉\!ㇱ㉡㈴\bas
+  sitelenLasina: seme ona li · · · /*\!*/ _ sona mi /*\bas*/
+  originalText: Something about it seems...\! so familiar.\bas
+  parsed: true
+
+#BASIL glitches out. Basil's Something silhouette pulses on the floor.
+
+
+message_79:
+  faceset: MainCharacter_Basil
+  faceindex: 5
+  text: ㈬㈂\!ㇱ㉁㈧㈘㈂㈬㊉㊉㊉\bas
+  sitelenLasina: lon ala /*\!*/ _ ni li ken ala lon · · · /*\bas*/
+  originalText: N-No...\! That can't be...\bas
+  parsed: true
+
+message_80:
+  faceset: MainCharacter_Basil
+  faceindex: 7
+  text: \fn<OMORI_GAME>㈑㐤㈱㈈㈬㈏㐓\!   ㉆㈧㊉㊉㊉\bas\^
+  sitelenLasina: /*\fn<OMORI_GAME>*/ jan[mama awen lon insa] /*\! */ /*  */ ona li · · · /*\bas\^*/
+  originalText: \fn<OMORI_GAME>MARI...\! She's...\bas\^
+  parsed: true
+
+message_81:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉫㉁㈡㉞㈘㉌㉝㈉㉠㈬㈪㈇㉙<br>\n[1]㉄\bas
+  sitelenLasina: tenpo ni la sina ken pana sin e sitelen lon lipu anu seme /*<br>*/ /*\n[1]*/ o /*\bas*/
+  originalText: Are you ready to put back the photos, OMORI?\bas
+  parsed: true
+
+message_82:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉔㈀ㇱ㈴㉄㉇\bas
+  sitelenLasina: pona a _ mi o open /*\bas*/
+  originalText: Yay! Let's get started!\bas
+  parsed: true
+
+message_101:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㈀ㇱ㉁㈧㉣㈂\!<br>㉄㈈㉔㈬㉭㈴㈀\bas
+  sitelenLasina: a _ ni li suli ala /*\!<br>*/ o awen pona lon tomo mi a /*\bas*/
+  originalText: Aww... No problem.\!<br>Feel free to make yourself at home!\bas
+  parsed: true
+
+message_102:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉁㈧㉣㈂\!ㇱ㉞㈘㈂㈡㈴㈈\bas
+  sitelenLasina: ni li suli ala /*\!*/ _ sina ken ala la mi awen /*\bas*/
+  originalText: No problem.\! I'll wait here until you're ready.\bas
+  parsed: true
+# Play Basil Something Animation
+# Player wakes up.
+
+# =========================================================================================
+# Misc
+# =========================================================================================
+
+message_83:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kel㈀ㇱ㉄㈮㈂㈉㈴ㇱ㈴㉡㈂㈉㈰㉔㉠
+  sitelenLasina: "/*\\kel*/ a _ o lukin ala e mi _ mi sona ala e ma pona sitelen "
+  originalText: \n<KEL>Hey, don't look at me!\! I don't know where the photos go!
+  parsed: true
+
+# =========================================================================================
+# Cutscene: Otherworld Ladder
+# =========================================================================================
+
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\Com[2]Whoa, this ladder is so tall!
+
+message_91:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelI bet it goes all the way up to \{space!\}
+
+message_92:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aubDon't be stupid, \n[3]. Ladders can't be \{that\} tall.
+
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kelMaybe if we keep climbing, we'll even reach a new planet.\!
+
+message_94:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: \kelI'm gonna claim it as my own...
+
+message_95:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\{AND NAME IT \c[13]HECTOR\c[0]!
+
+message_96:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aubWow, over your pet rock already?
+
+message_97:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kelNo way!\! I'm naming it in honor of him.
+
+message_98:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 23
+  text: \kelSo he knows I'm still searching...
+
+message_99:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \herY-yeah...\! Maybe later, KEL.
+
+message_100:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 36
+  text: \herWe have more important things to do right now.

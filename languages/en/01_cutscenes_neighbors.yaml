@@ -1,0 +1,824 @@
+# =========================================================================================
+# Cutscene: Neighbors Room Intro, DAY 0 PART 1
+# =========================================================================================
+
+#Area Block
+
+message_0:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: ㉁㈧㈿㑒㈰㈻㈂
+  sitelenLasina: ni li nasin pi[ma musi] ala
+  originalText: This isn't the way to the playground, silly!\aub
+  parsed: true
+
+#TRIGGER: ENTER NEIGHBORS ROOM
+
+#upon seeing OMORI, AUBREY runs across the cards to greet him.
+
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  parsed: true
+  originalText: Hi OMORI! We were hoping that you'd come by soon.\!<br>Wanna play cards with us?\! <br>We were just about to start another game!\aub
+  sitelenLasina: /*\n[1]*/ o _ sina lon ala la mi ale li awen tan sina /*\!<br>*/ sina wile ala wile musi lipu lon poka mi /*\!*/ _ tenpo kama lili la musi li pini/*\aub*/
+  text: \n[1]㉄ㇱ㉞㈬㈂㈡㈴㈄㈧㈈㉧㉞\!<br>㉞㉷㈂㉷㈻㈪㈬㉒㈴\!ㇱ㉫㈖㈨㈡㈻㈧㉐\aub
+
+#AUBREY looks behind her.
+
+message_2:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  parsed: true
+  originalText: Oh!\! Whoops...\! Nevermind...\aub
+  sitelenLasina: a /*\!*/ _ pakala /*\!*/ _ o weka e toki mi /*\aub*/
+  text: ㈀\!ㇱ㉈\!ㇱ㉄㉶㈉㉬㈴\aub
+
+#KEL looks at AUBREY and jumps.
+
+message_3:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  parsed: true
+  originalText: Aww, man... \Com[2]What the heck, AUBREY!?\!<br>You messed up all the cards!\!<br>I was winning, too.\kel
+  sitelenLasina: a _ /*\n[2]*/ o _ /*\Com[2]*/sina seme /*\!<br>*/ sina pakala e lipu a /*\!*/ _ ni ala la mi kama sewi /*\kel*/
+  text: ㈀ㇱ\n[2]㉄ㇱ\Com[2]㉞㉙\!<br>㉞㉈㈉㈪㈀\!ㇱ㉁㈂㈡㈴㈖㉚\kel
+
+message_4:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  parsed: true
+  originalText: Hey there, KEL. There's no need to get angry.\!<br>It's just a game, after all.\her
+  sitelenLasina: /*\n[3]*/ o _ ni li musi taso la o utala ala /*\her*/
+  text: \n[3]㉄ㇱ㉁㈧㈻㉨㈡㉄㉱㈂\her
+
+#KEL looks at HERO
+
+message_5:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  parsed: true
+  originalText: Don't give me that, HERO!<br>\!You only say that ‘cause you were losing.\kel
+  sitelenLasina: o sewi ala e sina a _ sina toki e ni tan ni1 _ sina anpa lon musi /*\kel*/
+  text: ㉄㉚㈂㈉㉞㈀ㇱ㉞㉬㈉㉁㉧㐀ㇱ㉞㈅㈬㈻\kel
+message_6:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 42
+  parsed: true
+  originalText: ...\her
+  sitelenLasina: n /*\her*/
+  text: ㊅\her
+
+# =========================================================================================
+# Aubrey's Dialogue before Omori gives her the PlantEgg
+# =========================================================================================
+
+message_10:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  parsed: true
+  originalText: \aubWhy is \n[3] always so mean to me!?\! <br>You know, the other day, that good-for-nothing stole my \c[13]STUFFED TOY\c[0] and hid it somewhere in this room.
+  sitelenLasina: /*\aub*/ tenpo ale la /*\n[3]*/ li ike tawa mi tan seme /*\!<br>*/ tenpo pini la ona li weka e /*\c[13]*/ko musi/*\c[0]*/ mi
+  text: \aub㉫㈄㈡\n[3]㈧㈍㉩㈴㉧㉙\!<br>㉫㉐㈡㉆㈧㉶㈉\c[13]㈜㈻\c[0]㈴
+
+message_11:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  parsed: true
+  originalText: \aubWhy would he do something like that?\! He's so immature...\! <br>I mean, what did I ever do to him!?
+  sitelenLasina: /*\aub*/ ona li ni tan seme a /*\!*/ _ ale li musi tawa ona/*\!<br>*/ mi seme ike tawa ona
+  text: \aub㉆㈧㉁㉧㉙㈀\!ㇱ㈄㈧㈻㉩㉆\!<br>㈴㉙㈍㉩㉆
+
+message_12:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  parsed: true
+  originalText: \aubOh, I know!\! Can you find my \c[13]STUFFED TOY\c[0] for me, \n[1]?\! Pretty please?
+  sitelenLasina: /*\aub*/ a /*\!*/ _ mi sona /*\!*/ _ o alasa e /*\c[13]*/ko musi/*\c[0]*/ /*\!<br>*/ sina pali la pali sina li pona mute tawa mi
+  text: \aub㈀\!ㇱ㈴㉡\!ㇱ㉄㈃㈉\c[13]㈜㈻\c[0]\!<br>㉞㉉㈡㉉㉞㈧㉔㈼㉩㈴
+
+# =========================================================================================
+# Kel's Dialogue
+# =========================================================================================
+
+message_13:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  parsed: true
+  originalText: \kelYo \n[1], look at what I found the other day!
+  sitelenLasina: /*\kel*/ tenpo pini la mi kama lukin e ni _ o lukin e ona a
+  text: \kel㉫㉐㈡㈴㈖㈮㈉㉁ㇱ㉄㈮㈉㉆㈀
+
+message_14:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  parsed: true
+  originalText: \kelIt's a pet rock... Isn't he awesome?
+  sitelenLasina: /*\kel*/ ona li kiwen pona _ ona li wawa a anu seme
+  text: \kel㉆㈧㈛㉔ㇱ㉆㈧㉵㈀㈇㉙
+
+message_15:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 35
+  parsed: true
+  originalText: A tiny pet rock stares at you from inside \n[3]'s POCKET.
+  sitelenLasina: kiwen pona lili li lukin e sina lon poki len pi jan [ken ·]
+  text: ㈛㉔㈨㈧㈮㈉㉞㈬㉓㈥㉍㈑㐢㈘㊉㐓
+
+message_16:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  parsed: true
+  originalText: \kel\{I'M GONNA NAME HIM \c[13]HECTOR\c[0]!!\}
+  sitelenLasina: mi kama nimi e ona kepeken nimi ni1 _ /*\c[13]*/kiwen [ken · tenpo olin]/*\c[0]*/ a
+  text: ㈴㈖㉂㈉㉆㈙㉂㐀ㇱ\c[13]㈛㐤㈘㊉㉫㉅㐓\c[0]㈀
+
+#UNUSED
+message_126:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  parsed: true
+  originalText: \kel\}And just as a secret between you and me...\!<br>You can see him anytime by checking my EQUIP from the PLAYER MENU!
+  sitelenLasina: _
+  text: ㇱ
+
+message_17:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  parsed: true
+  originalText: \kel\SINV[1]Maaaaaaannnnnnnnnnnnn...\sinv[0]\!<br>AUBREY always gets what she wants.
+  sitelenLasina: /*\kel\SINV[1]*/ ike mute a /*\sinv[0]\!<br>*/ tenpo ale la pona li kama tawa /*\n[2]*/
+  text: \kel\SINV[1]㈍㈼㈀\sinv[0]\!<br>㉫㈄㈡㉔㈧㈖㉩\n[2]
+
+# =========================================================================================
+# Hero's Dialogue
+# =========================================================================================
+
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herWhat's up, \n[1]? We've been waiting for you!
+  sitelenLasina: /*\her*/ seme li lon _ tenpo pini la mi ale li awen tan sina
+  text: \her㉙㈧㈬ㇱ㉫㉐㈡㈴㈄㈧㈈㉧㉞
+
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  parsed: true
+  originalText: \her\n[3] and \n[2] have been fighting a lot again.\!<br>You would think they'd get tired of it after a while, but they're both just so full of energy.
+  sitelenLasina: /*\her\n[3]*/ en /*\n[2]*/ li utala sin /*\!<br>*/ mi sona e ni1 _ ona li kama wawa ala tan ni2 _ taso ona li wawa mute
+  text: \her\n[3]㈊\n[2]㈧㉱㉝\!<br>㈴㉡㈉㐀ㇱ㉆㈧㈖㉵㈂㉧㐁ㇱ㉨㉆㈧㉵㈼
+
+# =========================================================================================
+# Cutscene: STUFFED TOY
+# =========================================================================================
+
+#TRIGGER: OMORI finds AUBREYs Stuffed Toy, and returns the Stuffed toy to AUBREY
+
+message_27:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  parsed: true
+  originalText: I-is that...?\! Could it be?\aub
+  sitelenLasina: pona a /*\!*/ _ sina kama lukin e ona /*\aub*/
+  text: ㉔㈀\!ㇱ㉞㈖㈮㈉㉆\aub
+
+#AUBREY does a twirl.
+
+message_28:
+  parsed: true
+  originalText: AUBREY snatched the \c[13]STUFFED TOY\c[0] from you.
+  sitelenLasina: /*\n[2]*/ li weka e /*\c[13]*/ ko musi /*\c[0]*/ tan luka sina
+  text: \n[2]㈧㉶㈉\c[13]㈜㈻\c[0]㉧㈭㉞
+
+#AUBREY turns to KEL.
+
+message_29:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  parsed: true
+  originalText: Hey, KEL!\! Look, it's my \c[13]STUFFED TOY!\c[0]\aub
+  sitelenLasina: /*\n[3]*/ o lukin _ mi jo e /*\c[13]*/ ko musi /*\c[0]*/ mi /*\aub*/
+  text: \n[3]㉄㈮ㇱ㈴㈓㈉\c[13]㈜㈻\c[0]㈴\aub
+
+#KEL looks at AUBREY and jumps.
+
+message_30:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  parsed: true
+  originalText: \Com[2]W-What the heck?\! Where did you get that?\kel
+  sitelenLasina: /*\Com[2]*/ seme a /*\!*/ _ sina kama jo e ona lon ma seme /*\kel*/
+  text: \Com[2]㉙㈀\!ㇱ㉞㈖㈓㈉㉆㈬㈰㉙\kel
+
+message_31:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  parsed: true
+  originalText: OMORI found it!\!<br>Lucky for me, I've got some real friends!\aub
+  sitelenLasina: /*\n[1]*/ li kama lukin e ona/*\!<br>*/ pona la jan pona li lon poka mi /*\aub*/
+  text: \n[1]㈧㈖㈮㈉㉆\!<br>㉔㈡㈑㉔㈧㈬㉒㈴\aub
+
+message_32:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  parsed: true
+  originalText: Serves you right, KEL.\!<br>You should know better than to pick on others.\her
+  sitelenLasina: ni li pona _ /*\!\n[3]*/ o /*<br>*/ sina sona e ni1 _ sina ike tawa jan la sina ike /*\her*/
+  text: ㉁㈧㉔ㇱ\!\n[3]㉄<br>㉞㉡㈉㐀ㇱ㉞㈍㉩㈑㈡㉞㈍\her
+
+#KEL looks at HERO.
+
+message_33:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 24
+  parsed: true
+  originalText: But AUBREY started it...\!<br>She was the one who was making fun of me for the mole<br>on my...\kel
+  sitelenLasina: taso /*\n[2]*/ li open e ike /*\!<br>*/ ona li musi ike tan sike pimeja pi[selo mi] lon /*\!*/ _ n /*\kel*/
+  text: ㉨\n[2]㈧㉇㈉㈍\!<br>㉆㈧㈻㈍㉧㉜㉏㑒㉘㈴㈬\!ㇱ㊅\kel
+
+message_34:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  parsed: true
+  originalText: On your...\! what?\aub
+  sitelenLasina: lon /*\!*/ seme /*\aub*/
+  text: ㈬\!㉙\aub
+
+message_35:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  parsed: true
+  originalText: ...\kel
+  sitelenLasina: · · · /*\kel*/
+  text: ㊉㊉㊉\kel
+
+#HERO looks at AUBREY
+
+message_36:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 43
+  parsed: true
+  originalText: AUBREY...\her
+  sitelenLasina: /*\n[2]*/ o /*\her*/
+  text: \n[2]㉄\her
+
+message_37:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  parsed: true
+  originalText: Fine...\aub
+  sitelenLasina: taso /*\!<br>*/ n mi sona /*\aub*/
+  text: ㉨\!<br>㊅㈴㉡\aub
+
+# =========================================================================================
+# Aubrey's Dialogue after Omori gives her PlantEgg
+# =========================================================================================
+
+message_38:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  parsed: true
+  originalText: \aubThank you, \n[1]! I knew I could count on you.\!<br>You're the best!
+  sitelenLasina: /*\aub*/ pona o tawa sina _ mi pilin ike la sina pona tawa mi /*\!<br>*/ sina pona nanpa wan a
+  text: \aub㉔㉄㉩㉞ㇱ㈴㉎㈍㈡㉞㉔㉩㈴\!<br>㉞㉔㈽㉳㈀
+
+# =========================================================================================
+# Hero's Dialogue after Omori gives Aubrey PlantEgg
+# =========================================================================================
+
+message_39:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herHey, \n[1]! I'm glad that's all settled.\! Those two always seem to be bumping heads.
+  sitelenLasina: /*\her*/ utala li pini la mi pilin pona /*\!*/ _ tenpo mute la ona li utala
+  text: \her㉱㈧㉐㈡㈴㉎㉔\!ㇱ㉫㈼㈡㉆㈧㉱
+
+message_43:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  parsed: true
+  originalText: \herMARI and BASIL invited us for a picnic at the playground!\!<br>Did you want to go see them?
+  sitelenLasina: /*\her*/ jan[mama awen lon insa] en jan[pona en suwi olin] li lon ma musi /*\<br>*/ ona li wile moku lon poka mi ale /*\!*/ _ sina wile ala wile tawa ona
+  text: \her㈑㐤㈱㈈㈬㈏㐓㈊㈑㐤㉔㈊㉦㉅㐓㈧㈬㈰㈻\<br>㉆㈧㉷㈶㈬㉒㈴㈄\!ㇱ㉞㉷㈂㉷㉩㉆
+message_40:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  parsed: true
+  originalText: \herAlright everyone...\!<br>Let's go see MARI and BASIL!
+  sitelenLasina: /*\her*/ pona /*\!<br>*/ mi ale o tawa ma musi
+  text: \her㉔\!<br>㈴㈄㉄㉩㈰㈻
+message_1000:
+  parsed: true
+  sitelenLasina: wile
+  text: a
+message_1001:
+  parsed: true
+  sitelenLasina: wile ala
+  text: a
+message_41:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herOkay, no worries!\! We'll be here.
+  sitelenLasina: /*\her*/ ni li pona tawa mi /*\!*/ _ mi awen
+  text: \her㉁㈧㉔㉩㈴\!ㇱ㈴㈈
+
+message_42:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herHey, \n[1]!\! Are you all ready to go?
+  sitelenLasina: /*\her\n[1]*/ o /*\!*/ _ sina wile ala wile tawa lon tenpo ni
+  text: \her\n[1]㉄\!ㇱ㉞㉷㈂㉷㉩㈬㉫㉁
+
+#IF YOU GO TO WHITE SPACE AND THEN RETURN TO NEIGHBOR'S ROOM
+
+message_50:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herHey, OMORI! Welcome back!\! Are you ready to go?
+  sitelenLasina: /*\her\n[1]*/ o kama pona /*\!*/ _ sina wile ala wile tawa lon tenpo ni
+  text: \her\n[1]㉄㈖㉔\!ㇱ㉞㉷㈂㉷㉩㈬㉫㉁
+
+#DAY 1 PYREFLY
+
+message_51:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herAlright everyone...\!<br>Let's go find BASIL!
+  sitelenLasina: /*\her*/ sina ale o /*\!<br>*/ mi ale o alasa e jan[pona en suwi olin]
+  text: \her㉞㈄㉄\!<br>㈴㈄㉄㈃㈉㈑㐤㉔㈊㉦㉅㐓
+
+#AFTER SGL
+
+message_52:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  parsed: true
+  originalText: \herAlright everyone...\!<br>Let's go exploring!
+  sitelenLasina: /*\her*/ sina ale o /*\!<br>*/ mi ale o tawa
+  text: \her㉞㈄㉄\!<br>㈴㈄㉄㉩
+
+# =========================================================================================
+# Cutscene: STUMP ENTRANCE
+# =========================================================================================
+
+#TRIGGER: ENTER STUMP ENTRANCE
+
+#KEL, HERO, and OMORI pop out of the stump.
+
+message_58:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  parsed: true
+  originalText: \{\sinv[1]OH, YEAH!! FRESH AIR AT LAST!!\!\}<br>Gotta love that nature.\! Well, let's go!\kel
+  sitelenLasina: /*\{\sinv[1]*/ pona a _ kon sin li lon /*\!\}<br>*/ ma kasi li pona mute tawa mi /*\!*/ _ mi o tawa /*\kel*/
+  text: \{\sinv[1]㉔㈀ㇱ㈝㉝㈧㈬\!\}<br>㈰㈗㈧㉔㈼㉩㈴\!ㇱ㈴㉄㉩\kel
+
+#KEL, HERO, and OMORI start walking to FOREST PLAYGROUND.
+#AUBREY is off screen
+
+message_59:
+  parsed: true
+  originalText: \Com[2]Hey, wait a sec!\aub
+  sitelenLasina: /*\com[2]*/ o pini
+  text: \com[2]㉄㉐
+
+#AUBREY pops out of the stump half-way
+
+message_60:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  parsed: true
+  originalText: Help me up, guys! I'm stuck.\aub
+  sitelenLasina: mi ken ala tawa _ o weka e mi tan lupa ni /*\aub*/
+  text: ㈴㈘㈂㉩ㇱ㉄㉶㈉㈴㉧㈯㉁\aub
+
+#HERO begins walking toward stump but is blocked by KEL.
+
+message_61:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  parsed: true
+  originalText: \SINV[1]Only if you say please!\SINV[0]\kel
+  sitelenLasina: /*\SINV[1]*/ n mi ken ni /*<br>*/ taso toki sina la mi ike tawa sina anu seme /*\SINV[0]\kel*/
+  text: \SINV[1]㊅㈴㈘㉁<br>㉨㉬㉞㈡㈴㈍㉩㉞㈇㉙\SINV[0]\kel
+
+message_62:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  parsed: true
+  originalText: KEL, stop messing around and get me out of here.\aub
+  sitelenLasina: o pini musi _ o pali lon tenpo ni a /*\aub*/
+  text: ㉄㉐㈻ㇱ㉄㉉㈬㉫㉁㈀\aub
+
+message_63:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 24
+  parsed: true
+  originalText: Okay, okay... \}fine.\kel
+  sitelenLasina: a /*\!*/ _ pona /*\!\}*/ _ mi pali /*\kel*/
+  text: ㈀\!ㇱ㉔\!\}ㇱ㈴㉉\kel
+
+#KEL pulls AUBREY out of the stump.
+
+message_64:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  parsed: true
+  originalText: Hmph!\! Took you long enough!\aub
+  sitelenLasina: sina kama pali kepeken tenpo pi[suli ike] a /*\aub*/
+  text: ㉞㈖㉉㈙㉫㑒㉣㈍㈀\aub
+
+message_65:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 24
+  parsed: true
+  originalText: Well sorry, princess...\kel
+  sitelenLasina: jan lawa wawa suli [olin pilin utala lili ike] o weka e ike mi /*\kel*/
+  text: ㈑㈤㉵㉣㐥㉅㉎㉱㈨㈍㐓㉄㉶㈉㈍㈴\kel
+# =========================================================================================
+# Cutscene: Mari and Basil
+# =========================================================================================
+
+#TRIGGER: enter Forest Playground
+
+#AUBREY runs to MARI.
+
+message_86:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \{㈑㐤㈱㈈㈬㈏㐓㉄ㇱ㈑㐤㉔㈊㉦㉅㐓㉄\aub
+  sitelenLasina: /*\{*/jan[mama awen lon insa] o _ jan[pona en suwi olin] o /*\aub*/
+  originalText: \{MARI! BASIL!\aub
+  parsed: true
+
+message_87:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: ㈀ㇱ\n[2]㉄ㇱ㉞㈄㉄ㇱ㉙㈧㈬\mar
+  sitelenLasina: a _/*\n[2]*/ o _ sina ale o _ seme li lon /*\mar*/
+  originalText: Oh, hello AUBREY! Hello, everyone!\!<br>How are you all doing today?\mar
+  parsed: true
+
+message_88:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \{\n[3]㈧㈍㉝㉩㈴\aub
+  sitelenLasina: /*\{*/ /*\n[3]*/ li ike sin tawa mi /*\aub*/
+  originalText: \{KEL'S BEING MEAN TO ME AGAIN!!\aub
+  parsed: true
+
+message_89:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: ㈀\!ㇱ㉁㈧㈬㈇㉙\!ㇱ㉆㈧㉁㉧㉙\mar
+  sitelenLasina: a /*\!*/ _ ni li lon anu seme /*\!*/ _ ona li ni tan seme /*\mar*/
+  originalText: Oh, no!\! Not again...\! How could he?\mar
+  parsed: true
+
+message_90:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 25
+  text: ㈴㈍㈂㈀\!ㇱ\n[2]㈧㉷㈉㉁<br>㈑㈄㈧㈈㈉㉆㈧㉬㉱㉩㈴\kel
+  sitelenLasina: mi ike ala a /*\!*/ _ /*\n[2]*/ li wile e ni /*<br>*/ jan ale li awen e ona li toki utala tawa mi /*\kel*/
+  originalText: Pshh, I'm not being mean!\! AUBREY's just being all whiny.\kel
+  parsed: true
+
+message_91:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: ㊅㈘㈡㉬㉞㈧㈬\!<br>㉬㑒㈑㉙㈧㈬\mar
+  sitelenLasina: n ken la toki sina li lon /*\!<br>*/ toki pi[jan seme] li lon /*\mar*/
+  originalText: Well, KEL!\! You've just made a very convincing point.\! <br>Now I don't know who to believe!\mar
+  parsed: true
+
+message_92:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \{㈴㉬㈬㈀\kel\}
+  sitelenLasina: /*\{*/ mi toki lon a /*\kel\}*/
+  originalText: \{BELIEVE ME!!\kel\}
+  parsed: true
+
+message_93:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \{㈬㈂ㇱ㈴㉬㈬㈀\aub\}
+  sitelenLasina: /*\{*/ lon ala _ mi toki lon a /*\aub\}*/
+  originalText: \{NO, BELIEVE ME!!\aub\}
+  parsed: true
+
+message_94:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: ㈀\!ㇱ㉄㉐㉱\!<br>㉫㈄㈡㉁㈧㈖㉧㉙\her
+  sitelenLasina: a /*\!*/ _ o pini utala /*\!<br>*/ tenpo ale la ni li kama tan seme /*\her*/
+  originalText: Sigh...\! Settle down, you two...\!<br>\}Why does it always have to be like this?\her
+  parsed: true
+
+message_95:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \n[4]㉄㉎㉵ㇱ㉫㈼㈡㉞㈈㈉㈑㈄\mar
+  sitelenLasina: " /*\\n[4]*/ o pilin wawa _ tenpo mute la sina awen e jan ale /*\\mar*/"
+  originalText: Chin up, HERO! Look at you, being all responsible.\mar
+  parsed: true
+
+message_96:
+  faceset: MainCharacter_Mari
+  faceindex: 7
+  text: ㈴㉅㈉㉞㉧㉁㉹ㇱ㈀ㇱ㈀\mar
+  sitelenLasina: mi olin e sina tan ni kin _ a _a /*\mar*/
+  originalText: I really like that about you... hehe...\mar
+  parsed: true
+
+message_97:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: ㈀ㇱ㉫㉁㈧㉔㈂㉩㉬㉁\her
+  sitelenLasina: a _ tenpo ni li pona ala tawa toki ni /*\her*/
+  originalText: Come on, MARI!\! Not now...\her
+  parsed: true
+
+message_98:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: ㈴㈻㉨\!<br>㉟㉞㈧㈖㈫㈡㉞㉦㈼\mar
+  sitelenLasina: mi musi taso /*\!<br>*/ sinpin sina li kama loje la sina suwi mute /*\mar*/
+  originalText: Oh HERO, you know I'm just teasing.\!<br>You're so cute when you get all flustered!\mar
+  parsed: true
+
+message_99:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: ㊅\her
+  sitelenLasina: n /*\her*/
+  originalText: ...\her
+  parsed: true
+
+message_100:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: ㈀ㇱ㈀ㇱ㈀\mar
+  sitelenLasina: a _ a _ a/*\mar*/
+  originalText: Hehehe...\mar
+  parsed: true
+
+message_101:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: ㈴㉮㈧㈈㉧㉞㈄㈡㈴㈮㈉\c[4]㈪㉠\c[0]㉆<br>㉞㉷㈂㉷㈮㈬㉒㈴\mar
+  sitelenLasina: mi tu li awen tan sina ale la mi lukin e /*\c[4]*/ lipu sitelen/*\c[0]*/ ona /*<br>*/ sina wile ala wile lukin lon poka mi /*\mar*/
+  originalText: While we were waiting for you guys, BASIL and I were going through his \c[4]PHOTO ALBUM\c[0]!\! Did you wanna join us?\mar
+  parsed: true
+
+message_102:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: ㈴㉷㈀\!<br>㈴㈄㈧㈬㉠㉁\aub
+  sitelenLasina: mi wile a /*\!<br>*/ mi ale li lon sitelen ni /*\aub*/
+  originalText: Of course!\!<br>After all...\! we're the ones in the pictures, aren't we?\aub
+  parsed: true
+
+message_103:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: ㈑㐤㉔㈊㉦㉅㐓㉄ㇱ㉄㈮㈉㉁\kel
+  sitelenLasina: jan[pona en suwi olin] o _ o lukin e ni /*\kel*/
+  originalText: \{BASIL, BASIL! GET A LOAD OF THIS!!\kel
+  parsed: true
+
+#Kel does a pose
+
+message_104:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \com[2]㉄㉉㈉㉠㈴\kel
+  sitelenLasina: /*\com[2]*/ o pali e sitelen mi /*\kel*/
+  originalText: \Com[2]C'mon, BASIL! Take a picture of me!\kel
+  parsed: true
+
+#Short pause
+
+message_105:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: ㈴㉷㈂㉧㉁<br>㈑㈧㉡㈂㈉㉉㉠㈴㈡㉨㈴㉉㈉㉠\bas
+  sitelenLasina: mi wile ala tan ni /*<br>*/ jan li sona ala e pali sitelen mi la taso mi pali e sitelen /*\bas*/
+  originalText: Sorry, KEL. I only take photos of people when they least expect it!\bas
+  parsed: true
+
+message_106:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: ㈎㉠㈧㈬㈡㈑㈧㈆ㇱ㉞㉷㈉㐂㈂㈇㉙\her
+  sitelenLasina: ilo sitelen li lon la jan li ante _ sina wile e ni3 ala anu seme /*\her*/
+  originalText: You like to take photos of people acting naturally when they're not in front of a camera, right BASIL?\her
+  parsed: true
+
+message_107:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉁㈧㈬\!ㇱ㈬㑒㈑㈄㈧㉣㈧㉔㉩㈴ㇱ㈴㉷㉠㈉㉆\bas
+  sitelenLasina: ni li lon /*\!*/ _ lon pi[jan ale] li suli li pona tawa mi _ mi wile sitelen e ona /*\bas*/
+  originalText: Yeah...\! There's something special about everyone living their own lives.\! Those are the moments I want to capture!\bas
+  parsed: true
+
+message_108:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: ㊅\!ㇱ㉁㈡㈴㉄㈥㈉㉡㈴㑒㈬㉞㈇㉙\kel
+  sitelenLasina: n /*\!*/ _ ni la mi o len e sona mi pi[lon sina] anu seme /*\kel*/
+  originalText: So like...\! we just have to pretend you're not there?\kel
+  parsed: true
+
+message_109:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㈀ㇱ㈀\!ㇱ㊅ㇱ㈘㈡㉁㈧㉔㉹\bas
+  sitelenLasina: a _ a /*\!*/ _ n _ ken la ni li pona kin /*\bas*/
+  originalText: Haha...\! Yeah, I guess you can put it that way.\bas
+  parsed: true
+
+message_110:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: ㉔ㇱ㈴㈘㉁\kel
+  sitelenLasina: pona _ mi ken ni /*\kel*/
+  originalText: Sure, I can do that!\kel
+  parsed: true
+
+#Kel looks away.
+
+message_111:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: ㈑㐤㉔㈊㉦㉅㐓㉄ㇱ㉞㉷㈂㉷㉌㈉\c[4]㈪㉠\c[0]㉞\mar
+  sitelenLasina: jan[pona en suwi olin] o _ sina wile ala wile pana e /*\c[4]*/ lipu sitelen/*\c[0]*/ sina /*\mar*/
+  originalText: Did you want to show us your \c[4]PHOTO ALBUM\c[0] now, BASIL?\mar
+  parsed: true
+
+message_112:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㈀ㇱ㉁㈧㉔㉩㈴ㇱ㉨㉆㈧㉵㈂\bas
+  sitelenLasina: a _ ni li pona tawa mi _ taso ona li wawa ala /*\bas*/
+  originalText: Ah, okay...\! but it's nothing amazing.\bas
+  parsed: true
+
+message_113:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: ㈑㐤㉔㈊㉦㉅㐓㉄㉎㉵\!<br>㈴㉡㈉㐀ㇱ㉆㈧㉵㈼\aub
+  sitelenLasina: jan[pona en suwi olin] o pilin wawa  /*\!<br>*/ mi sona e ni1 _ ona li wawa mute /*\aub*/
+  originalText: Oh, BASIL! Stop doubting yourself!\!<br>I'm sure they'll be great.\aub
+  parsed: true
+
+message_114:
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \n[2]㉄㊉㊉㊉ㇱ㉁㈧㈬\!<br>㉫㈖㈡㈴㈃㉎㉵\bas
+  sitelenLasina: /*\n[2]*/ o · · · _ ni li lon /*\!<br>*/ tenpo kama la mi alasa pilin wawa /*\bas*/
+  originalText: You're right, AUBREY.\!<br>Sorry...\! I'll try to believe in myself more.\bas
+  parsed: true
+
+#Basil takes out PHOTO ALBUM.
+#Party surrounds Basil, except Kel.
+
+message_115:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㈴㉌㈉㉆㈬㈅\!ㇱ㉁㈡㈴㈄㈘㈮㈉㉆\bas
+  sitelenLasina: mi pana e ona lon anpa /*\!*/ _ ni la mi ale ken lukin e ona/*\bas*/
+  originalText: Here!\! This way we can all see.\bas
+  parsed: true
+
+message_116:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: ㈑㐤㉔㈊㉦㉅㐓㉄ㇱ㉠㉁㈧㈻㈼\!<br>㉞㈘㉠㉵㈉㉫\her
+  sitelenLasina: jan[pona en suwi olin] o _ sitelen ni li musi mute /*\!<br>*/ sina ken sitelen wawa e tenpo /*\her*/
+  originalText: These photos are all so charming, BASIL.\!<br>You really know how to capture the moment!\her
+  parsed: true
+
+message_117:
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: ㉬㉞㈧㉔ㇱ㉨㈴㉉㈂㈉㉠㈄\!<br>㉫㈨㈡㈑㐤㈱㈈㈬㈏㐓㈧㈓㈉㈎㉠㈴\bas
+  sitelenLasina: toki sina li pona _ taso mi pali ala e sitelen ale /*\!<br>*/ tenpo lili la jan[mama awen lon insa] li jo e ilo sitelen mi /*\bas*/
+  originalText: Thanks...\! I didn't take all of them though.\!<br>MARI likes to steal my camera sometimes.\bas
+  parsed: true
+
+message_118:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: ㉫㈨㉨\mar
+  sitelenLasina: tenpo lili taso /*\mar*/
+  originalText: Only sometimes!\mar
+  parsed: true
+
+message_119:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㈀ㇱ㈴㉡\!ㇱ㉞㈄㈧㉷㈂㉷㉩㉭㈴\bas
+  sitelenLasina: a _ mi sona /*\!*/ _ sina ale li wile ala wile tawa tomo mi /*\bas*/
+  originalText: Hey, I have an idea!\! Did you all want to come hang out at my house?\bas
+  parsed: true
+
+message_127:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㉫㉒㈡㈴㉌㈉㈗㈨㈬㈰<br>㈴㉷㈉㐀ㇱ㉞㈮㈉㉆\!ㇱ㉆㈧㉦㈼㈀\bas
+  sitelenLasina: tenpo poka la mi pana e kasi lili lon ma /*<br>*/ mi wile e ni1 _ sina lukin e ona /*\!*/ _ ona li suwi mute a /*\bas*/
+  originalText: I just finished planting some little sprouts and wanted to show everyone.\! Come on! They're really cute!\bas
+  parsed: true
+
+message_120:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 17
+  text: ㉎㈴㈡㉁㈧㈻\!ㇱ㈴㉷㉩㈀\kel
+  sitelenLasina: pilin mi la ni li musi /*\!*/ _ mi wile tawa a /*\kel*/
+  originalText: Yeah sure, that sounds fun!\! Let's go!\kel
+  parsed: true
+
+#Hero walks 1 step down.
+
+message_121:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: ㉭㉞㈧㈬㈿㉁㈇㉙\her
+  sitelenLasina: tomo sina li lon nasin ni anu seme /*\her*/
+  originalText: It's south of the playground, right?\her
+  parsed: true
+
+message_122:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: ㈬ㇱ㉁㈧㈿㑒㉭㈴\bas
+  sitelenLasina: lon _ ni li nasin pi[tomo mi] /*\bas*/
+  originalText: Yup, that's the way!\bas
+  parsed: true
+
+message_123:
+  faceset: MainCharacter_Mari
+  faceindex: 1
+  text: \mar㊅ㇱ㈴㉷㈈㈬㈰㉁\!ㇱ㉞㉄㉩㉄㈻㈼\mar
+  sitelenLasina: /*\mar*/ n _ mi wile awen lon ma ni /*\!*/ _ sina o tawa o musi mute /*\mar*/
+  originalText: \marHmm...\! I think I'll sit this one out.\! You all go on and enjoy yourselves!\mar
+  parsed: true
+
+message_130:
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar㉞㉎㉵㈂㈡㉞㈘㈖㈬㈥㈅㈴
+  sitelenLasina: /*\mar*/ sina pilin wawa ala la sina ken kama lon len anpa mi
+  originalText: \marBut if you're ever feeling weary, you can always stop by one of my picnics!
+  parsed: true
+
+message_131:
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: ㈶㈧㈬㈧㉵㈉㉞\!ㇱ㉹㈡㉞㈘㈪㈉㈻㈙㉓㈶㈴\mar
+  sitelenLasina: moku li lon li wawa e sina /*\!*/ _ kin la sina ken lipu e musi kepeken poki moku mi /*\mar*/
+  originalText: I'll always have some refreshments ready...\! and you can even SAVE using my picnic basket!\mar
+  parsed: true
+
+message_132:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \her㈀ㇱ㉁㈧㉔㈼\!<br>㉫㈄㈡㉞㉉㈼ㇱ㉉㉞㈧㉔㉩㈴㈄
+  sitelenLasina: /*\her*/ a _ ni li pona mute /*\!<br>*/ tenpo ale la sina pali mute _ pali sina li pona tawa mi ale
+  originalText: \herAwww... Thanks, MARI!\! You're always doing so much for us!
+  parsed: true
+
+message_124:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: ㈑㐤㈱㈈㈬㈏㐓㉄㈈㉔ㇱ㉫㈖㈡㈴㉮㈧㉬\aub
+  sitelenLasina: jan[mama awen lon insa] o awen pona _ tenpo kama la mi tu li toki /*\aub*/
+  originalText: Bye, MARI! We'll see you again soon!\aub
+  parsed: true
+
+message_125:
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  parsed: true
+  originalText: Run along and have fun now!<br>\!You know where to find me!\mar
+  sitelenLasina: o tawa pona a /*\!<br>*/ sina wile toki tawa mi la mi lon ma ni /*\mar*/
+  text: ㉄㉩㉔㈀\!<br>㉞㉷㉬㉩㈴㈡㈴㈬㈰㉁\mar
+
+# =========================================================================================
+# NEIGHBOUR'S ROOM DOOR
+# =========================================================================================
+
+message_200:
+  text: ㈑㉒㉞㈧㈈㉧㉞
+  sitelenLasina: jan poka sina li awen tan sina
+  originalText: Your friends are waiting for you.
+  parsed: true

@@ -1,0 +1,197 @@
+message_1:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  parsed: true
+  originalText: \kel\c[13]HECTOR\c[0] is the coolest pet rock ever!
+  sitelenLasina: /*\kel\c[13]*/ kiwen [ken · tenpo olin]/*\c[0]*/ li kiwen pona pi[wawa nanpa wan]
+  text: \kel\c[13]㈛㐤㈘㊉㉫㉅㐓\c[0]㈧㈛㉔㑓㉵㈽㉳
+
+message_2:
+  parsed: true
+  originalText: You can't leave without your friends.
+  sitelenLasina: jan sina li lon ala poka sina la sina ken ala tawa
+  text: ㈑㉞㈧㈬㈂㉒㉞㈡㉞㈘㈂㉩
+
+message_3:
+  text: An eye stares at you from inside the shelf.
+
+message_4:
+  parsed: true
+  originalText: There's a movie on TV.\!<br>Four boys are walking on railroad tracks.
+  sitelenLasina: ilo pi[sitelen tawa] li pana e sitelen tawa ni /*\!<br>*/ jan lili tu tu li tawa lon nasin palisa kiwen
+  text: ㈎㑒㉠㉩㈧㉌㈉㉠㉩㉁\!<br>㈑㈨㉮㉮㈧㉩㈬㈿㉊㈛
+
+message_5:
+  parsed: true
+  originalText: A photo of someone familiar.
+  sitelenLasina: sitelen jan _ ken la sina sona e jan ni
+  text: ㉠㈑ㇱ㈘㈡㉞㉡㈉㈑㉁
+
+message_6:
+  parsed: true
+  originalText: A fluffy pillow shaped like the head of a girl.
+  sitelenLasina: ko lape _ sijelo ona li sama lawa meli
+  text: ㈜㈢ㇱ㉛㉆㈧㉖㈤㈳
+
+message_7:
+  parsed: true
+  originalText: \n<SNAKE>\sinv[1]Sssssssssssss...?\sinv[0]\! (Waiting for something to happen?)
+  sitelenLasina: /*\n<*/ akesi /*>\sinv[1]*/ mu mu mu mu mu mu /*\!\sinv[0]*/ _ te ala li kama la sina awen anu seme to
+  text: \n<㈁>\sinv[1]㈹㈹㈹㈹㈹㈹\!\sinv[0]ㇱ㊋㈂㈧㈖㈡㉞㈈㈇㉙㊌
+
+message_8:
+  parsed: true
+  originalText: A cat-shaped hole.
+  sitelenLasina: lupa soweli
+  text: ㈯㉢
+
+message_9:
+  text: You feel the presence of SOMETHING behind the door.\!<br>Look into the keyhole?
+
+message_10:
+  parsed: true
+  originalText: A neatly-wrapped present.
+  sitelenLasina: pana _ ona li pini pona
+  text: ㉌ㇱ㉆㈧㉐㉔
+
+message_11:
+  parsed: true
+  originalText: A blender.
+  sitelenLasina: ilo pi[ko kili]
+  text: ㈎㑒㈜㈚
+
+message_12:
+  parsed: true
+  originalText: A single bean on a plate.
+  sitelenLasina: kili sike wan li lon supa ni
+  text: ㈚㉜㉳㈧㈬㉥㉁
+
+message_13:
+  parsed: true
+  originalText: Would you like to make toast?
+  sitelenLasina: sina wile ala wile kama seli e pan
+  text: ㉞㉷㈂㉷㈖㉗㈉㉋
+
+message_14:
+  parsed: true
+  originalText: You made TOAST.
+  sitelenLasina: sina kama seli e pan
+  text: ㉞㈖㉗㈉㉋
+
+message_15:
+  parsed: true
+  originalText: A baseball and a baseball bat.
+  sitelenLasina: sike musi en palisa musi pi[utala sike]
+  text: ㉜㈻㈊㉊㈻㑒㉱㉜
+
+message_16:
+  parsed: true
+  originalText: A tentacle is poking out of the ground.
+  sitelenLasina: luka li kama tan anpa
+  text: ㈭㈧㈖㉧㈅
+
+#- Omori's CUT Tag Skill
+
+message_17:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \basHuh? There's some roots in the way...\!<br>How did these get here?
+
+message_18:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aubNo worries, BASIL!\!<br>I bet this would be a cinch for OMORI to \c[1]CUT\c[0] out of the way!
+
+message_19:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubCome on, OMORI!\! You can do it!
+
+message_30:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubCome on, OMORI!\! You can do it!
+
+#- Snake money
+
+message_100:
+  parsed: true
+  originalText: \n<SNAKE>\sinv[1]Sssssssssssssss...?\!\sinv[0] (Going out, OMORI?)\!<br>\sinv[1]Sssssssssssss...\!\sinv[0] (Here is your allowance for today.)
+  sitelenLasina: /*\n<*/ akesi /*>\sinv[1]*/ mu mu mu mu mu mu /*\!\sinv[0]*/ _ te sina tawa weka anu seme to /*\!<br>\sinv[1]*/ mu mu mu mu mu mu /*\!\sinv[0]*/ _ te mi pana e mani pi[suno ni] to1
+  text: \n<㈁>\sinv[1]㈹㈹㈹㈹㈹㈹\!\sinv[0]ㇱ㊋㉞㉩㉶㈇㉙㊌\!<br>\sinv[1]㈹㈹㈹㈹㈹㈹\!\sinv[0]ㇱ㊋㈴㉌㈉㈲㑒㉤㉁㊎
+
+message_101:
+  parsed: true
+  originalText: You got \v[1001] CLAMS.
+  sitelenLasina: sina kama jo kala /* \v[1001] */ pi[selo kiwen]
+  text: ㉞㈖㈓㈔ \v[1001] 㑒㉘㈛
+
+message_102:
+  parsed: true
+  originalText: \n<SNAKE>\sinv[1]Sssssssssssss...\!\sinv[0] (Take care.)
+  sitelenLasina: /*\n<*/ akesi /*>\sinv[1]*/ mu mu mu mu mu mu /*\!\sinv[0]*/ _ te o awen e sina to
+  text: \n<㈁>\sinv[1]㈹㈹㈹㈹㈹㈹\!\sinv[0]ㇱ㊋㉄㈈㈉㉞㊌
+
+message_103:
+  parsed: true
+  originalText: \n<SNAKE>\sinv[1]Ssssssssssss...?\!\sinv[0] (Waiting for something to happen?)
+  sitelenLasina: /*\n<*/ akesi /*>\sinv[1]*/ mu mu mu mu mu mu /*\!\sinv[0]*/ _ te ala li kama la sina awen anu seme to
+  text: \n<㈁>\sinv[1]㈹㈹㈹㈹㈹㈹\!\sinv[0]ㇱ㊋㈂㈧㈖㈡㉞㈈㈇㉙㊌
+
+#Trying to go back inside Neighbor's Room before Basil is kidnapped
+
+message_110:
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas\n[1]㉄ㇱ㈴㉷㉩㉭㈴\!<br>ㇱ㈿㉆㈧㈬㉒㈅㑒㈪㈰
+  sitelenLasina: "/*\\bas\\n[1]*/ o _ mi wile tawa tomo mi /*\\!<br>*/ _ nasin ona li lon poka anpa pi[lipu ma]"
+  originalText: \basWait, OMORI... We're supposed to go to my house!\! It's just past the path south of the playground.
+  parsed: true
+
+message_111:
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas㉫㉐㉒㈡㈴㉌㈉㈗㈨㈬㈰<br>㈴㉷㈉㐀ㇱ㉞㈮㈉㉆\!ㇱ㉆㈧㉦㈼㈀
+  sitelenLasina: "/*\\bas*/ tenpo pini poka la mi pana e kasi lili lon ma /*<br>*/ mi wile e ni1 _ sina lukin e ona /*\\!*/ _ ona li suwi mute a "
+  originalText: \basI just finished planting some little sprouts and wanted to show everyone.\! Come on! They're really cute!
+  parsed: true
+
+message_112:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \her \n[1]㉄ㇱ㉞㉩㈬㈰㉙\!ㇱ㈴㈄㉄㉩㈰㈻\!<br>㈑㐤㈱㈈㈬㈏㐓㈊㈑㐤㉔㈊㉦㉅㐓㈧㈈㉧㈴
+  sitelenLasina: /*\her \n[1]*/ o _ sina tawa lon ma seme /*\!*/ _ mi ale o tawa ma musi /*\!<br>*/ jan[mama awen lon insa] en jan[pona en suwi olin] li awen tan mi
+  originalText: \herWhere are you going, OMORI?\! Let's go see MARI and BASIL!\! We can't let their picnic go to waste!
+  parsed: true
+
+message_113:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her \n[1]㉄ㇱ㉞㉩㈬㈰㉙\!<br>㈑㐤㈱㈈㈬㈏㐓㈧㉎㉽㉧㉔㉞ㇱ㉁㈡㈴㉄㉩㉆
+  sitelenLasina: /*\her \n[1]*/ o _ sina tawa lon ma seme /*\!<br>*/jan[mama awen lon insa] li pilin monsuta tan pona sina _ ni la mi o tawa ona
+  originalText: \herWhere are you going, OMORI?\! Let's go see MARI.\! She's worried sick about you.
+  parsed: true
+
+message_114:
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \marLet's go see the spooky house, OMORI!\! Don't be scared.\! We're all doing this together!
+
+message_115:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \her \n[1]㉄ㇱ㉞㉩㈬㈰㉙\!ㇱ㈴㈄㉷㈖㈮㈑㐤㉔㈊㉦㉅㐓
+  sitelenLasina: /*\her \n[1]*/ o _ sina tawa lon ma seme /*\!*/ _ mi ale wile kama lukin jan[pona en suwi olin]
+  originalText: \aubWhere are you going, OMORI?\! We have to look for BASIL...
+  parsed: true
+
+#FRIEND TEXT
+message_120:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aubHi, OMORI!\! I'm so happy to see you!
+
+message_121:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kelWhat's up, best friend?\! Didja miss me? Heh, heh...

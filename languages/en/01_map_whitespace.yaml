@@ -1,0 +1,353 @@
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_0:
+  parsed: true
+  originalText: "A white door casts a faint shadow.\\!<br>What would you like to do?"
+  sitelenLasina: lupa walo li pana e pimeja lili /*\!<br>*/ sina wile seme
+  text: ㈯㉲㈧㉌㈉㉏㈨\!<br>㉞㉷㉙
+message_1:
+  parsed: true
+  originalText: "OPEN THE DOOR"
+  sitelenLasina: o open e lupa
+  text: ㉄㉇㈉㈯
+message_2:
+  parsed: true
+  originalText: "DO NOTHING"
+  sitelenLasina: o ijo ala
+  text: ㉄㈌㈂
+message_3:
+  parsed: true
+  originalText: "You stared at the door."
+  sitelenLasina: sina awen lukin e ona
+  text: ㉞㈈㈮㈉㉆
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_4:
+  parsed: true
+  originalText: "\\n<MEWO>Meow?\\! (Waiting for something to happen?)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te ala li kama la sina awen anu seme to
+  text: \mew㈹\!ㇱ㊋㈂㈧㈖㈡㉞㈈㈇㉙㊌
+
+message_404:
+  parsed: true
+  originalText: "\\n<MEWO>Meow?\\! (Not much to do around here, is there?)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te sina ken ijo mute ala lon ma ni anu seme to
+  text: \mew㈹\!ㇱ㊋㉞㈘㈌㈼㈂㈬㈰㉁㈇㉙㊌
+
+message_405:
+  parsed: true
+  originalText: "\\n<MEWO>Meow?\\! (Or is there?)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te ken la ijo li lon anu seme to
+  text: \mew㈹\!ㇱ㊋㈘㈡㈌㈧㈬㈇㉙㊌
+
+message_406:
+  parsed: true
+  originalText: "\\n<MEWO>Meow?\\! (Are you looking for a way out?)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te sina alasa e nasin weka anu seme to
+  text: \mew㈹\!ㇱ㊋㉞㈃㈉㈿㉶㈇㉙㊌
+
+message_407:
+  parsed: true
+  originalText: "\\n<MEWO>Meow...\\! (There always is one...\\| but...)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te  nasin li lon /*\!*/ _ taso to
+  text: \mew㈹\!ㇱ㊋㈿㈧㈬\!ㇱ㉨㊌
+
+message_408:
+  parsed: true
+  originalText: "\\n<MEWO>Meow?\\! (Waiting for something to happen?)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te ala li kama la sina awen anu seme to
+  text: \mew㈹\!ㇱ㊋㈂㈧㈖㈡㉞㈈㈇㉙㊌
+
+message_409:
+  parsed: true
+  originalText: "\\n<MEWO>Meow?\\! (When is Mom coming back?)"
+  sitelenLasina: /*\mew*/ mu /*\!*/ _ te tenpo seme la mama li kama to
+  text: \mew㈹\!ㇱ㊋㉫㉙㈡㈱㈧㈖㊌
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_5:
+  parsed: true
+  originalText: "You booted up your laptop."
+  sitelenLasina: sina open e ilo sona sina
+  text: ㉞㉇㈉㈎㉡㉞
+message_6:
+  parsed: true
+  originalText: "What would you like to do?"
+  sitelenLasina: sina wile seme
+  text: ㉞㉷㉙
+message_7:
+  parsed: true
+  originalText: "LOOK AT THE KEYBOARD"
+  sitelenLasina: o lukin e ilo sitelen pi[nena mute]
+  text: ㉄㈮㈉㈎㉠㑒㉀㈼
+message_8:
+  parsed: true
+  originalText: "STARE AT THE SCREEN"
+  sitelenLasina: o awen lukin e ona
+  text: ㉄㈈㈮㈉㉆
+message_40:
+  parsed: true
+  originalText: "OPEN YOUR JOURNAL"
+  sitelenLasina: o lukin e lipu tenpo pi[sitelen sina]
+  text: ㉄㈮㈉㈪㉫㑒㉠㉞
+message_9:
+  parsed: true
+  originalText: "LOG OFF"
+  sitelenLasina: o pini e ilo sona
+  text: ㉄㉐㈉㈎㉡
+message_10:
+  parsed: true
+  originalText: "You stared at the screen."
+  sitelenLasina: sina awen lukin e ona
+  text: ㉞㈈㈮㈉㉆
+message_11:
+  parsed: true
+  originalText: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+  sitelenLasina: ilo sona li seli e noka sina _ /*\!*/ ni li pilin pona
+  text: ㈎㉡㈧㉗㈉㉃㉞ㇱ\!㉁㈧㉎㉔
+message_12:
+  parsed: true
+  originalText: "You cannot use the laptop from this side."
+  sitelenLasina: sina ken ala kepeken ilo sona lon poka ni
+  text: ㉞㈘㈂㈙㈎㉡㈬㉒㉁
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_13:
+  parsed: true
+  originalText: "Your sketchbook.\\!\\lb Take a look inside?"
+  sitelenLasina: lipu sitelen sina _ sina wile ala wile lukin e insa ona
+  text: ㈪㉠㉞ㇱ㉞㉷㈂㉷㈮㈉㈏㉆
+
+message_1000:
+  text: ㉷
+  sitelenLasina: wile
+  originalText: wile
+  parsed: true
+
+message_1001:
+  text: ㉷㈂
+  sitelenLasina: wile ala
+  originalText: wile ala
+  parsed: true
+message_14:
+  parsed: true
+  originalText: "YES"
+  sitelenLasina: wile
+  text: ㉷
+message_15:
+  parsed: true
+  originalText: "NO"
+  sitelenLasina: wile ala
+  text: ㉷㈂
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_16:
+  parsed: true
+  originalText: "A tissue box for wiping your sorrows away."
+  sitelenLasina: poki lipu _ tenpo mute la sina weka e pilin ike sina kepeken ona
+  text: ㉓㈪ㇱ㉫㈼㈡㉞㉶㈉㉎㈍㉞㈙㉆
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_17:
+  parsed: true
+  originalText: "A lightbulb hangs from the ceiling, wherever it is.\\!\\lb<br>Look into the lightbulb?"
+  sitelenLasina: seli li kama tan linja sewi /*\!<br>*/ sina wile ala wile lukin e insa ona
+  text: ㉗㈧㈖㉧㈩㉚\!<br>㉞㉷㈂㉷㈮㈉㈏㉆
+message_18:
+  parsed: true
+  originalText: "It's pitch black inside.\\! You can't see a thing."
+  sitelenLasina: insa ona li pimeja /*\!*/ _ sina ken lukin e ijo ala
+  text: ㈏㉆㈧㉏\!ㇱ㉞㈘㈮㈉㈌㈂
+
+# -----------------------------------------------
+# - THE KNIFE
+# -----------------------------------------------
+message_19:
+  parsed: true
+  originalText: "Something fell nearby."
+  sitelenLasina: ijo li tawa anpa
+  text: ㈌㈧㉩㈅
+message_20:
+  text: "You found a \\v[49].\\!\\lb <br>You can see your reflection clearly in the blade."
+
+# -----------------------------------------------
+# - LIGHTBULB BREAK
+# -----------------------------------------------
+message_30:
+  parsed: true
+  originalText: "It's pitch black inside.\\! You can't see a thing."
+  sitelenLasina: insa ona li pimeja /*\!*/ _ sina ken lukin e ijo ala
+  text: ㈏㉆㈧㉏\!ㇱ㉞㈘㈮㈉㈌㈂
+
+# -----------------------------------------------
+# - MISCELLANOUS
+# -----------------------------------------------
+message_21:
+  text: "You can't leave without a weapon."
+
+message_31:
+  text: "You got a BLURRY PHOTO."
+
+message_32:
+  parsed: true
+  originalText: You got a SHINY KNIFE.
+  sitelenLasina: sina kama jo e ilo nena kiwen sin
+  text: ㉞㈖㈓㈉㈎㉀㈛㉝
+
+# -----------------------------------------------
+#           "WHITE SPACE" (MAP 388)
+# -----------------------------------------------
+
+
+
+# -----------------------------------------------
+# - THE WHITE DOOR
+# -----------------------------------------------
+message_100:
+  text: "㈯㉲㈧㉌㈉㉏㈨\\!<br>㉞㉷㉙"
+  sitelenLasina: lupa walo li pana e pimeja lili /*\!<br>*/ sina wile seme
+  originalText: A white door casts a faint shadow.\!<br>What would you like to do?
+  parsed: true
+message_101:
+  text: "㉄㉇㈉㈯"
+  sitelenLasina: o open e lupa
+  originalText: OPEN THE DOOR
+  parsed: true
+message_102:
+  text: "㉄㈮㈉㈯"
+  sitelenLasina: o lukin e lupa
+  originalText: STARE AT THE DOOR
+  parsed: true
+message_103:
+  text: "㉞㈈㈮㈉㉆"
+  sitelenLasina: sina awen lukin e ona
+  originalText: You stared at the door.
+  parsed: true
+
+# -----------------------------------------------
+# - THE CAT
+# -----------------------------------------------
+message_104:
+  text: \mew㈹
+  sitelenLasina: /*\mew*/ mu
+  originalText: \n<CAT>Meow?
+  parsed: true
+
+# -----------------------------------------------
+# - THE LAPTOP
+# -----------------------------------------------
+message_105:
+  text: "Just a bunch of static."
+message_106:
+  text: "㉞㉷㉙"
+  sitelenLasina: sina wile seme
+  originalText: What would you like to do?
+  parsed: true
+message_107:
+  text: "LOOK AT THE KEYBOARD"
+message_108:
+  text: "STARE AT THE SCREEN"
+message_109:
+  text: "㉄㉐㈉㈎㉡"
+  sitelenLasina: o pini e ilo sona
+  originalText: LOG OFF
+  parsed: true
+message_110:
+  text: "㉞㈈㈮㈉㉆"
+  sitelenLasina: sina awen lukin e ona
+  originalText: You stared at the screen.
+  parsed: true
+# message_111:
+#     sitelenLasina: "The heat from the laptop warmed your lap.\\!\\lb It felt nice."
+message_112:
+  text: "㉞㈘㈂㈙㈎㉡㈬㉒㉁"
+  sitelenLasina: sina ken ala kepeken ilo sona lon poka ni
+  originalText: You cannot use the laptop from this side.
+  parsed: true
+
+# -----------------------------------------------
+# - THE SKETCHBOOK
+# -----------------------------------------------
+message_113:
+  text: "A sketchbook.\\!\\lb Take a look inside?"
+message_114:
+  text: "㉷"
+  sitelenLasina: wile
+  originalText: YES
+  parsed: true
+message_115:
+  text: "㉷㈂"
+  sitelenLasina: wile ala
+  originalText: NO
+  parsed: true
+
+# -----------------------------------------------
+# - THE TISSUE BOX
+# -----------------------------------------------
+message_116:
+  text: "㉓㈪"
+  sitelenLasina: poki lipu
+  originalText: A tissue box.
+  parsed: true
+
+# -----------------------------------------------
+# - THE LIGHTBULB
+# -----------------------------------------------
+message_117:
+  text: "㉗㈧㈖㉧㈩㉚\\!<br>㉞㉷㈂㉷㈮㈉㈏㉆"
+  sitelenLasina: seli li kama tan linja sewi /*\!<br>*/ sina wile ala wile lukin e insa ona
+  originalText: A lightbulb hangs from the ceiling, wherever it is.\!\lb<br>Look into the lightbulb?
+  parsed: true
+message_118:
+  text: "㈏㉆㈧㉏\\!ㇱ㉞㈘㈮㈉㈌㈂"
+  sitelenLasina: insa ona li pimeja /*\!*/ _ sina ken lukin e ijo ala
+  originalText: It's pitch black inside.\! You can't see a thing.
+  parsed: true
+
+# -----------------------------------------------
+# - OMORI
+# -----------------------------------------------
+message_120:
+  faceset: 01_OMORI_BATTLE
+  faceindex: 0
+  parsed: true
+  originalText: \n<OMORI>...
+  sitelenLasina: /*\n<*/ jan[open monsuta o lape insa]/*>*/ n
+  text: \n<㈑㐥㉇㉽㉄㈢㈏㐓>㊅
+
+message_121:
+  parsed: true
+  originalText: "A lightbulb hangs from the ceiling.\\!\\lb<br>Do you want to destroy it?"
+  sitelenLasina: sewi li kama tan linja sewi /*\!*/ _ sina wile ala wile pakala e ona
+  text: ㉚㈧㈖㉧㈩㉚\!ㇱ㉞㉷㈂㉷㉈㈉㉆
+
+message_125:
+  parsed: true
+  originalText: You learned \c[1]RED HANDS\c[0].
+  sitelenLasina: sina kama sona e /*\c[1]*/ luka loje /*\c[0]*/
+  text: ㉞㈖㉡㈉\c[1]㈭㈫\c[0]
+
+message_126:
+  parsed: true
+  originalText: You found a map.
+  sitelenLasina: sina kama jo e lipu pi[sitelen ma]
+  text: ㉞㈖㈓㈉㈪㑒㉠㈰
+
+#BLACK SPACE Door
+
+message_200:
+  parsed: true
+  originalText: "A black door casts a heavy shadow.\\!<br>What would you like to do?"
+  sitelenLasina: lupa pimeja li pana e pimeja suli /*\!<br>*/ sina wile seme
+  text: ㈯㉏㈧㉌㈉㉏㉣\!<br>㉞㉷㉙

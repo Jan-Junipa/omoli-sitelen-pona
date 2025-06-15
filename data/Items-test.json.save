@@ -24,7 +24,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "-----NOTE-----",
+    "originalDescription": "This section is for gameplay items. It goes from 2~500.\n501 beyond are quest items.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 2,
@@ -50,7 +55,12 @@
     "scope": 0,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COLD STEAK",
+    "originalDescription": "Your favorite food, when it is warm.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 3,
@@ -76,7 +86,12 @@
     "scope": 0,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MICROWAVED STEAK",
+    "originalDescription": "Your favorite food.",
+    "nameLasina": "moku soweli seli",
+    "descriptionLasina": "ona li moku pi[pona nanpa wan] tawa sina",
+    "parsed": true
   },
   {
     "id": 4,
@@ -102,7 +117,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SNACKTIME",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 5,
@@ -128,7 +148,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "{Potion}",
+    "originalDescription": "{Potion}",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 6,
@@ -154,7 +179,12 @@
     "scope": 2,
     "speed": 2000,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DebugItem",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 7,
@@ -180,7 +210,12 @@
     "scope": 1,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RUBBERBAND",
+    "originalDescription": "Dangerous in the wrong hands.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 8,
@@ -206,7 +241,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Potion 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 9,
@@ -232,7 +272,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Potion 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 10,
@@ -258,7 +303,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Potion 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 11,
@@ -284,7 +334,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Potion 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 12,
@@ -310,7 +365,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//Health Items//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 13,
@@ -336,7 +396,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TOFU",
+    "originalDescription": "Soft cardboard, basically.<br>\nHeals 5 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 14,
@@ -349,7 +414,7 @@
       "type": 3,
       "variance": 0
     },
-    "description": "㉆㈧㉔㈽㉳㉩㈑㈨ㇱ㉦㈀\\}<br>\n㉎㈧㈖㉝30",
+    "description": "㉆㈧㉔㈽㉳㉩㈑㈨ㇱ㉦㈀\\}<br>㉎㈧㈖㉝30",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -362,7 +427,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㈛㉦",
+    "originalDescription": "㉆㈧㉔㈽㉳㉩㈑㈨ㇱ㉦㈀<br>\n㉎㈧㈖㉝30",
+    "nameLasina": "kiwen suwi",
+    "descriptionLasina": "ona li pona nanpa wan tawa jan lili _ suwi a /*\\}<br>*/\npilin li kama sin /*30*/",
+    "parsed": true
   },
   {
     "id": 15,
@@ -388,7 +458,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SMORES",
+    "originalDescription": "S'more smores, please!<br>\nHeals 50 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 16,
@@ -414,7 +489,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GRANOLA BAR",
+    "originalDescription": "A healthy stick of grain.<br>\nHeals 60 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 17,
@@ -440,7 +520,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BREAD",
+    "originalDescription": "A slice of life.<br>\nHeals 60 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 18,
@@ -466,7 +551,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "NACHOS",
+    "originalDescription": "Suggested serving size: 6-8 nachos.<br>\nHeals 75 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 19,
@@ -492,7 +582,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHICKEN WING",
+    "originalDescription": "Wing of chicken.<br>\nHeals 80 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 20,
@@ -518,7 +613,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "HOT DOG",
+    "originalDescription": "Better than a cold dog.<br>\nHeals 100 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 21,
@@ -544,7 +644,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WAFFLE",
+    "originalDescription": "Designed to hold syrup!<br>\nHeals 150 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 22,
@@ -570,7 +675,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PANCAKE",
+    "originalDescription": "Not designed to hold syrup...<br>\nHeals 150 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 23,
@@ -596,7 +706,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PIZZA SLICE",
+    "originalDescription": "1/8th of a WHOLE PIZZA.<br>\nHeals 175 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 24,
@@ -622,7 +737,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FISH TACO",
+    "originalDescription": "Aquatic taco.<br>\nHeals 200 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 25,
@@ -648,7 +768,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHEESEBURGER",
+    "originalDescription": "Contains all food groups, so it's healthy!<br>\nHeals 250 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 26,
@@ -674,7 +799,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHOCOLATE",
+    "originalDescription": "Chocolate!? Oh, it's baking chocolate...<br>\nHeals 40% of HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 27,
@@ -707,7 +837,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DONUT",
+    "originalDescription": "Circular bread with a hole in it.<br>\nHeals 60% of HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 28,
@@ -733,7 +868,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RAMEN",
+    "originalDescription": "Now that is a lot of sodium! <br>\nHeals 80% of HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 29,
@@ -759,7 +899,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SPAGHETTI",
+    "originalDescription": "Wet noodles slathered with chunky<br>\nsauce. Fully heals a friend's HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 30,
@@ -785,7 +930,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "POPCORN",
+    "originalDescription": "9/10 dentists hate it.<br>\nHeals 35 HEART to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 31,
@@ -811,7 +961,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FRIES",
+    "originalDescription": "From France, wherever that is...<br>\nHeals 60 HEART to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 32,
@@ -837,7 +992,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHEESE WHEEL",
+    "originalDescription": "Delicious, yet functional.<br>\nHeals 100 HEART to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 33,
@@ -863,7 +1023,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WHOLE CHICKEN",
+    "originalDescription": "An entire chicken, wings and all.<br>\nHeals 175 HEART to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 34,
@@ -889,7 +1054,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WHOLE PIZZA",
+    "originalDescription": "8/8ths of a WHOLE PIZZA.<br>\nHeals 250 HEART to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 35,
@@ -928,7 +1098,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SNO-CONE",
+    "originalDescription": "Heals a friend's HEART and JUICE, and \nraises ALL STATS for the battle.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 36,
@@ -954,7 +1129,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TOMATO",
+    "originalDescription": "You say tomato, I say tomato.<br>\nHeals 100 HEART and 50 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 37,
@@ -980,7 +1160,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COMBO MEAL",
+    "originalDescription": "What more could you ask for?<br>\nHeals 250 HEART and 100 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 38,
@@ -1006,7 +1191,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DINO CLUMPS",
+    "originalDescription": "Chicken nuggets shaped like dinosaurs.<br>\nHeals 250 HEART to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 39,
@@ -1032,7 +1222,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DINO PASTA",
+    "originalDescription": "Pasta shaped like dinosaurs.<br>\nFully restores a friend's HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 40,
@@ -1084,7 +1279,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MARI'S COOKIE",
+    "originalDescription": "Your favorite cookie.<br>\nMade with MARI's love.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 42,
@@ -1153,7 +1353,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MARI'S COOKIE",
+    "originalDescription": "Everyone's favorite cookie.<br>\nMade with MARI's love.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 43,
@@ -1231,7 +1436,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//Juice Items//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 46,
@@ -1257,7 +1467,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PLUM JUICE",
+    "originalDescription": "For seniors. Wait, that's PRUNE JUICE.<br>\nHeals 15 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 47,
@@ -1270,7 +1485,7 @@
       "type": 4,
       "variance": 0
     },
-    "description": "㈘㈡㉪㉁㈧㉔㉩㉪㈚㑒㈒㈫\\}<br>\n㉆㈧㈖㉝㈉㉪25",
+    "description": "㈘㈡㉪㉁㈧㉔㉩㉪㈚㑒㈒㈫\\}<br>㉆㈧㈖㉝㈉㉪25",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -1283,7 +1498,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㉪㑒㈚㈫",
+    "originalDescription": "㈘㈡㉪㉁㈧㉔㉩㉪㈚㑒㈒㈫<br>\n㉆㈧㈖㉝㈉㉪25",
+    "nameLasina": "a a a",
+    "descriptionLasina": "a a a a",
+    "parsed": true
   },
   {
     "id": 48,
@@ -1309,7 +1529,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHERRY SODA",
+    "originalDescription": "Carbonated hell sludge.<br>\nHeals 25% of JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 49,
@@ -1335,7 +1560,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "STAR FRUIT SODA",
+    "originalDescription": "To be shared with a friend.<br>\nHeals 35% of JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 50,
@@ -1361,7 +1591,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BREADFRUIT JUICE",
+    "originalDescription": "Does not taste like bread.<br>\nHeals 50 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 51,
@@ -1387,7 +1622,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TASTY SODA",
+    "originalDescription": "Tasty soda for thirsty people.<br>\nHeals 50% of JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 52,
@@ -1413,7 +1653,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LEMONADE",
+    "originalDescription": "When life gives you lemons, make this!<br>\nHeals 75 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 53,
@@ -1439,7 +1684,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PEACH SODA",
+    "originalDescription": "A regular PEACH SODA.<br>\nHeals 60% of JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 54,
@@ -1465,7 +1715,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BUTT PEACH SODA",
+    "originalDescription": "An irregular PEACH SODA.<br>\nHeals 61% of JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 55,
@@ -1491,7 +1746,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ORANGE JUICE",
+    "originalDescription": "Apparently better than APPLE JUICE.<br>\nHeals 100 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 56,
@@ -1517,7 +1777,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PINEAPPLE JUICE",
+    "originalDescription": "Painful... Why do you drink it?<br>\nHeals 150 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 57,
@@ -1543,7 +1808,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GRAPE SODA",
+    "originalDescription": "Objectively the best soda.<br>\nHeals 80% of JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 58,
@@ -1569,7 +1839,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BANANA SMOOTHIE",
+    "originalDescription": "A little bland, but it does the job.<br>\nHeals 20 JUICE to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 59,
@@ -1595,7 +1870,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MANGO SMOOTHIE",
+    "originalDescription": "Makes you tango!<br>\nHeals 40 JUICE to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 60,
@@ -1621,7 +1901,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BERRY SMOOTHIE",
+    "originalDescription": "A healthy smoothie that tastes like<br>\ndirt. Heals 60 JUICE to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 61,
@@ -1647,7 +1932,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MELON SMOOTHIE",
+    "originalDescription": "Chunky green melon goodness.<br>\nHeals 80 JUICE to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 62,
@@ -1673,7 +1963,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "S.BERRY SMOOTHIE",
+    "originalDescription": "The default smoothie.<br>\nHeals 100 JUICE to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 63,
@@ -1699,7 +1994,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WATERMELON JUICE",
+    "originalDescription": "Heavenly nectar.<br>\nFully heals a friend's JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 64,
@@ -1725,7 +2025,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DINO MELON SODA",
+    "originalDescription": "Melon soda in a dino-shaped bottle.<br>\nFully heals a friend's JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 65,
@@ -1751,7 +2056,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DINO SMOOTHIE",
+    "originalDescription": "Berry smoothie in a dino-shaped cup.<br>\nHeals 150 JUICE to all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 66,
@@ -1777,7 +2087,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BOTTLED WATER",
+    "originalDescription": "Water in a bottle.<br>\nHeals 100 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 67,
@@ -1803,7 +2118,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FRUIT JUICE?",
+    "originalDescription": "You are not sure what fruit it is.<br>\nHeals 75 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 68,
@@ -1829,7 +2149,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PRUNE JUICE",
+    "originalDescription": "This tastes horrible. Don't drink it.<br>\nHeals 30 JUICE... probably.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 69,
@@ -1855,7 +2180,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ROTTEN MILK",
+    "originalDescription": "This is bad. Don't drink it.<br>\nHeals 10 JUICE + ???",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 70,
@@ -1881,7 +2211,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MILK",
+    "originalDescription": "Good for your bones. Heals 10 JUICE\nand increases DEFENSE for the battle.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 71,
@@ -1933,7 +2268,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//TOYS//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 73,
@@ -1959,7 +2299,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CAN",
+    "originalDescription": "Recyclable material.<br>\nGive to RECYCLE MACHINE for 5 CLAMS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 74,
@@ -1985,7 +2330,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GLASS BOTTLE",
+    "originalDescription": "Recyclable material.<br>\nGive to RECYCLE MACHINE for 10 CLAMS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 75,
@@ -2011,7 +2361,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CARDBOARD",
+    "originalDescription": "Recyclable material.<br>\nGive to RECYCLE MACHINE for 15 CLAMS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 76,
@@ -2037,7 +2392,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DEAD BATTERIES",
+    "originalDescription": "Recyclable material.<br>\nGive to RECYCLE MACHINE for 20 CLAMS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 77,
@@ -2063,7 +2423,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COMPUTER PART",
+    "originalDescription": "Recyclable material.<br>\nGive to RECYCLE MACHINE for 25 CLAMS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 78,
@@ -2076,7 +2441,7 @@
       "type": 1,
       "variance": 0
     },
-    "description": "㉆㈧㉈㈉㈌㈍㈄\\}<br>\n㉹㈡㉆㈧㈖㈨㈉㉫㉱㑓㈑㈍㈄",
+    "description": "㉆㈧㉈㈉㈌㈍㈄\\}<br>㉹㈡㉆㈧㈖㈨㈉㉫㉱㑓㈑㈍㈄",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -2089,7 +2454,12 @@
     "scope": 2,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㈛㉀㈼",
+    "originalDescription": "㉆㈧㉈㈉㈑㈍㈄<br>\n㉹㈡㉆㈧㈖㈨㈉㉫㉱㑓㈑㈍㈄",
+    "nameLasina": "kiwen nena mute",
+    "descriptionLasina": "ona li pakala e ijo ike ale /*\\}<br>*/ \nkin la ona li kama lili e tenpo utala pi[jan ike ale]",
+    "parsed": true
   },
   {
     "id": 79,
@@ -2115,7 +2485,12 @@
     "scope": 1,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RUBBER BAND",
+    "originalDescription": "Deals damage to a foe and reduces<br>\ntheir DEFENSE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 80,
@@ -2141,7 +2516,12 @@
     "scope": 2,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DYNAMITE",
+    "originalDescription": "Actually dangerous...<br>\nDeals heavy damage to all foes.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 81,
@@ -2167,7 +2547,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SPARKLER",
+    "originalDescription": "Little fires.<br>\nInflicts HAPPY on a friend or foe.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 82,
@@ -2193,7 +2578,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CONFETTI",
+    "originalDescription": "Small squares of colorful paper.<br>\nInflicts HAPPY on all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 83,
@@ -2219,7 +2609,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "POETRY BOOK",
+    "originalDescription": "Sad words strung together.<br>\nInflicts SAD on a friend or foe.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 84,
@@ -2245,7 +2640,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RAIN CLOUD",
+    "originalDescription": "Angsty water droplets.<br>\nInflicts SAD on all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 85,
@@ -2258,7 +2658,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "㉞㉷㈉㉌㈆㊉㊉㊉\\}<br>\n㈑㉔㉳㈇㈌㈍㉳㈧㈖㉎㉱",
+    "description": "㉞㉷㈉㉌㈆㊉㊉㊉\\}<br>㈑㉔㉳㈇㈌㈍㉳㈧㈖㉎㉱",
     "effects": [],
     "hitType": 0,
     "iconIndex": 0,
@@ -2271,7 +2671,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㉌",
+    "originalDescription": "㉞㉷㈉㉌㈆㊉㊉㊉<br>\n㉆㈧㈖㉎㉱㈉㈑㉔㉳㈇㈌㈍㉳",
+    "nameLasina": "pana",
+    "descriptionLasina": "sina wile e pana ante · · · /*\\}<br>*/\njan pona wan anu ijo ike wan li kama pilin utala",
+    "parsed": true
   },
   {
     "id": 86,
@@ -2297,7 +2702,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "AIR HORN",
+    "originalDescription": "Who would invent this!?\nInflicts ANGER on all friends.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 87,
@@ -2323,7 +2733,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DANDELION",
+    "originalDescription": "Has a calming effect.\nRemoves EMOTION from a friend or foe.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 88,
@@ -2356,7 +2771,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MUSH",
+    "originalDescription": "Can't wait to be eaten!<br>\nMakes a friend slightly stronger.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 89,
@@ -2389,7 +2809,12 @@
     "scope": 9,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LIFE JAM",
+    "originalDescription": "Infused with the spirit of life.<br>\nRevives a friend that is TOAST.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 90,
@@ -2441,7 +2866,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COFFEE",
+    "originalDescription": "Bitter bean juice.<br>\nIncreases a friend's SPEED.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 92,
@@ -2474,7 +2904,12 @@
     "scope": 9,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DINO JAM",
+    "originalDescription": "Infused with the spirit of dino life.<br>\nFully revives a friend that is TOAST.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 93,
@@ -2507,7 +2942,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MYSTERY POTION",
+    "originalDescription": "A questionable potion made for OMORI.\nCan only be used underwater.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 94,
@@ -2533,7 +2973,12 @@
     "scope": 1,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BIG RUBBER BAND",
+    "originalDescription": "Deals big damage to a foe and<br>\nreduces their DEFENSE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 95,
@@ -2559,7 +3004,12 @@
     "scope": 0,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PEARL",
+    "originalDescription": "Pretty calcium that's used in jewelry.<br>\nCan be sold for CLAMS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 96,
@@ -2585,7 +3035,12 @@
     "scope": 10,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "JAM PACKETS",
+    "originalDescription": "Infused with the spirit of life.<br>\nRevives all friends that are TOAST.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 97,
@@ -2689,7 +3144,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//FAR AWAY TOWN//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 101,
@@ -2722,7 +3182,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DONUT",
+    "originalDescription": "Circular bread with a hole in it.<br>\n",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 102,
@@ -2755,7 +3220,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CANDY",
+    "originalDescription": "A child's favorite food. Sweet!<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 103,
@@ -2788,7 +3258,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SALAD",
+    "originalDescription": "Grass in a bowl.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 104,
@@ -2821,7 +3296,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BREAD",
+    "originalDescription": "A slice of bread.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 105,
@@ -2854,7 +3334,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHOCOLATE",
+    "originalDescription": "Chocolate!? Yes. Chocolate.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 106,
@@ -2887,7 +3372,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PIZZA SLICE",
+    "originalDescription": "1/8th of a WHOLE PIZZA.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 107,
@@ -2920,7 +3410,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "HERO SANDWICH",
+    "originalDescription": "HERO's favorite food.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 108,
@@ -2953,7 +3448,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CARAMEL APPLE",
+    "originalDescription": "Apples dipped in caramel. Half healthy.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 109,
@@ -2986,7 +3486,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WHOLE PIZZA",
+    "originalDescription": "8/8ths of a WHOLE PIZZA.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 110,
@@ -3019,7 +3524,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PIE",
+    "originalDescription": "Crust with stuffing.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 111,
@@ -3052,7 +3562,12 @@
     "scope": 0,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BIG BAG OF CANDY",
+    "originalDescription": "Every kid's dream... It can also be used<br>\nas a form of bribery. Contains taffy.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 112,
@@ -3085,7 +3600,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SLICE OF CAKE",
+    "originalDescription": "A slice of celebratory frosted bread.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 113,
@@ -3111,7 +3631,12 @@
     "scope": 7,
     "speed": 1000,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BANDAGE",
+    "originalDescription": "From OTHERMART PHARMACY.\nHeals 50 HEART.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 114,
@@ -3137,7 +3662,12 @@
     "scope": 7,
     "speed": 1000,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FIRST AID KIT",
+    "originalDescription": "From OTHERMART PHARMACY.\nHeals 150 HEART.",
+    "nameLasina": "poki misikeke",
+    "descriptionLasina": "ona li tan te esun misikeke [esun : ante :] _ to",
+    "parsed": true
   },
   {
     "id": 115,
@@ -3170,7 +3700,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "HAMBURGER",
+    "originalDescription": "A CHEESEBURGER without the cheese.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 116,
@@ -3196,7 +3731,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MEAT",
+    "originalDescription": "Used for making HAMBURGERS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 117,
@@ -3222,7 +3762,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FISH",
+    "originalDescription": "A cat's favorite food.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 118,
@@ -3255,7 +3800,12 @@
     "scope": 1,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PEPPER SPRAY",
+    "originalDescription": "For self-defense only.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 119,
@@ -3281,7 +3831,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//JUICE RESTORING //",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 120,
@@ -3314,7 +3869,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TASTY SODA",
+    "originalDescription": "Tasty soda for thirsty people.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 121,
@@ -3347,7 +3907,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ORANGE JOE",
+    "originalDescription": "KEL's favorite soda. Orange-flavored\ncoffee.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 122,
@@ -3380,7 +3945,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "APPLE JUICE",
+    "originalDescription": "Apparently better than ORANGE JUICE.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 123,
@@ -3413,7 +3983,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ORANGE JUICE",
+    "originalDescription": "Apparently better than APPLE JUICE.<br>",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 124,
@@ -3446,7 +4021,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COFFEE",
+    "originalDescription": "Bitter bean juice.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 125,
@@ -3479,7 +4059,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SMALL SKETCH",
+    "originalDescription": "A gift from MINCY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 126,
@@ -3505,7 +4090,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "// IMPORTANT ITEMS //",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 127,
@@ -3531,7 +4121,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//DW MAIN QUESTS//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 128,
@@ -3544,7 +4139,7 @@
       "type": 0,
       "variance": 0
     },
-    "description": "A journal for keeping track of foes!",
+    "description": "㉞㉱㈉㈌㈡㉞㈘㈮㈉㉆㈬㈪㉁㈀",
     "effects": [
       {
         "code": 44,
@@ -3556,7 +4151,7 @@
     "hitType": 0,
     "iconIndex": 0,
     "itypeId": 2,
-    "name": "FOE FACTS!",
+    "name": "㈪㉡㑒㈌㈍",
     "note": "<IconIndex:27>\n<Bestiary>\n<AntiFail>\n<NoTarget>\n\n<ItemPriority: 2>",
     "occasion": 2,
     "price": 0,
@@ -3564,7 +4159,12 @@
     "scope": 0,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㈪㉡㑒㈌㈍",
+    "originalDescription": "㉞㉱㈉㈌㈡㉞㈘㈮㈉㉆㈬㈪㉁㈀",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 129,
@@ -3590,7 +4190,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "JUNKYARD KEY",
+    "originalDescription": "A key to the JUNKYARD.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 130,
@@ -3616,7 +4221,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SPECIAL MIXTAPE",
+    "originalDescription": "Rightfully belongs to SPACE BOYFRIEND.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 131,
@@ -3642,7 +4252,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SHOW TICKETS",
+    "originalDescription": "Front-row tickets to an electrifying show.<br>\nThe best seats in the house!",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 132,
@@ -3668,7 +4283,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COOL KEY CARD",
+    "originalDescription": "Gives employee-only access to the<br>\n5TH floor of LAST RESORT.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 133,
@@ -3694,7 +4314,12 @@
     "scope": 0,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "V.I.P. KEY CARD",
+    "originalDescription": "Cooler than the COOL KEY CARD.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 134,
@@ -3720,7 +4345,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WOODEN TRACK",
+    "originalDescription": "Can be used to complete railroads.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 135,
@@ -3746,7 +4376,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SLIMY KEY CARD",
+    "originalDescription": "Used to go deeper into HUMPHREY's<br>\nmouth... again. Just a formality.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 136,
@@ -3759,7 +4394,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A guide all about EMOTIONS, drawn by HERO.\nWow...",
+    "description": "㈪㉁㈧㈓㈉㈿㉎ㇱ㈑㐢㉵㊊㐓㈧㉠㈉㉆<br>\n㉵㈀㊉㊉㊉",
     "effects": [
       {
         "code": 44,
@@ -3771,7 +4406,7 @@
     "hitType": 0,
     "iconIndex": 0,
     "itypeId": 2,
-    "name": "EMOTION CHART",
+    "name": "㈪㑒㈿㉎",
     "note": "<IconIndex:115>\n<NoTarget>\n\n<ItemPriority: 1>",
     "occasion": 2,
     "price": 0,
@@ -3779,7 +4414,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㈪㑒㈿㉎",
+    "originalDescription": "㈪㉁㈧㈓㈉㈿㉎ㇱ㈑㐢㉵㊊㐓㈧㉠㈉㉆<br>\n㉵㈀㊉㊉㊉",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 137,
@@ -3805,7 +4445,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//FA MAIN QUESTS//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 138,
@@ -3831,7 +4476,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COLD STEAK",
+    "originalDescription": "Needs to be heated up in the microwave.",
+    "nameLasina": "moku soweli lete",
+    "descriptionLasina": "sina wile seli e ona kepeken ilo seli",
+    "parsed": true
   },
   {
     "id": 139,
@@ -3857,7 +4507,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LUKEWARM STEAK",
+    "originalDescription": "Half-hot, half-cold.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 140,
@@ -3883,7 +4538,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "HERO’S GIFT",
+    "originalDescription": "\"PAPA CHIP'S CHIP-OFF-THE-OLD-BLOCK <br>\nCOOKBOOK\". Wow, that's a mouthful.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 141,
@@ -3909,7 +4569,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "\"PIZZA\" ORDER",
+    "originalDescription": "An order for a HERO SANDWICH...<br>\ninstead of PIZZA...",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 142,
@@ -3935,7 +4600,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BAKERY ORDER",
+    "originalDescription": "An order for delicious cookies from<br>\nOTHERMART BAKERY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 143,
@@ -3961,7 +4631,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "HOMECOOKED MEAL",
+    "originalDescription": "It's cold... Needs to be microwaved.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 144,
@@ -3987,7 +4662,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MICROWAVED MEAL",
+    "originalDescription": "Ah, yes... Dinner is ready.",
+    "nameLasina": "moku soweli seli",
+    "descriptionLasina": "a _ pona  _ tenpo ni la sina ken moku",
+    "parsed": true
   },
   {
     "id": 145,
@@ -4039,7 +4719,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TOY BOX KEY",
+    "originalDescription": "The key to the truth.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 147,
@@ -4143,7 +4828,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "// BS/CROSSROADS //",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 151,
@@ -4169,7 +4859,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LIGHT BULB",
+    "originalDescription": "Will reveal the truth.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 152,
@@ -4221,7 +4916,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TOY BOX KEY",
+    "originalDescription": "The key to the truth.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 154,
@@ -4325,7 +5025,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SHEET MUSIC",
+    "originalDescription": "Sheet music for your last recital.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 158,
@@ -4351,7 +5056,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FLOWER CROWN",
+    "originalDescription": "Belongs to BASIL.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 159,
@@ -4403,7 +5113,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "// DW SIDE QUEST //",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 161,
@@ -4429,7 +5144,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "JOKE BOOK",
+    "originalDescription": "Jokes can be recorded in here.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 162,
@@ -4455,7 +5175,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BIG AIRHORN",
+    "originalDescription": "For waking up a sleepy SPROUT MOLE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 163,
@@ -4481,7 +5206,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "B.E.D.",
+    "originalDescription": "A.K.A. The BETTER EXHAUSTION <br>\nDESTROYER.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 164,
@@ -4507,7 +5237,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BLACKMAIL",
+    "originalDescription": "Contains details of ROSA's dark past.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 165,
@@ -4540,7 +5275,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "STRANGE LIST",
+    "originalDescription": "A strange list from a strange girl.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 166,
@@ -4566,7 +5306,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "INTERESTING BOOK",
+    "originalDescription": "It's... interesting.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 167,
@@ -4592,7 +5337,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "THINGAMABOB",
+    "originalDescription": "Not sure what this is...<br>\nFor TVGIRL.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 168,
@@ -4618,7 +5368,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WHATCHAMACALLIT",
+    "originalDescription": "Not sure what this is...<br>\nFor TVGIRL.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 169,
@@ -4644,7 +5399,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DOOHICKEY",
+    "originalDescription": "Not sure what this is...<br>\nFor TVGIRL.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 170,
@@ -4670,7 +5430,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CARE PACKAGE",
+    "originalDescription": "To be delivered to SPROUT MOLE COLONY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 171,
@@ -4696,7 +5461,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GIANT CHECK",
+    "originalDescription": "A check for 1000000 CLAMS. Wow...",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 172,
@@ -4722,7 +5492,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SPOOKY MAP",
+    "originalDescription": "Points the way to a ghoulish feast.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 173,
@@ -4748,7 +5523,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BATTERIES",
+    "originalDescription": "Lifeforce.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 174,
@@ -4774,7 +5554,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ORANGE CREST",
+    "originalDescription": "A sacred family crest.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 175,
@@ -4826,7 +5611,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TEDDY BEAR",
+    "originalDescription": "CANDLIE's lost friend.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 177,
@@ -4852,7 +5642,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RAT MEAT",
+    "originalDescription": "Used to make MARINA's new body.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 178,
@@ -4878,7 +5673,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SNOT",
+    "originalDescription": "Used to make MEDUSA's new body.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 179,
@@ -4904,7 +5704,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SCRAP METAL",
+    "originalDescription": "Used to make MOLLY's new body.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 180,
@@ -4930,7 +5735,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "THANK-YOU FOSSIL",
+    "originalDescription": "A fossilized thank-you card.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 181,
@@ -4963,7 +5773,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PESSI'S THING",
+    "originalDescription": "Should we be looking at this?",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 182,
@@ -5067,7 +5882,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "POTATO SPOON",
+    "originalDescription": "A big spoon made from potatoes.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 186,
@@ -5093,7 +5913,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PLASTIC SPOON",
+    "originalDescription": "A big spoon made from plastic.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 187,
@@ -5119,7 +5944,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "WOODEN SPOON",
+    "originalDescription": "A big spoon made from wood.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 188,
@@ -5145,7 +5975,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SILVER SPOON",
+    "originalDescription": "A big spoon made from silver.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 189,
@@ -5204,7 +6039,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BUTT CERTIFICATE",
+    "originalDescription": "Proof AUBREY has a hard head.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 191,
@@ -5230,7 +6070,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FLOWER PUZZLE",
+    "originalDescription": "A perfect combination of flower and puzzle.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 192,
@@ -5263,7 +6108,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ANCIENT CODE",
+    "originalDescription": "A mysterious code... What could it mean?",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 193,
@@ -5315,7 +6165,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "// FAT SIDE QUEST //",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 195,
@@ -5341,7 +6196,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SEASHELL",
+    "originalDescription": "She sells sea shores by the seashells.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 196,
@@ -5367,7 +6227,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RARE CARD",
+    "originalDescription": "There are only four of its kind.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 197,
@@ -5400,7 +6265,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SMALL SKETCH",
+    "originalDescription": "A gift from MINCY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 198,
@@ -5426,7 +6296,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "NOSTALGIC CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 199,
@@ -5452,7 +6327,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CELESTIAL CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 200,
@@ -5478,7 +6358,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MERRY CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 201,
@@ -5504,7 +6389,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DEVILISH CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 202,
@@ -5530,7 +6420,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "OTHERWORLDLY CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 203,
@@ -5556,7 +6451,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LIVELY CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 204,
@@ -5582,7 +6482,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BRUTAL CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 205,
@@ -5608,7 +6513,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ETHEREAL CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 206,
@@ -5634,7 +6544,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GHOULISH CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 207,
@@ -5660,7 +6575,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TRANQUIL CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 208,
@@ -5686,7 +6606,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CHILL CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 209,
@@ -5712,7 +6637,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DYNAMIC CD",
+    "originalDescription": "Can be played at a JUKEBOX.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 210,
@@ -5738,7 +6668,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SECRET CD",
+    "originalDescription": "It's a secret.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 211,
@@ -5764,7 +6699,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TRASH",
+    "originalDescription": "Smelly and gross!",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 212,
@@ -5790,7 +6730,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BUBBLE WRAP",
+    "originalDescription": "Therapeutic packaging.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 213,
@@ -5816,7 +6761,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ARCADE PIECE",
+    "originalDescription": "A gift from a stray cat.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 214,
@@ -5842,7 +6792,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FLOWER CLIP",
+    "originalDescription": "A gift from CHARLIE.\nSHOULD BE EQUIP.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 215,
@@ -5868,7 +6823,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PRESCRIPTION",
+    "originalDescription": "Refill at the PHARMACY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 216,
@@ -5894,7 +6854,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 1
+    "tpGain": 1,
+    "originalName": "ID CARD",
+    "originalDescription": "Belongs to YELLOW BUN GRANNY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 217,
@@ -5920,7 +6885,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LUNCHBOX",
+    "originalDescription": "A homemade gift for GUITAR GUY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 218,
@@ -5946,7 +6916,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LETTER FOR DAD",
+    "originalDescription": "A gift for THICK EYEBROWS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 219,
@@ -5972,7 +6947,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GARDEN SHEARS",
+    "originalDescription": "Return to RED GLASSES LADY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 220,
@@ -6005,7 +6985,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GREEN FLYER",
+    "originalDescription": "“Looking for a local math tutor<br>\nfor my son, BRENT!\\! $20.00 a day!\"",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 221,
@@ -6038,7 +7023,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BLUE FLYER",
+    "originalDescription": "\"Looking for a local language tutor<br>\nfor my daughter, JOY! $20.00 a day!\"",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 222,
@@ -6064,7 +7054,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TV REMOTE",
+    "originalDescription": "Prone to getting lost.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 223,
@@ -6090,7 +7085,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GRANNY'S MEDICINE",
+    "originalDescription": "For YELLOW BUN GRANNY.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 224,
@@ -6116,7 +7116,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FLOOR LAMP",
+    "originalDescription": "A stylish lamp for a FASHIONABLE MOM.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 225,
@@ -6142,7 +7147,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FLOWERS",
+    "originalDescription": "For important people.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 226,
@@ -6168,7 +7178,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MISSING TEETH",
+    "originalDescription": "Someone is probably really missing these.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 227,
@@ -6194,7 +7209,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COIN",
+    "originalDescription": "Used to make wishes.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 228,
@@ -6532,7 +7552,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "//DW MAIN QUESTS//",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 241,
@@ -6558,7 +7583,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SPROUT MOLE MASKS",
+    "originalDescription": "Masks made of SPROUT MOLES.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 242,
@@ -6584,7 +7614,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MATCHBOX",
+    "originalDescription": "Used to light candles.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 243,
@@ -6617,7 +7652,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BAD DRAWING",
+    "originalDescription": "Who... or what is this supposed to be?",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 244,
@@ -6643,7 +7683,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "CLEMS",
+    "originalDescription": "The currency of the future...",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 245,
@@ -6702,7 +7747,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RECIPE 4 DISASTER",
+    "originalDescription": "A most disastrous recipe.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 247,
@@ -6728,7 +7778,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SHEET MUSIC",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 248,
@@ -6754,7 +7809,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PYRAMID KEY",
+    "originalDescription": "Used to open up gates in DINO'S DIG.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 249,
@@ -6787,7 +7847,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TREASURE MAP",
+    "originalDescription": "\"X\" marks the spot.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 250,
@@ -6813,7 +7878,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TRAIN PASS",
+    "originalDescription": "Can be used at the TRAIN STATION.<br>\nGrants unlimited train rides!",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 251,
@@ -6839,7 +7909,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SNO-CONE TICKET",
+    "originalDescription": "Can be used at a SNO-CONE machine.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 252,
@@ -6865,7 +7940,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ACTUAL MOLE",
+    "originalDescription": "WHAT IN TARNATION!?",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 253,
@@ -6904,7 +7984,7 @@
       "type": 0,
       "variance": 20
     },
-    "description": "A book all about battles, written by HERO.\nWow...",
+    "description": "㈪㉁㈧㈓㈉㈿㉱ㇱ㈑㐢㉵㊊㐓㈧㉠㈉㉆<br>\n㉵㈀㊉㊉㊉",
     "effects": [
       {
         "code": 44,
@@ -6916,7 +7996,7 @@
     "hitType": 0,
     "iconIndex": 0,
     "itypeId": 2,
-    "name": "SELF-HELP GUIDE",
+    "name": "㈪㑒㈿㉱",
     "note": "<IconIndex:2>\n<NoTarget>\n\n<ItemPriority: 1>",
     "occasion": 2,
     "price": 0,
@@ -6924,7 +8004,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "㈪㑒㈿㉱",
+    "originalDescription": "㈪㉁㈧㈓㈉㈿㉱ㇱ㈑㐢㉵㊊㐓㈧㉠㈉㉆<br>\n㉵㈀㊉㊉㊉",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 255,
@@ -7763,7 +8848,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TOMATO (BACKUP)",
+    "originalDescription": "You say tomato, I say tomato.<br>\nHeals 100 HEART and 50 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 287,
@@ -7796,7 +8886,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "COMBO MEAL (BACKUP)",
+    "originalDescription": "What more could you ask for?<br>\nHeals 250 HEART and 100 JUICE.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 288,
@@ -10760,7 +11855,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "MIXTAPE",
+    "originalDescription": "A mixtape.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 402,
@@ -10994,7 +12094,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "SUGAR",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 411,
@@ -11020,7 +12125,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ALL-PURPOSE FLOUR",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 412,
@@ -11046,7 +12156,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GARDEN SOIL",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 413,
@@ -11072,7 +12187,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "STRAWBERRIES",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 414,
@@ -11098,7 +12218,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PINEBERRIES",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 415,
@@ -11124,7 +12249,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BOTTLES OF FRUIT JUICE",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 416,
@@ -11150,7 +12280,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "STICK OF BUTTER",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 417,
@@ -11176,7 +12311,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "JAR OF PICKLES",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 418,
@@ -11202,7 +12342,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BLUE FISH",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 419,
@@ -11228,7 +12373,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "EGG",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 420,
@@ -11254,7 +12404,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "LEATHER SHOE",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 421,
@@ -11280,7 +12435,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "ROAST CHICKEN",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 422,
@@ -18534,7 +19694,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "TWENTY DOLLARS",
+    "originalDescription": "It's TWENTY DOLLARS.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 701,
@@ -18560,7 +19725,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "☐☐☐",
+    "originalDescription": "☐☐☐☐☐☐☐☐☐ ☐☐☐ ☐☐☐",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 702,
@@ -18586,7 +19756,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "☐☐ ☐☐",
+    "originalDescription": "☐☐ ☐☐☐☐ ☐☐ ☐☐☐☐ ☐☐",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 703,
@@ -18612,7 +19787,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "'KEY' INGREDIENT",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 704,
@@ -21134,7 +22314,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "YELLOW KEYCHAIN",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 801,
@@ -21160,7 +22345,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GREEN KEYCHAIN",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 802,
@@ -21186,7 +22376,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PINK KEYCHAIN",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 803,
@@ -21212,7 +22407,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "AMAZING KEYCHAIN",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 804,
@@ -21238,7 +22438,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PURPLE BALL",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 805,
@@ -21264,7 +22469,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PINK BALL",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 806,
@@ -21290,7 +22500,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GREEN BALL",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 807,
@@ -21316,7 +22531,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "RED HAND",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 808,
@@ -21342,7 +22562,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GREEN HAND",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 809,
@@ -21368,7 +22593,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PURPLE HAND",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 810,
@@ -21394,7 +22624,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "GREEN SLINKY",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 811,
@@ -21420,7 +22655,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BLUE SLINKY",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 812,
@@ -21446,7 +22686,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "YELLOW SLINKY",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 813,
@@ -22434,7 +23679,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter A",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 851,
@@ -22460,7 +23710,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter B",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 852,
@@ -22486,7 +23741,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter C",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 853,
@@ -22512,7 +23772,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter D",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 854,
@@ -22538,7 +23803,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter E",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 855,
@@ -22564,7 +23834,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter F",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 856,
@@ -22590,7 +23865,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter G",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 857,
@@ -22616,7 +23896,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter H",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 858,
@@ -22642,7 +23927,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter I",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 859,
@@ -22668,7 +23958,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter J",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 860,
@@ -22694,7 +23989,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter K",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 861,
@@ -22720,7 +24020,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter L",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 862,
@@ -22746,7 +24051,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter M",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 863,
@@ -22772,7 +24082,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter N",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 864,
@@ -22798,7 +24113,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter O",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 865,
@@ -22824,7 +24144,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter P",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 866,
@@ -22850,7 +24175,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter Q",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 867,
@@ -22876,7 +24206,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter R",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 868,
@@ -22902,7 +24237,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter S",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 869,
@@ -22928,7 +24268,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter T",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 870,
@@ -22954,7 +24299,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter U",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 871,
@@ -22980,7 +24330,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter V",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 872,
@@ -23006,7 +24361,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter W",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 873,
@@ -23032,7 +24392,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter X",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 874,
@@ -23058,7 +24423,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter Y",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 875,
@@ -23084,7 +24454,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Blackletter Z",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 876,
@@ -23117,7 +24492,12 @@
     "scope": 11,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Dreamworld Album (Hidden)",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 877,
@@ -23143,7 +24523,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 878,
@@ -23169,7 +24554,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 2",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 879,
@@ -23195,7 +24585,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 3",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 880,
@@ -23221,7 +24616,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 4",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 881,
@@ -23247,7 +24647,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 5",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 882,
@@ -23273,7 +24678,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 6",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 883,
@@ -23299,7 +24709,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 7",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 884,
@@ -23325,7 +24740,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 8",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 885,
@@ -23351,7 +24771,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 9",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 886,
@@ -23377,7 +24802,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 10",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 887,
@@ -23403,7 +24833,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 11",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 888,
@@ -23429,7 +24864,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 12",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 889,
@@ -23455,7 +24895,12 @@
     "scope": 11,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BlackSpace Album (Hidden)",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 890,
@@ -23481,7 +24926,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 891,
@@ -23507,7 +24957,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 2",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 892,
@@ -23533,7 +24988,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 3",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 893,
@@ -23559,7 +25019,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 4",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 894,
@@ -23585,7 +25050,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 5",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 895,
@@ -23611,7 +25081,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 6",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 896,
@@ -23637,7 +25112,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 7",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 897,
@@ -23663,7 +25143,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 8",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 898,
@@ -23689,7 +25174,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 9",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 899,
@@ -23715,7 +25205,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 10",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 900,
@@ -23741,7 +25236,12 @@
     "scope": 7,
     "speed": -2,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 11",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 901,
@@ -23767,7 +25267,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 12",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 902,
@@ -23793,7 +25298,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 13",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 903,
@@ -23819,7 +25329,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 14",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 904,
@@ -23845,7 +25360,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 15",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 905,
@@ -23871,7 +25391,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 16",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 906,
@@ -23897,7 +25422,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 17",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 907,
@@ -23923,7 +25453,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 18",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 908,
@@ -23949,7 +25484,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 19",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 909,
@@ -23975,7 +25515,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 20",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 910,
@@ -24001,7 +25546,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 21",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 911,
@@ -24027,7 +25577,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 22",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 912,
@@ -24053,7 +25608,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 23",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 913,
@@ -24079,7 +25639,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BS Polaroid 24",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 914,
@@ -24105,7 +25670,12 @@
     "scope": 11,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "Faraway Album (Hidden)",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 915,
@@ -24131,7 +25701,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 916,
@@ -24157,7 +25732,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 2",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 917,
@@ -24183,7 +25763,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 3",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 918,
@@ -24209,7 +25794,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 4",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 919,
@@ -24235,7 +25825,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 5",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 920,
@@ -24261,7 +25856,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 6",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 921,
@@ -24287,7 +25887,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 7",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 922,
@@ -24313,7 +25918,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 8",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 923,
@@ -24339,7 +25949,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 9",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 924,
@@ -24365,7 +25980,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 10",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 925,
@@ -24391,7 +26011,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 11",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 926,
@@ -24417,7 +26042,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 12",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 927,
@@ -24443,7 +26073,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 13",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 928,
@@ -24469,7 +26104,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 14",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 929,
@@ -24495,7 +26135,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 15",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 930,
@@ -24521,7 +26166,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 16",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 931,
@@ -24547,7 +26197,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 17",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 932,
@@ -24573,7 +26228,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 18",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 933,
@@ -24599,7 +26259,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 19",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 934,
@@ -24625,7 +26290,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 20",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 935,
@@ -24651,7 +26321,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 21",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 936,
@@ -24677,7 +26352,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 22",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 937,
@@ -24703,7 +26383,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 23",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 938,
@@ -24729,7 +26414,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 24",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 939,
@@ -24755,7 +26445,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 25",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 940,
@@ -24781,7 +26476,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 26",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 941,
@@ -24807,7 +26507,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 27",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 942,
@@ -24833,7 +26538,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 28",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 943,
@@ -24859,7 +26569,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 29",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 944,
@@ -24885,7 +26600,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 30",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 945,
@@ -24911,7 +26631,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 31",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 946,
@@ -24937,7 +26662,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 32",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 947,
@@ -24963,7 +26693,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 33",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 948,
@@ -24989,7 +26724,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 34",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 949,
@@ -25015,7 +26755,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 35",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 950,
@@ -25041,7 +26786,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 36",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 951,
@@ -25067,7 +26817,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 37",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 952,
@@ -25093,7 +26848,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 38",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 953,
@@ -25119,7 +26879,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 39",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 954,
@@ -25145,7 +26910,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 40",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 955,
@@ -25171,7 +26941,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 41",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 956,
@@ -25197,7 +26972,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 42",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 957,
@@ -25223,7 +27003,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 43",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 958,
@@ -25249,7 +27034,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 44",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 959,
@@ -25275,7 +27065,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 45",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 960,
@@ -25301,7 +27096,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 46",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 961,
@@ -25327,7 +27127,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 47",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 962,
@@ -25353,7 +27158,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 48",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 963,
@@ -25379,7 +27189,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "DW Polaroid 13",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 964,
@@ -25412,7 +27227,12 @@
     "scope": 11,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "BLURRY PHOTO",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 965,
@@ -25471,7 +27291,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PHOTO ALBUM",
+    "originalDescription": "BASIL's most precious belonging.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 967,
@@ -25504,7 +27329,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PHOTO ALBUM",
+    "originalDescription": "BASIL's most precious belonging.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 968,
@@ -25537,7 +27367,12 @@
     "scope": 8,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "PHOTO ALBUM",
+    "originalDescription": "BASIL's most precious belonging.",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 969,
@@ -25589,7 +27424,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 1",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 971,
@@ -25615,7 +27455,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 4",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 972,
@@ -25641,7 +27486,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 5",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 973,
@@ -25667,7 +27517,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 8",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 974,
@@ -25693,7 +27548,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 9",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 975,
@@ -25719,7 +27579,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 10",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 976,
@@ -25745,7 +27610,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 11",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 977,
@@ -25771,7 +27641,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 12",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 978,
@@ -25797,7 +27672,12 @@
     "scope": 7,
     "speed": -1,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 16",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 979,
@@ -25823,7 +27703,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 18",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 980,
@@ -25849,7 +27734,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 19",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 981,
@@ -25875,7 +27765,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 20",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 982,
@@ -25901,7 +27796,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 21",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 983,
@@ -25927,7 +27827,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 22",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 984,
@@ -25953,7 +27858,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 25",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 985,
@@ -25979,7 +27889,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 26",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 986,
@@ -26005,7 +27920,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 27",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 987,
@@ -26031,7 +27951,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 31",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 988,
@@ -26057,7 +27982,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 32",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 989,
@@ -26083,7 +28013,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 33",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 990,
@@ -26109,7 +28044,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 34",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 991,
@@ -26135,7 +28075,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 35",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 992,
@@ -26161,7 +28106,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 38",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 993,
@@ -26187,7 +28137,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 43",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 994,
@@ -26213,7 +28168,12 @@
     "scope": 7,
     "speed": 0,
     "successRate": 100,
-    "tpGain": 0
+    "tpGain": 0,
+    "originalName": "FA Polaroid 44",
+    "originalDescription": "",
+    "nameLasina": "",
+    "descriptionLasina": "",
+    "parsed": true
   },
   {
     "id": 995,
